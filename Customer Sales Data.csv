@@ -1,0 +1,1001 @@
+order_id,customer_id,product_id,customer_name,segment,category,sub_category,amount,profit,quantity,order_date,ship_date,ship_mode,payment_mode,country,city,state
+CA-2018-115812,BH-11710,FUR-TA-10001539,Uudhav,Consumer,Clothing,Hankerchief,231,-190,9,6/9/2018,6/14/2018,Second Class,COD,United States,Henderson,Kentucky
+CA-2018-115812,BH-11710,TEC-PH-10002033,Shreyshi,Consumer,Electronics,Printers,2125,-234,6,6/9/2018,6/14/2018,Second Class,EMI,United States,Henderson,Kentucky
+CA-2021-114412,AA-10480,OFF-PA-10002365,Bhishm,Consumer,Electronics,Phones,3873,-891,6,4/15/2021,4/20/2021,Standard Class,Credit Card,United States,Los Angeles,California
+CA-2020-161389,IM-15070,OFF-BI-10003656,Yogesh,Consumer,Furniture,Bookcases,729,-492,5,12/5/2020,12/10/2020,Standard Class,UPI,United States,Fort Lauderdale,Florida
+US-2019-118983,HP-14815,OFF-AP-10002311,Lalita,Home Office,Furniture,Bookcases,2188,1050,5,11/22/2019,11/26/2019,Standard Class,Credit Card,United States,Fort Lauderdale,Florida
+US-2019-118983,HP-14815,OFF-BI-10000756,Madhav,Home Office,Clothing,Hankerchief,6,-3,1,11/22/2019,11/26/2019,Standard Class,UPI,United States,Los Angeles,California
+CA-2018-105893,PK-19075,OFF-ST-10004186,Vishakha,Consumer,Furniture,Bookcases,1854,433,5,11/11/2018,11/18/2018,Standard Class,Credit Card,United States,Los Angeles,California
+CA-2018-167164,AG-10270,OFF-ST-10000107,Rohan,Consumer,Clothing,Kurti,6,1,1,5/13/2018,5/15/2018,Standard Class,UPI,United States,Los Angeles,California
+CA-2018-143336,ZD-21925,OFF-AR-10003056,Gaurav,Consumer,Furniture,Chairs,2093,721,5,8/27/2018,9/1/2018,Standard Class,Credit Card,United States,Los Angeles,California
+CA-2018-143336,ZD-21925,TEC-PH-10001949,Amol,Consumer,Clothing,Skirt,7,-1,2,8/27/2018,9/1/2018,Standard Class,UPI,United States,Los Angeles,California
+CA-2018-143336,ZD-21925,OFF-BI-10002215,Aastha,Consumer,Furniture,Tables,1622,-624,5,8/27/2018,9/1/2018,Standard Class,Credit Card,United States,Los Angeles,California
+CA-2020-137330,KB-16585,OFF-AR-10000246,Madan Mohan,Corporate,Electronics,Printers,1622,95,5,12/9/2020,12/13/2020,Standard Class,Credit Card,United States,Los Angeles,California
+CA-2020-137330,KB-16585,OFF-AP-10001492,Pooja,Corporate,Electronics,Printers,373,254,6,12/9/2020,12/13/2020,Standard Class,UPI,United States,Concord,North Carolina
+US-2021-156909,SF-20065,FUR-CH-10002774,Shrichand,Consumer,Clothing,Kurti,82,-33,4,7/16/2021,7/18/2021,Standard Class,COD,United States,Seattle,Washington
+CA-2019-106320,EB-13870,FUR-TA-10000577,Hitesh,Consumer,Clothing,Skirt,8,2,2,9/25/2019,9/30/2019,Standard Class,UPI,United States,Fort Worth,Texas
+CA-2020-121755,EH-13945,OFF-BI-10001634,Shourya,Consumer,Electronics,Phones,1954,782,3,1/16/2020,1/20/2020,Standard Class,Credit Card,United States,Fort Worth,Texas
+CA-2020-121755,EH-13945,TEC-AC-10003027,Ishpreet,Consumer,Electronics,Printers,1543,370,8,1/16/2020,1/20/2020,Second Class,Credit Card,United States,Madison,Wisconsin
+US-2019-150630,TB-21520,FUR-BO-10004834,Sudhir,Consumer,Electronics,Printers,1506,-266,6,9/17/2019,9/21/2019,Second Class,Credit Card,United States,West Jordan,Utah
+US-2019-150630,TB-21520,OFF-BI-10000474,Sauptik,Consumer,Furniture,Tables,1829,-56,6,9/17/2019,9/21/2019,Second Class,Credit Card,United States,San Francisco,California
+US-2019-150630,TB-21520,FUR-FU-10004848,Lisha,Consumer,Clothing,Skirt,9,-1,3,9/17/2019,9/21/2019,Second Class,UPI,United States,San Francisco,California
+US-2019-150630,TB-21520,OFF-EN-10001509,Bhawna,Consumer,Furniture,Tables,1461,202,5,9/17/2019,9/21/2019,Standard Class,EMI,United States,San Francisco,California
+US-2019-150630,TB-21520,OFF-AR-10004042,Sujay,Consumer,Clothing,Stole,391,113,8,9/17/2019,9/21/2019,Standard Class,COD,United States,Fremont,Nebraska
+US-2019-150630,TB-21520,OFF-BI-10001525,Jay,Consumer,Electronics,Phones,1824,1303,8,9/17/2019,9/21/2019,Second Class,Credit Card,United States,Fremont,Nebraska
+US-2019-150630,TB-21520,OFF-AR-10001683,Shruti,Consumer,Clothing,Hankerchief,16,-15,4,9/17/2019,9/21/2019,Standard Class,UPI,United States,Philadelphia,Pennsylvania
+CA-2021-107727,MA-17560,OFF-PA-10000249,Mohan,Home Office,Furniture,Tables,1745,122,2,10/19/2021,10/23/2021,Second Class,Credit Card,United States,Orem,Utah
+CA-2020-117590,GH-14485,TEC-PH-10004977,Neha,Corporate,Electronics,Printers,663,-212,5,12/8/2020,12/10/2020,Second Class,UPI,United States,Los Angeles,California
+CA-2020-117590,GH-14485,FUR-FU-10003664,Shreyoshe,Corporate,Clothing,Leggings,10,-1,1,12/8/2020,12/10/2020,Standard Class,UPI,United States,Los Angeles,California
+CA-2019-117415,SN-20710,OFF-EN-10002986,Hemant,Home Office,Furniture,Tables,1630,802,5,12/27/2019,12/31/2019,Standard Class,EMI,United States,Philadelphia,Pennsylvania
+CA-2019-117415,SN-20710,FUR-BO-10002545,Madhulika,Home Office,Clothing,Hankerchief,12,0,2,12/27/2019,12/31/2019,Standard Class,UPI,United States,Philadelphia,Pennsylvania
+CA-2019-117415,SN-20710,FUR-CH-10004218,Shardul,Home Office,Clothing,Leggings,12,-7,2,12/27/2019,12/31/2019,Standard Class,UPI,United States,Philadelphia,Pennsylvania
+CA-2019-117415,SN-20710,TEC-PH-10000486,Sheetal,Home Office,Clothing,Trousers,1709,564,3,12/27/2019,12/31/2019,Standard Class,Credit Card,United States,Philadelphia,Pennsylvania
+CA-2021-120999,LC-16930,TEC-PH-10004093,Pournamasi,Corporate,Clothing,Stole,12,3,1,9/10/2021,9/15/2021,Standard Class,UPI,United States,Philadelphia,Pennsylvania
+CA-2020-101343,RA-19885,OFF-ST-10003479,Surabhi,Corporate,Electronics,Phones,1625,-77,3,7/17/2020,7/22/2020,Standard Class,EMI,United States,Philadelphia,Pennsylvania
+CA-2021-139619,ES-14080,OFF-ST-10003282,Manshul,Corporate,Clothing,Hankerchief,13,5,2,9/19/2021,9/23/2021,Second Class,UPI,United States,Philadelphia,Pennsylvania
+CA-2020-118255,ON-18715,TEC-AC-10000171,Shrichand,Corporate,Furniture,Tables,1361,980,3,3/11/2020,3/13/2020,First Class,COD,United States,Houston,Texas
+CA-2020-118255,ON-18715,OFF-BI-10003291,Parth,Corporate,Electronics,Phones,1622,-448,3,3/11/2020,3/13/2020,First Class,EMI,United States,Richardson,Texas
+CA-2018-146703,PO-18865,OFF-ST-10001713,Siddharth,Consumer,Electronics,Accessories,1547,340,6,10/20/2018,10/25/2018,Standard Class,EMI,United States,Richardson,Texas
+CA-2020-169194,LH-16900,TEC-AC-10002167,Priyanka,Consumer,Furniture,Chairs,1657,460,4,6/20/2020,6/25/2020,Standard Class,Credit Card,United States,Houston,Texas
+CA-2020-169194,LH-16900,TEC-PH-10003988,Aarushi,Consumer,Clothing,Saree,1603,0,9,6/20/2020,6/25/2020,Standard Class,Credit Card,United States,Houston,Texas
+CA-2019-115742,DP-13000,OFF-BI-10004410,Vaibhav,Consumer,Electronics,Phones,1549,-439,4,4/18/2019,4/22/2019,Standard Class,Credit Card,United States,Houston,Texas
+CA-2019-115742,DP-13000,OFF-LA-10002762,Savi,Consumer,Electronics,Printers,1183,106,4,4/18/2019,4/22/2019,Standard Class,EMI,United States,Houston,Texas
+CA-2019-115742,DP-13000,FUR-FU-10001706,Jahan,Consumer,Clothing,Skirt,74,-123,8,4/18/2019,4/22/2019,Standard Class,UPI,United States,Naperville,Illinois
+CA-2019-115742,DP-13000,FUR-CH-10003061,Parishi,Consumer,Clothing,Saree,1499,239,13,4/18/2019,4/22/2019,Standard Class,Credit Card,United States,Los Angeles,California
+CA-2020-105816,JM-15265,OFF-FA-10000304,Farah,Corporate,Clothing,Saree,1120,199,6,12/11/2020,12/17/2020,First Class,EMI,United States,Melbourne,Florida
+CA-2020-105816,JM-15265,TEC-PH-10002447,Abhijeet,Corporate,Clothing,T-shirt,15,-2,1,12/11/2020,12/17/2020,First Class,Debit Card,United States,Eagan,Minnesota
+CA-2020-111682,TB-21055,OFF-ST-10000604,Anudeep,Consumer,Clothing,Trousers,1487,624,3,6/17/2020,6/18/2020,Second Class,Credit Card,United States,Eagan,Minnesota
+CA-2020-111682,TB-21055,OFF-PA-10001569,Yohann,Consumer,Furniture,Tables,1118,206,2,6/17/2020,6/18/2020,Standard Class,Credit Card,United States,Westland,Michigan
+CA-2020-111682,TB-21055,FUR-CH-10003968,Girase,Consumer,Clothing,Hankerchief,11,-5,2,6/17/2020,6/18/2020,Standard Class,COD,United States,Dover,Delaware
+CA-2020-111682,TB-21055,OFF-PA-10000587,Arpita,Consumer,Clothing,Hankerchief,15,4,1,6/17/2020,6/18/2020,Standard Class,Debit Card,United States,Dover,Delaware
+CA-2020-111682,TB-21055,TEC-AC-10002167,Vijay,Consumer,Furniture,Tables,1364,1864,5,6/17/2020,6/18/2020,Standard Class,Credit Card,United States,New Albany,Indiana
+CA-2020-111682,TB-21055,OFF-BI-10001460,Arti,Consumer,Electronics,Printers,1337,147,7,6/17/2020,6/18/2020,Standard Class,Credit Card,United States,New Albany,Indiana
+CA-2020-111682,TB-21055,OFF-AR-10001868,Bharat,Consumer,Clothing,Leggings,15,2,1,6/17/2020,6/18/2020,Standard Class,Debit Card,United States,New Albany,Indiana
+CA-2019-135545,KM-16720,TEC-AC-10004633,Divyeta,Consumer,Electronics,Printers,322,-193,5,11/24/2019,11/30/2019,Standard Class,UPI,United States,New Albany,Indiana
+CA-2019-135545,KM-16720,OFF-BI-10001078,Manju,Consumer,Electronics,Electronic Games,1316,527,7,11/24/2019,11/30/2019,Standard Class,Credit Card,United States,New York City,New York
+CA-2019-135545,KM-16720,OFF-PA-10003892,Oshin,Consumer,Furniture,Bookcases,1314,342,3,11/24/2019,11/30/2019,First Class,Credit Card,United States,New York City,New York
+CA-2019-135545,KM-16720,FUR-FU-10000397,Chandni,Consumer,Clothing,Hankerchief,17,7,3,11/24/2019,11/30/2019,First Class,Debit Card,United States,Troy,New York
+US-2019-164175,PS-18970,FUR-CH-10001146,Pranjali,Home Office,Clothing,Skirt,17,2,2,4/30/2019,5/5/2019,First Class,Debit Card,United States,Troy,New York
+CA-2018-106376,BS-11590,OFF-AR-10002671,Monu,Corporate,Clothing,Skirt,17,-12,5,12/5/2018,12/10/2018,First Class,Debit Card,United States,Troy,New York
+CA-2018-106376,BS-11590,TEC-PH-10002726,Shruti,Corporate,Furniture,Bookcases,1308,536,3,12/5/2018,12/10/2018,First Class,Credit Card,United States,Troy,New York
+CA-2020-119823,KD-16270,OFF-PA-10000482,Krutika,Consumer,Electronics,Printers,1076,-38,4,6/4/2020,6/6/2020,First Class,Credit Card,United States,Troy,New York
+CA-2020-106075,HM-14980,OFF-BI-10004654,Sanjana,Consumer,Electronics,Accessories,1301,573,5,9/18/2020,9/23/2020,First Class,Credit Card,United States,Troy,New York
+CA-2021-114440,TB-21520,OFF-PA-10004675,Mahima,Consumer,Electronics,Printers,1300,-16,8,9/14/2021,9/17/2021,Standard Class,Credit Card,United States,Troy,New York
+US-2019-134026,JE-15745,FUR-CH-10000513,Rishabh,Consumer,Clothing,Hankerchief,11,-2,4,4/26/2019,5/2/2019,Standard Class,COD,United States,Los Angeles,California
+US-2019-134026,JE-15745,FUR-FU-10003708,Dashyam,Consumer,Electronics,Printers,1298,65,9,4/26/2019,5/2/2019,Standard Class,EMI,United States,Los Angeles,California
+US-2019-134026,JE-15745,OFF-ST-10004123,Tulika,Consumer,Clothing,Stole,304,97,6,4/26/2019,5/2/2019,Standard Class,UPI,United States,Los Angeles,California
+US-2021-118038,KB-16600,OFF-BI-10004182,Nripraj,Corporate,Electronics,Printers,1055,264,4,12/9/2021,12/11/2021,Standard Class,EMI,United States,Los Angeles,California
+US-2021-118038,KB-16600,FUR-FU-10000260,Vikash,Corporate,Clothing,Skirt,17,-13,4,12/9/2021,12/11/2021,Standard Class,Debit Card,United States,Chicago,Illinois
+US-2021-118038,KB-16600,OFF-ST-10000615,Mukesh,Corporate,Clothing,Stole,147,73,3,12/9/2021,12/11/2021,Standard Class,COD,United States,Gilbert,Arizona
+US-2018-147606,JE-15745,FUR-FU-10003194,Bhishm,Consumer,Electronics,Printers,965,-68,3,11/26/2018,12/1/2018,First Class,COD,United States,Gilbert,Arizona
+CA-2020-127208,SC-20770,OFF-AP-10002118,Ankit,Corporate,Clothing,Hankerchief,12,-2,3,6/12/2020,6/15/2020,Standard Class,COD,United States,Springfield,Virginia
+CA-2020-127208,SC-20770,OFF-BI-10002309,Yogesh,Corporate,Clothing,Hankerchief,14,-2,3,6/12/2020,6/15/2020,Second Class,UPI,United States,New York City,New York
+CA-2018-139451,DN-13690,OFF-AR-10002053,Aditi,Consumer,Electronics,Electronic Games,934,-916,7,10/12/2018,10/16/2018,Standard Class,COD,United States,Jackson,Michigan
+CA-2018-139451,DN-13690,OFF-ST-10002370,Ayush,Consumer,Clothing,Saree,929,-93,9,10/12/2018,10/16/2018,Standard Class,COD,United States,Memphis,Tennessee
+CA-2019-149734,JC-16105,OFF-EN-10000927,Parin,Corporate,Clothing,Hankerchief,18,3,2,9/3/2019,9/8/2019,Standard Class,Debit Card,United States,Memphis,Tennessee
+US-2021-119662,CS-12400,OFF-ST-10003656,Kirti,Home Office,Electronics,Phones,916,192,11,11/13/2021,11/16/2021,First Class,COD,United States,Memphis,Tennessee
+CA-2021-140088,PO-18865,FUR-CH-10000863,Ameesha,Consumer,Clothing,Hankerchief,76,-72,9,5/28/2021,5/30/2021,First Class,COD,United States,Houston,Texas
+CA-2021-155558,PG-18895,TEC-AC-10001998,Ayush,Consumer,Furniture,Tables,869,67,4,10/26/2021,11/2/2021,First Class,COD,United States,Houston,Texas
+CA-2021-155558,PG-18895,OFF-LA-10000134,Anjali,Consumer,Clothing,Kurti,112,24,3,10/26/2021,11/2/2021,Second Class,COD,United States,Houston,Texas
+CA-2020-159695,GM-14455,OFF-ST-10003442,Tulika,Home Office,Clothing,Skirt,39,16,6,4/5/2020,4/10/2020,First Class,UPI,United States,Houston,Texas
+CA-2020-109806,JS-15685,OFF-AR-10004930,Shivam,Corporate,Furniture,Tables,857,-274,2,9/17/2020,9/22/2020,First Class,COD,United States,Decatur,Alabama
+CA-2020-109806,JS-15685,TEC-PH-10004093,Anurag,Corporate,Furniture,Chairs,828,230,2,9/17/2020,9/22/2020,Standard Class,COD,United States,Decatur,Alabama
+CA-2020-109806,JS-15685,OFF-PA-10000304,Sanjana,Corporate,Electronics,Printers,1279,-640,8,9/17/2020,9/22/2020,Standard Class,EMI,United States,San Francisco,California
+CA-2019-149587,KB-16315,OFF-PA-10003177,Shaily,Consumer,Clothing,Saree,1250,486,7,1/31/2019,2/5/2019,Standard Class,EMI,United States,San Francisco,California
+CA-2019-149587,KB-16315,FUR-FU-10003799,Priyanka,Consumer,Furniture,Chairs,823,-18,7,1/31/2019,2/5/2019,First Class,COD,United States,Durham,North Carolina
+CA-2019-149587,KB-16315,OFF-BI-10002852,Tanvi,Consumer,Furniture,Bookcases,1157,-13,9,1/31/2019,2/5/2019,Second Class,Credit Card,United States,Chicago,Illinois
+US-2021-109484,RB-19705,OFF-BI-10004738,Shreya,Home Office,Electronics,Accessories,126,-63,3,11/6/2021,11/12/2021,Standard Class,UPI,United States,Columbia,South Carolina
+CA-2021-161018,PN-18775,FUR-FU-10000629,Chirag,Home Office,Electronics,Phones,1145,-706,3,11/9/2021,11/11/2021,Standard Class,Credit Card,United States,Rochester,Minnesota
+CA-2021-157833,KD-16345,OFF-BI-10001721,Shweta,Consumer,Electronics,Accessories,774,170,3,6/17/2021,6/20/2021,Second Class,COD,United States,Rochester,Minnesota
+CA-2020-149223,ER-13855,OFF-AP-10000358,Abhishek,Corporate,Clothing,Hankerchief,24,-1,2,9/6/2020,9/11/2020,Standard Class,COD,United States,Houston,Texas
+CA-2020-158568,RB-19465,OFF-PA-10003256,Abhishek,Home Office,Electronics,Accessories,774,170,3,8/29/2020,9/2/2020,Standard Class,COD,United States,Los Angeles,California
+CA-2020-158568,RB-19465,TEC-AC-10001767,Hrisheekesh,Home Office,Clothing,Hankerchief,93,-1,2,8/29/2020,9/2/2020,Standard Class,COD,United States,Los Angeles,California
+CA-2020-158568,RB-19465,OFF-BI-10002609,Kartik,Home Office,Electronics,Electronic Games,765,-36,3,8/29/2020,9/2/2020,Second Class,COD,United States,Los Angeles,California
+CA-2020-129903,GZ-14470,OFF-PA-10004040,Trupti,Consumer,Electronics,Printers,762,101,6,12/1/2020,12/4/2020,Second Class,COD,United States,Minneapolis,Minnesota
+US-2019-156867,LC-16870,TEC-AC-10001552,Noopur,Consumer,Electronics,Electronic Games,761,266,9,11/13/2019,11/17/2019,Second Class,COD,United States,Minneapolis,Minnesota
+US-2019-156867,LC-16870,FUR-FU-10004006,Parth,Consumer,Clothing,Leggings,96,-48,5,11/13/2019,11/17/2019,Standard Class,UPI,United States,Minneapolis,Minnesota
+US-2019-156867,LC-16870,OFF-BI-10002794,Harsh,Consumer,Electronics,Printers,1137,-14,7,11/13/2019,11/17/2019,Second Class,EMI,United States,Portland,Oregon
+CA-2021-119004,JM-15250,TEC-AC-10003499,Swapnil,Consumer,Clothing,Hankerchief,18,8,2,11/23/2021,11/28/2021,First Class,Debit Card,United States,New York City,New York
+CA-2021-119004,JM-15250,TEC-PH-10002844,Soumyabrata,Consumer,Furniture,Furnishings,749,-307,7,11/23/2021,11/28/2021,Standard Class,COD,United States,San Francisco,California
+CA-2021-119004,JM-15250,OFF-AR-10000390,Amruta,Consumer,Clothing,Saree,1120,199,6,11/23/2021,11/28/2021,Standard Class,EMI,United States,Saint Paul,Minnesota
+CA-2019-129476,PA-19060,TEC-AC-10000844,Aishwarya,Home Office,Electronics,Printers,744,119,6,10/15/2019,10/20/2019,Standard Class,COD,United States,Chicago,Illinois
+CA-2021-146780,CV-12805,FUR-FU-10001934,Pranav,Corporate,Clothing,Hankerchief,14,0,4,12/25/2021,12/30/2021,Standard Class,UPI,United States,Chicago,Illinois
+CA-2020-128867,CL-12565,OFF-AR-10000380,Sahil,Consumer,Clothing,Hankerchief,19,8,2,11/3/2020,11/10/2020,Second Class,Debit Card,United States,Chicago,Illinois
+CA-2020-128867,CL-12565,OFF-BI-10003981,Mitali,Consumer,Clothing,Saree,512,-225,5,11/3/2020,11/10/2020,Standard Class,COD,United States,Rochester,Minnesota
+CA-2018-115259,RC-19960,OFF-FA-10000621,Hitika,Consumer,Furniture,Bookcases,742,198,2,8/25/2018,8/27/2018,Standard Class,COD,United States,Aurora,Colorado
+CA-2018-115259,RC-19960,OFF-EN-10002600,Anurag,Consumer,Clothing,Stole,44,-40,3,8/25/2018,8/27/2018,Standard Class,COD,United States,Aurora,Colorado
+CA-2018-115259,RC-19960,OFF-PA-10004965,Paromita,Consumer,Furniture,Bookcases,1061,-36,8,8/25/2018,8/27/2018,Standard Class,EMI,United States,Aurora,Colorado
+CA-2018-115259,RC-19960,OFF-EN-10002504,Jitesh,Consumer,Clothing,Leggings,19,-2,2,8/25/2018,8/27/2018,Standard Class,Debit Card,United States,Charlotte,North Carolina
+CA-2019-110457,DK-13090,FUR-TA-10001768,Pratyusmita,Consumer,Clothing,Hankerchief,17,0,1,3/2/2019,3/6/2019,Standard Class,COD,United States,Charlotte,North Carolina
+US-2019-136476,GG-14650,OFF-BI-10003650,Atharv,Corporate,Furniture,Bookcases,741,267,5,4/5/2019,4/10/2019,Standard Class,COD,United States,Charlotte,North Carolina
+CA-2020-103730,SC-20725,FUR-FU-10002157,Ajay,Consumer,Electronics,Printers,735,-235,6,6/12/2020,6/15/2020,Standard Class,COD,United States,Orland Park,Illinois
+CA-2020-103730,SC-20725,OFF-BI-10003910,Diwakar,Consumer,Clothing,Shirt,19,-1,1,6/12/2020,6/15/2020,Standard Class,Debit Card,United States,New York City,New York
+CA-2020-103730,SC-20725,OFF-ST-10000777,Rutuja,Consumer,Electronics,Electronic Games,1021,-48,4,6/12/2020,6/15/2020,Standard Class,EMI,United States,Urbandale,Iowa
+CA-2020-103730,SC-20725,OFF-EN-10002500,Sanjova,Consumer,Clothing,Saree,556,-209,7,6/12/2020,6/15/2020,Second Class,COD,United States,Urbandale,Iowa
+CA-2020-103730,SC-20725,TEC-PH-10003875,Shivanshu,Consumer,Clothing,Leggings,63,-17,6,6/12/2020,6/15/2020,Second Class,COD,United States,Columbus,Ohio
+US-2018-152030,AD-10180,FUR-CH-10004063,Mhatre,Home Office,Furniture,Chairs,734,248,2,12/26/2018,12/28/2018,Second Class,COD,United States,Columbus,Ohio
+US-2018-134614,PF-19165,FUR-TA-10004534,Mukesh,Consumer,Clothing,Saree,933,166,5,9/20/2018,9/25/2018,Second Class,Credit Card,United States,Columbus,Ohio
+US-2021-107272,TS-21610,OFF-BI-10003274,Snel,Consumer,Clothing,Hankerchief,20,-9,6,11/5/2021,11/12/2021,Standard Class,Debit Card,United States,Columbus,Ohio
+US-2021-107272,TS-21610,OFF-ST-10002974,Praneet,Consumer,Furniture,Bookcases,877,395,2,11/5/2021,11/12/2021,Standard Class,Credit Card,United States,Seattle,Washington
+US-2020-125969,LS-16975,FUR-CH-10001146,Jesal,Home Office,Furniture,Chairs,719,303,6,11/6/2020,11/10/2020,First Class,COD,United States,Bristol,Tennessee
+US-2020-125969,LS-16975,FUR-FU-10003773,Rhea,Home Office,Clothing,Hankerchief,12,1,2,11/6/2020,11/10/2020,First Class,COD,United States,Wilmington,Delaware
+US-2021-164147,DW-13585,TEC-PH-10002293,Mrinal,Corporate,Clothing,Saree,714,56,4,2/2/2021,2/5/2021,First Class,COD,United States,Wilmington,Delaware
+US-2021-164147,DW-13585,OFF-PA-10002377,Sharda,Corporate,Clothing,Leggings,50,-15,4,2/2/2021,2/5/2021,First Class,COD,United States,Wilmington,Delaware
+US-2021-164147,DW-13585,OFF-FA-10002780,Shatayu,Corporate,Electronics,Phones,709,-100,5,2/2/2021,2/5/2021,First Class,COD,United States,Wilmington,Delaware
+CA-2020-145583,LC-16885,OFF-PA-10001804,Rohan,Consumer,Clothing,Hankerchief,21,-12,3,10/13/2020,10/19/2020,Second Class,Debit Card,United States,Wilmington,Delaware
+CA-2020-145583,LC-16885,OFF-PA-10001736,Mohan,Consumer,Clothing,Saree,693,254,6,10/13/2020,10/19/2020,Standard Class,COD,United States,Houston,Texas
+CA-2020-145583,LC-16885,OFF-AR-10001149,Chikku,Consumer,Clothing,Hankerchief,24,1,4,10/13/2020,10/19/2020,Standard Class,COD,United States,Bloomington,Illinois
+CA-2020-145583,LC-16885,OFF-FA-10002988,Akancha,Consumer,Clothing,Hankerchief,24,1,2,10/13/2020,10/19/2020,Standard Class,UPI,United States,Phoenix,Arizona
+CA-2020-145583,LC-16885,OFF-BI-10004781,Amit,Consumer,Clothing,Hankerchief,24,1,2,10/13/2020,10/19/2020,Second Class,COD,United States,Phoenix,Arizona
+CA-2020-145583,LC-16885,OFF-SU-10001218,Kishwar,Consumer,Clothing,T-shirt,21,10,1,10/13/2020,10/19/2020,Second Class,Debit Card,United States,Los Angeles,California
+CA-2020-145583,LC-16885,FUR-FU-10001706,Mahima,Consumer,Furniture,Chairs,681,259,4,10/13/2020,10/19/2020,First Class,COD,United States,Los Angeles,California
+CA-2020-110366,JD-15895,FUR-FU-10004848,Abhijeet,Corporate,Furniture,Tables,674,-187,2,9/5/2020,9/7/2020,First Class,COD,United States,Columbus,Ohio
+CA-2021-106180,SH-19975,OFF-AR-10000940,Vrinda,Corporate,Electronics,Electronic Games,671,-309,5,9/18/2021,9/23/2021,First Class,COD,United States,Columbus,Ohio
+CA-2021-106180,SH-19975,OFF-EN-10004030,Muskan,Corporate,Electronics,Electronic Games,646,-213,3,9/18/2021,9/23/2021,Standard Class,COD,United States,Columbus,Ohio
+CA-2021-106180,SH-19975,OFF-PA-10004327,Shubham,Corporate,Clothing,Kurti,40,15,1,9/18/2021,9/23/2021,Standard Class,COD,United States,Roseville,California
+CA-2021-155376,SG-20080,OFF-AP-10001058,Vini,Consumer,Clothing,T-shirt,24,-2,2,12/22/2021,12/27/2021,Standard Class,COD,United States,Roseville,California
+CA-2019-110744,HA-14920,OFF-ST-10003656,Kartik,Consumer,Electronics,Printers,644,167,2,9/7/2019,9/12/2019,Standard Class,COD,United States,Roseville,California
+CA-2018-110072,MG-17680,FUR-FU-10000521,Manisha,Home Office,Electronics,Printers,643,225,2,10/22/2018,10/28/2018,Standard Class,COD,United States,Roseville,California
+CA-2020-114489,JE-16165,TEC-PH-10000215,Charika,Corporate,Clothing,Saree,632,-316,6,12/5/2020,12/9/2020,Standard Class,COD,United States,Roseville,California
+CA-2020-114489,JE-16165,TEC-PH-10001448,Rohan,Corporate,Clothing,Saree,632,316,6,12/5/2020,12/9/2020,Standard Class,COD,United States,Roseville,California
+CA-2020-114489,JE-16165,FUR-CH-10000454,Rohan,Corporate,Electronics,Printers,610,208,3,12/5/2020,12/9/2020,Second Class,COD,United States,Roseville,California
+CA-2020-114489,JE-16165,OFF-BI-10002735,Ankur,Corporate,Clothing,Kurti,78,-28,6,12/5/2020,12/9/2020,Standard Class,UPI,United States,Philadelphia,Pennsylvania
+CA-2020-158834,TW-21025,OFF-AP-10000326,Aniket,Home Office,Furniture,Bookcases,595,119,4,3/13/2020,3/16/2020,Standard Class,COD,United States,San Francisco,California
+CA-2020-158834,TW-21025,TEC-PH-10001254,Nishi,Home Office,Clothing,Saree,595,292,3,3/13/2020,3/16/2020,Standard Class,COD,United States,San Francisco,California
+CA-2019-124919,SP-20650,OFF-PA-10001950,Tanushree,Corporate,Furniture,Bookcases,852,51,5,5/31/2019,6/2/2019,Standard Class,Credit Card,United States,San Francisco,California
+CA-2019-124919,SP-20650,OFF-PA-10002254,Aarushi,Corporate,Furniture,Bookcases,594,89,3,5/31/2019,6/2/2019,Standard Class,COD,United States,Independence,Missouri
+CA-2019-124919,SP-20650,OFF-ST-10001590,Pinky,Corporate,Clothing,T-shirt,585,175,13,5/31/2019,6/2/2019,Standard Class,COD,United States,Pasadena,California
+CA-2019-118948,NK-18490,OFF-AR-10001547,Yash,Home Office,Furniture,Furnishings,582,262,5,5/28/2019,6/3/2019,Standard Class,COD,United States,Newark,Ohio
+CA-2018-104269,DB-13060,FUR-CH-10004063,Parna,Consumer,Clothing,Saree,845,84,7,3/1/2018,3/6/2018,Standard Class,Credit Card,United States,Franklin,Wisconsin
+CA-2020-114104,NP-18670,OFF-LA-10002475,Sukrith,Consumer,Electronics,Printers,829,19,4,11/20/2020,11/24/2020,Standard Class,Credit Card,United States,Franklin,Wisconsin
+CA-2020-114104,NP-18670,TEC-PH-10004536,Dhanraj,Consumer,Clothing,Saree,561,212,3,11/20/2020,11/24/2020,Standard Class,COD,United States,Franklin,Wisconsin
+CA-2020-162733,TT-21070,OFF-PA-10002751,Megha,Consumer,Electronics,Phones,771,-424,2,5/11/2020,5/12/2020,First Class,Credit Card,United States,Franklin,Wisconsin
+CA-2019-119697,EM-13960,TEC-AC-10003657,Piyali,Consumer,Clothing,Saree,765,8,6,12/28/2019,12/31/2019,First Class,EMI,United States,Scottsdale,Arizona
+CA-2020-154508,RD-19900,OFF-EN-10001990,Anand,Consumer,Clothing,Hankerchief,31,2,2,11/16/2020,11/20/2020,First Class,COD,United States,Scottsdale,Arizona
+CA-2020-113817,MJ-17740,OFF-BI-10004002,Ayush,Consumer,Electronics,Electronic Games,557,-111,2,11/7/2020,11/11/2020,First Class,COD,United States,San Jose,California
+CA-2018-139892,BM-11140,OFF-AR-10004441,Monica,Consumer,Electronics,Printers,757,371,2,9/8/2018,9/12/2018,First Class,Credit Card,United States,San Jose,California
+CA-2018-139892,BM-11140,TEC-MA-10000822,Kirti,Consumer,Electronics,Phones,545,-73,11,9/8/2018,9/12/2018,Standard Class,COD,United States,San Jose,California
+CA-2018-139892,BM-11140,OFF-ST-10000991,Shruti,Consumer,Furniture,Bookcases,1052,-82,3,9/8/2018,9/12/2018,Second Class,UPI,United States,Seattle,Washington
+CA-2018-139892,BM-11140,FUR-CH-10004287,Avish,Consumer,Furniture,Bookcases,544,-152,3,9/8/2018,9/12/2018,Standard Class,COD,United States,Seattle,Washington
+CA-2018-139892,BM-11140,OFF-AR-10002656,Atul,Consumer,Clothing,Leggings,22,9,2,9/8/2018,9/12/2018,Standard Class,Debit Card,United States,Edmond,Oklahoma
+CA-2018-139892,BM-11140,OFF-AP-10002518,Shivangi,Consumer,Electronics,Printers,757,371,2,9/8/2018,9/12/2018,First Class,Credit Card,United States,Edmond,Oklahoma
+CA-2018-139892,BM-11140,TEC-PH-10003931,Mayank,Consumer,Furniture,Bookcases,742,198,2,9/8/2018,9/12/2018,Second Class,Credit Card,United States,Los Angeles,California
+CA-2018-118962,CS-12130,OFF-PA-10000659,Kasheen,Consumer,Clothing,Saree,537,107,3,8/5/2018,8/9/2018,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2018-118962,CS-12130,OFF-PA-10001144,Asish,Consumer,Clothing,Trousers,536,91,1,8/5/2018,8/9/2018,Standard Class,COD,United States,Carlsbad,New Mexico
+CA-2018-118962,CS-12130,FUR-CH-10003817,Krutika,Consumer,Clothing,Hankerchief,6,3,1,8/5/2018,8/9/2018,Standard Class,COD,United States,Seattle,Washington
+US-2018-100853,JB-15400,OFF-AP-10000891,Tejeswini,Corporate,Clothing,Trousers,523,204,7,9/14/2018,9/19/2018,Standard Class,COD,United States,San Antonio,Texas
+US-2018-100853,JB-15400,OFF-LA-10003148,Priyanshu,Corporate,Clothing,T-shirt,27,9,2,9/14/2018,9/19/2018,Standard Class,UPI,United States,San Antonio,Texas
+US-2021-152366,SJ-20500,OFF-AP-10002684,Nikita,Consumer,Furniture,Chairs,516,392,8,4/21/2021,4/25/2021,Standard Class,COD,United States,San Antonio,Texas
+US-2019-101511,JE-15745,FUR-CH-10004698,Monisha,Consumer,Furniture,Bookcases,504,116,3,11/21/2019,11/23/2019,Standard Class,COD,United States,San Antonio,Texas
+US-2019-101511,JE-15745,OFF-SU-10002189,Nishant,Consumer,Electronics,Phones,502,84,4,11/21/2019,11/23/2019,Standard Class,COD,United States,San Antonio,Texas
+CA-2019-137225,JK-15640,OFF-AR-10001940,Sheetal,Home Office,Electronics,Electronic Games,734,213,6,12/15/2019,12/19/2019,Standard Class,Credit Card,United States,San Antonio,Texas
+CA-2018-166191,DK-13150,OFF-ST-10003455,Kartikay,Corporate,Clothing,Kurti,42,12,2,12/5/2018,12/9/2018,Standard Class,COD,United States,San Antonio,Texas
+CA-2018-166191,DK-13150,TEC-AC-10004659,Pinky,Corporate,Clothing,Skirt,29,11,4,12/5/2018,12/9/2018,Standard Class,COD,United States,Los Angeles,California
+CA-2018-158274,RM-19675,TEC-PH-10003273,Amisha,Home Office,Clothing,Kurti,240,12,6,11/19/2018,11/24/2018,Standard Class,UPI,United States,Los Angeles,California
+CA-2018-158274,RM-19675,TEC-PH-10004896,Soumya,Home Office,Clothing,Trousers,496,-79,2,11/19/2018,11/24/2018,Standard Class,COD,United States,Los Angeles,California
+CA-2018-158274,RM-19675,TEC-AC-10002345,Harshita,Home Office,Electronics,Electronic Games,485,29,4,11/19/2018,11/24/2018,Standard Class,COD,United States,Chicago,Illinois
+CA-2020-105018,SK-19990,OFF-BI-10001890,Aman,Consumer,Clothing,Skirt,31,-11,3,11/28/2020,12/2/2020,Second Class,UPI,United States,Chicago,Illinois
+CA-2018-123260,FM-14290,TEC-AC-10002323,Brijesh,Home Office,Electronics,Printers,676,151,3,8/26/2018,8/30/2018,Second Class,Credit Card,United States,Houston,Texas
+CA-2020-157000,AM-10360,OFF-ST-10001328,Priyanka,Corporate,Clothing,Hankerchief,23,8,2,7/16/2020,7/22/2020,Second Class,Debit Card,United States,Newark,Ohio
+CA-2020-157000,AM-10360,OFF-PA-10001950,Pinky,Corporate,Clothing,Hankerchief,13,3,2,7/16/2020,7/22/2020,Standard Class,COD,United States,Newark,Ohio
+CA-2019-102281,MP-17470,FUR-BO-10002613,Vandana,Home Office,Clothing,Stole,180,0,8,10/12/2019,10/14/2019,Second Class,COD,United States,New York City,New York
+CA-2019-102281,MP-17470,TEC-PH-10001552,Kiran,Home Office,Electronics,Phones,671,114,9,10/12/2019,10/14/2019,Second Class,Credit Card,United States,Decatur,Illinois
+CA-2019-102281,MP-17470,OFF-PA-10000061,Paridhi,Home Office,Clothing,Kurti,22,11,3,10/12/2019,10/14/2019,Second Class,COD,United States,Decatur,Illinois
+CA-2019-102281,MP-17470,FUR-BO-10002545,Jitesh,Home Office,Electronics,Printers,668,-31,3,10/12/2019,10/14/2019,Second Class,Credit Card,United States,Monroe,Louisiana
+CA-2019-102281,MP-17470,OFF-AR-10003514,Navdeep,Home Office,Clothing,Saree,145,0,3,10/12/2019,10/14/2019,Second Class,UPI,United States,Monroe,Louisiana
+CA-2019-131457,MZ-17515,OFF-EN-10001509,Shreya,Corporate,Clothing,Skirt,24,8,2,10/31/2019,11/6/2019,Standard Class,Debit Card,United States,Monroe,Louisiana
+CA-2018-140004,CB-12025,OFF-AR-10004685,Bhaggyasree,Consumer,Furniture,Chairs,476,0,3,3/21/2018,3/25/2018,Standard Class,COD,United States,Fairfield,Connecticut
+CA-2018-140004,CB-12025,OFF-AR-10004027,Vineet,Consumer,Clothing,Hankerchief,24,11,5,3/21/2018,3/25/2018,Standard Class,Debit Card,United States,Los Angeles,California
+CA-2021-107720,VM-21685,OFF-ST-10001414,Divyansha,Home Office,Clothing,Hankerchief,37,3,3,11/6/2021,11/13/2021,Standard Class,COD,United States,Grand Prairie,Texas
+US-2021-124303,FH-14365,OFF-BI-10000343,Swapnil,Corporate,Clothing,Stole,152,50,6,7/6/2021,7/13/2021,First Class,UPI,United States,Grand Prairie,Texas
+US-2021-124303,FH-14365,OFF-PA-10002749,Anjali,Corporate,Clothing,Leggings,32,11,2,7/6/2021,7/13/2021,First Class,UPI,United States,New York City,New York
+CA-2021-105074,MB-17305,OFF-PA-10002666,Kajal,Consumer,Clothing,Leggings,52,11,5,6/24/2021,6/29/2021,First Class,COD,United States,New York City,New York
+CA-2018-133690,BS-11755,FUR-TA-10004289,Amlan,Consumer,Clothing,Hankerchief,24,11,3,8/3/2018,8/5/2018,First Class,Debit Card,United States,New York City,New York
+CA-2018-133690,BS-11755,OFF-AP-10003622,Atharv,Consumer,Furniture,Chairs,473,42,4,8/3/2018,8/5/2018,First Class,COD,United States,New York City,New York
+US-2021-116701,LC-17140,OFF-AP-10003217,Sabah,Consumer,Clothing,Stole,263,50,5,12/17/2021,12/21/2021,Standard Class,COD,United States,New York City,New York
+CA-2021-126382,HK-14890,FUR-FU-10002960,Jahan,Corporate,Clothing,Kurti,61,11,3,6/3/2021,6/7/2021,Standard Class,COD,United States,Redlands,California
+CA-2021-108329,LE-16810,TEC-PH-10001918,Surbhi,Consumer,Electronics,Electronic Games,469,-459,3,12/9/2021,12/14/2021,Standard Class,COD,United States,Hamilton,Ohio
+CA-2021-135860,JH-15985,OFF-ST-10000642,Shubham,Consumer,Electronics,Phones,1272,547,2,12/1/2021,12/7/2021,Standard Class,COD,United States,Hamilton,Ohio
+CA-2021-135860,JH-15985,TEC-PH-10001700,Ajay,Consumer,Electronics,Accessories,169,0,3,12/1/2021,12/7/2021,Standard Class,COD,United States,Westfield,New Jersey
+CA-2021-135860,JH-15985,OFF-BI-10003274,Shreya,Consumer,Clothing,Leggings,25,11,3,12/1/2021,12/7/2021,Standard Class,Debit Card,United States,Philadelphia,Pennsylvania
+CA-2021-135860,JH-15985,OFF-FA-10000134,Hazel,Consumer,Clothing,Saree,457,-41,4,12/1/2021,12/7/2021,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2021-135860,JH-15985,OFF-ST-10001522,Vini,Consumer,Electronics,Accessories,455,77,8,12/1/2021,12/7/2021,First Class,COD,United States,Akron,Ohio
+CA-2019-101007,MS-17980,TEC-AC-10001266,Sonal,Corporate,Clothing,Hankerchief,25,2,2,2/9/2019,2/13/2019,First Class,Debit Card,United States,Denver,Colorado
+CA-2019-146262,VW-21775,OFF-LA-10004544,Ankur,Corporate,Electronics,Printers,450,-90,3,1/2/2019,1/9/2019,Second Class,COD,United States,Denver,Colorado
+CA-2019-146262,VW-21775,FUR-BO-10004695,Srishti,Corporate,Furniture,Chairs,30,-35,1,1/2/2019,1/9/2019,Standard Class,COD,United States,Dallas,Texas
+CA-2019-146262,VW-21775,TEC-PH-10002844,Shikhar,Corporate,Furniture,Bookcases,659,-37,2,1/2/2019,1/9/2019,Standard Class,Credit Card,United States,Franklin,Tennessee
+CA-2019-146262,VW-21775,TEC-MA-10000864,Divsha,Corporate,Electronics,Printers,448,148,2,1/2/2019,1/9/2019,Standard Class,COD,United States,Whittier,California
+CA-2019-146262,VW-21775,TEC-AC-10000109,Nida,Corporate,Electronics,Printers,446,53,3,1/2/2019,1/9/2019,Standard Class,COD,United States,Saginaw,Michigan
+CA-2020-130162,JH-15910,OFF-ST-10001328,Mane,Consumer,Furniture,Chairs,98,-45,2,10/28/2020,11/1/2020,Standard Class,UPI,United States,Saginaw,Michigan
+CA-2020-130162,JH-15910,TEC-PH-10002563,Sanjay,Consumer,Clothing,Saree,443,11,1,10/28/2020,11/1/2020,Standard Class,COD,United States,Saginaw,Michigan
+CA-2019-169397,JB-15925,OFF-FA-10000585,Sathya,Consumer,Electronics,Phones,427,-50,7,12/24/2019,12/27/2019,Standard Class,COD,United States,Saginaw,Michigan
+CA-2019-169397,JB-15925,OFF-PA-10004000,Sanjna,Consumer,Furniture,Bookcases,656,-36,2,12/24/2019,12/27/2019,Second Class,Credit Card,United States,Saginaw,Michigan
+CA-2019-169397,JB-15925,OFF-BI-10002852,Sweta,Consumer,Clothing,Saree,424,161,2,12/24/2019,12/27/2019,Standard Class,COD,United States,Dallas,Texas
+CA-2019-169397,JB-15925,FUR-FU-10000087,Nidhi,Consumer,Clothing,T-shirt,27,8,2,12/24/2019,12/27/2019,Standard Class,Debit Card,United States,Medina,Ohio
+CA-2019-169397,JB-15925,TEC-MA-10001148,Chirag,Consumer,Electronics,Phones,424,-272,5,12/24/2019,12/27/2019,Standard Class,COD,United States,Medina,Ohio
+CA-2019-169397,JB-15925,OFF-AR-10001958,Nidhi,Consumer,Clothing,Hankerchief,202,4,4,12/24/2019,12/27/2019,Standard Class,COD,United States,Medina,Ohio
+CA-2019-163055,DS-13180,OFF-AR-10001026,Sakshi,Corporate,Electronics,Phones,1275,357,2,8/9/2019,8/16/2019,Standard Class,UPI,United States,Medina,Ohio
+CA-2019-163055,DS-13180,FUR-TA-10003748,Devendra,Corporate,Electronics,Phones,418,70,7,8/9/2019,8/16/2019,Standard Class,COD,United States,Medina,Ohio
+CA-2019-163055,DS-13180,OFF-ST-10002485,Manju,Corporate,Electronics,Electronic Games,417,49,3,8/9/2019,8/16/2019,Standard Class,COD,United States,Los Angeles,California
+US-2019-145436,VD-21670,FUR-CH-10004860,Aparajita,Consumer,Clothing,Stole,199,48,4,2/28/2019,3/4/2019,First Class,UPI,United States,Los Angeles,California
+US-2019-145436,VD-21670,FUR-CH-10004477,Surbhi,Consumer,Furniture,Furnishings,385,-77,11,2/28/2019,3/4/2019,First Class,UPI,United States,Dublin,Ohio
+US-2018-156216,EA-14035,OFF-BI-10001679,Ramesh,Corporate,Electronics,Phones,414,199,3,9/13/2018,9/17/2018,First Class,COD,United States,Dublin,Ohio
+US-2021-100930,CS-12400,FUR-TA-10001705,Swetha,Home Office,Clothing,Saree,97,-45,4,4/7/2021,4/12/2021,First Class,COD,United States,Dublin,Ohio
+US-2021-100930,CS-12400,FUR-TA-10003473,Apoorva,Home Office,Electronics,Electronic Games,648,50,6,4/7/2021,4/12/2021,First Class,Credit Card,United States,Dublin,Ohio
+US-2021-100930,CS-12400,OFF-BI-10001679,Bhishm,Home Office,Clothing,Shirt,27,-25,2,4/7/2021,4/12/2021,First Class,Debit Card,United States,Dublin,Ohio
+US-2021-100930,CS-12400,FUR-FU-10004017,Stuti,Home Office,Clothing,Stole,27,12,1,4/7/2021,4/12/2021,Standard Class,Debit Card,United States,Dublin,Ohio
+US-2021-100930,CS-12400,TEC-AC-10003832,Anjali,Home Office,Clothing,Stole,27,1,1,4/7/2021,4/12/2021,Standard Class,UPI,United States,Detroit,Michigan
+CA-2021-160514,DB-13120,OFF-PA-10002479,K,Corporate,Furniture,Chairs,413,-314,9,11/12/2021,11/16/2021,Standard Class,COD,United States,Detroit,Michigan
+CA-2020-157749,KL-16645,OFF-PA-10003349,Kushal,Consumer,Clothing,Hankerchief,53,2,4,6/4/2020,6/9/2020,Standard Class,COD,United States,Detroit,Michigan
+CA-2020-157749,KL-16645,FUR-FU-10000576,Aayushi,Consumer,Clothing,Hankerchief,29,8,5,6/4/2020,6/9/2020,Standard Class,UPI,United States,Columbia,Tennessee
+CA-2020-157749,KL-16645,FUR-FU-10004351,Deepak,Consumer,Clothing,T-shirt,30,13,1,6/4/2020,6/9/2020,Standard Class,UPI,United States,Columbia,Tennessee
+CA-2020-157749,KL-16645,TEC-PH-10000011,Prashant,Consumer,Clothing,Saree,412,412,6,6/4/2020,6/9/2020,Standard Class,COD,United States,Charlotte,North Carolina
+CA-2020-157749,KL-16645,FUR-TA-10002607,Bathina,Consumer,Electronics,Printers,646,-23,2,6/4/2020,6/9/2020,Standard Class,Credit Card,United States,Tampa,Florida
+CA-2020-157749,KL-16645,FUR-FU-10002505,Turumella,Consumer,Clothing,Stole,30,-5,5,6/4/2020,6/9/2020,Standard Class,UPI,United States,Tampa,Florida
+CA-2020-157749,KL-16645,OFF-AR-10004685,Aarushi,Consumer,Furniture,Bookcases,618,27,4,6/4/2020,6/9/2020,Standard Class,Credit Card,United States,Tampa,Florida
+CA-2018-131926,DW-13480,FUR-CH-10004063,Pooja,Home Office,Clothing,Saree,143,-124,5,6/1/2018,6/6/2018,Standard Class,UPI,United States,Tampa,Florida
+CA-2018-131926,DW-13480,OFF-ST-10002276,Sudheer,Home Office,Clothing,Hankerchief,31,1,2,6/1/2018,6/6/2018,Standard Class,UPI,United States,Tampa,Florida
+CA-2018-131926,DW-13480,OFF-PA-10004082,Akshay,Home Office,Clothing,Saree,409,86,3,6/1/2018,6/6/2018,Second Class,COD,United States,Santa Clara,California
+CA-2018-131926,DW-13480,OFF-AP-10002945,Yogesh,Home Office,Clothing,Saree,406,126,2,6/1/2018,6/6/2018,Second Class,COD,United States,Chicago,Illinois
+CA-2018-131926,DW-13480,OFF-PA-10000061,Paridhi,Home Office,Clothing,Saree,565,66,7,6/1/2018,6/6/2018,Second Class,Credit Card,United States,Chicago,Illinois
+CA-2020-154739,LH-17155,FUR-CH-10002965,Akshay,Consumer,Clothing,Stole,85,2,6,12/10/2020,12/15/2020,Second Class,COD,United States,Chicago,Illinois
+CA-2020-145625,KC-16540,OFF-PA-10004569,Sweta,Consumer,Furniture,Bookcases,561,118,5,9/11/2020,9/17/2020,Second Class,Credit Card,United States,Chicago,Illinois
+CA-2020-145625,KC-16540,TEC-AC-10003832,Shubham,Consumer,Clothing,Trousers,503,-56,2,9/11/2020,9/17/2020,Second Class,COD,United States,Chicago,Illinois
+CA-2020-146941,DL-13315,OFF-ST-10001228,Vandana,Consumer,Clothing,Stole,31,14,3,12/10/2020,12/13/2020,Second Class,UPI,United States,Chicago,Illinois
+CA-2020-146941,DL-13315,OFF-EN-10003296,Sagar,Consumer,Clothing,Hankerchief,398,111,8,12/10/2020,12/13/2020,Second Class,COD,United States,Chicago,Illinois
+US-2019-159982,DR-12880,FUR-FU-10002505,Kajal,Corporate,Furniture,Bookcases,388,93,2,11/28/2019,12/4/2019,Second Class,COD,United States,Lakeville,Minnesota
+US-2019-159982,DR-12880,OFF-ST-10004804,Ashmeet,Corporate,Clothing,Saree,498,-116,4,11/28/2019,12/4/2019,Second Class,UPI,United States,Lakeville,Minnesota
+US-2019-159982,DR-12880,OFF-ST-10001590,Manjiri,Corporate,Clothing,Saree,561,212,3,11/28/2019,12/4/2019,Second Class,Credit Card,United States,Lakeville,Minnesota
+US-2019-159982,DR-12880,TEC-PH-10001580,Sneha,Corporate,Clothing,Hankerchief,61,3,4,11/28/2019,12/4/2019,Second Class,COD,United States,Lakeville,Minnesota
+CA-2021-163139,CC-12670,TEC-AC-10000290,Pournamasi,Consumer,Clothing,T-shirt,34,-22,4,12/1/2021,12/3/2021,Second Class,COD,United States,Lakeville,Minnesota
+CA-2021-163139,CC-12670,OFF-ST-10002790,Sarita,Consumer,Clothing,Shirt,32,6,3,12/1/2021,12/3/2021,Standard Class,UPI,United States,San Francisco,California
+CA-2021-163139,CC-12670,OFF-BI-10003460,Chetan,Consumer,Furniture,Tables,623,-192,3,12/1/2021,12/3/2021,Standard Class,UPI,United States,San Diego,California
+US-2021-155299,Dl-13600,OFF-AP-10002203,Aman,Corporate,Electronics,Phones,520,151,3,6/8/2021,6/12/2021,First Class,Credit Card,United States,San Diego,California
+US-2018-106992,SB-20290,TEC-MA-10000822,Komal,Corporate,Clothing,Saree,32,-16,6,9/19/2018,9/21/2018,First Class,UPI,United States,New York City,New York
+US-2018-106992,SB-20290,TEC-MA-10003353,Bhosale,Corporate,Clothing,Hankerchief,32,-5,5,9/19/2018,9/21/2018,Standard Class,UPI,United States,New York City,New York
+CA-2020-125318,RC-19825,TEC-PH-10001433,Sukruta,Consumer,Electronics,Electronic Games,510,234,6,6/6/2020,6/13/2020,Standard Class,EMI,United States,Chicago,Illinois
+CA-2019-155040,AH-10210,TEC-AC-10004469,Sukant,Consumer,Clothing,Saree,382,68,3,11/10/2019,11/15/2019,Standard Class,COD,United States,Chicago,Illinois
+CA-2021-136826,CB-12535,OFF-AR-10003602,Harsh,Corporate,Clothing,Leggings,33,13,3,6/16/2021,6/20/2021,Standard Class,UPI,United States,Chicago,Illinois
+CA-2020-111010,PG-18895,OFF-FA-10003472,Yaanvi,Consumer,Clothing,Saree,381,-13,2,1/22/2020,1/28/2020,Second Class,COD,United States,Chicago,Illinois
+US-2021-145366,CA-12310,OFF-ST-10004180,Palak,Corporate,Electronics,Accessories,490,88,2,12/9/2021,12/13/2021,Second Class,EMI,United States,New York City,New York
+US-2021-145366,CA-12310,OFF-EN-10004386,Shrichand,Corporate,Clothing,Saree,381,144,2,12/9/2021,12/13/2021,Second Class,COD,United States,New York City,New York
+CA-2021-163979,KH-16690,OFF-ST-10003208,Kshitij,Corporate,Electronics,Phones,487,143,4,12/28/2021,1/2/2022,Standard Class,EMI,United States,New York City,New York
+CA-2019-155334,HA-14920,TEC-AC-10003628,Mrunal,Consumer,Furniture,Bookcases,366,84,3,7/30/2019,7/31/2019,Second Class,COD,United States,Pasadena,Texas
+CA-2019-155334,HA-14920,FUR-FU-10003274,Kanak,Consumer,Clothing,Shirt,33,-29,3,7/30/2019,7/31/2019,Second Class,UPI,United States,Houston,Texas
+CA-2019-155334,HA-14920,OFF-BI-10002557,Shreya,Consumer,Electronics,Phones,365,107,3,7/30/2019,7/31/2019,Standard Class,COD,United States,Houston,Texas
+CA-2021-118136,BB-10990,OFF-PA-10002615,Divyeshkumar,Corporate,Clothing,Saree,207,-100,2,9/16/2021,9/17/2021,Standard Class,UPI,United States,Chicago,Illinois
+CA-2021-118136,BB-10990,OFF-AR-10001427,Shruti,Corporate,Furniture,Bookcases,359,-338,5,9/16/2021,9/17/2021,Standard Class,COD,United States,Brentwood,California
+CA-2021-132976,AG-10495,OFF-PA-10000673,Karandeep,Corporate,Electronics,Phones,351,-47,8,10/13/2021,10/17/2021,Standard Class,COD,United States,Chapel Hill,North Carolina
+CA-2021-132976,AG-10495,OFF-PA-10004470,Mitali,Corporate,Clothing,Saree,485,199,4,10/13/2021,10/17/2021,Standard Class,EMI,United States,Morristown,New Jersey
+CA-2021-132976,AG-10495,OFF-ST-10000876,Farah,Corporate,Clothing,Shirt,37,-23,4,10/13/2021,10/17/2021,Standard Class,UPI,United States,Cincinnati,Ohio
+CA-2021-132976,AG-10495,OFF-LA-10002043,Ankit,Corporate,Clothing,T-shirt,34,10,2,10/13/2021,10/17/2021,Second Class,Debit Card,United States,Cincinnati,Ohio
+US-2019-161991,SC-20725,OFF-BI-10004967,Ekta,Consumer,Furniture,Chairs,346,108,3,9/26/2019,9/28/2019,First Class,COD,United States,San Francisco,California
+US-2019-161991,SC-20725,TEC-PH-10001760,Subhashree,Consumer,Electronics,Electronic Games,342,-103,4,9/26/2019,9/28/2019,First Class,COD,United States,San Francisco,California
+CA-2019-130890,JO-15280,FUR-TA-10002903,Nitant,Consumer,Furniture,Furnishings,35,-8,2,11/2/2019,11/6/2019,First Class,Debit Card,United States,San Francisco,California
+CA-2019-130883,TB-21520,OFF-PA-10000474,Surabhi,Consumer,Clothing,Stole,121,41,4,9/26/2019,10/2/2019,First Class,UPI,United States,San Francisco,California
+CA-2019-130883,TB-21520,TEC-AC-10001956,Aayush,Consumer,Electronics,Phones,336,57,2,9/26/2019,10/2/2019,First Class,COD,United States,Inglewood,California
+CA-2019-130883,TB-21520,OFF-PA-10004100,Aditya,Consumer,Furniture,Bookcases,336,71,3,9/26/2019,10/2/2019,Standard Class,COD,United States,Inglewood,California
+CA-2020-112697,AH-10195,OFF-BI-10000778,Apsingekar,Corporate,Clothing,Hankerchief,27,4,1,12/18/2020,12/20/2020,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2020-112697,AH-10195,OFF-AP-10002684,Anand,Corporate,Electronics,Phones,333,50,2,12/18/2020,12/20/2020,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2020-112697,AH-10195,OFF-SU-10000646,Anita,Corporate,Clothing,Leggings,36,7,3,12/18/2020,12/20/2020,Standard Class,Debit Card,United States,Philadelphia,Pennsylvania
+CA-2020-110772,NZ-18565,OFF-FA-10002983,Tushina,Home Office,Electronics,Phones,333,-15,3,11/20/2020,11/24/2020,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2020-110772,NZ-18565,OFF-LA-10004689,Kalyani,Home Office,Clothing,Trousers,327,114,4,11/20/2020,11/24/2020,Second Class,COD,United States,Houston,Texas
+CA-2020-110772,NZ-18565,TEC-AC-10002001,Divyansh,Home Office,Clothing,Hankerchief,18,6,3,11/20/2020,11/24/2020,Standard Class,UPI,United States,Houston,Texas
+CA-2020-110772,NZ-18565,FUR-BO-10004709,Shreya,Home Office,Clothing,T-shirt,325,32,7,11/20/2020,11/24/2020,Standard Class,COD,United States,Los Angeles,California
+CA-2018-111451,KL-16555,FUR-FU-10004091,Ginny,Corporate,Electronics,Electronic Games,482,-6,7,12/26/2018,12/28/2018,Standard Class,EMI,United States,Portland,Oregon
+CA-2018-111451,KL-16555,FUR-CH-10001891,Omkar,Corporate,Electronics,Phones,465,-33,4,12/26/2018,12/28/2018,Standard Class,EMI,United States,Portland,Oregon
+CA-2018-111451,KL-16555,FUR-FU-10002918,Sarita,Corporate,Clothing,Shirt,40,-12,3,12/26/2018,12/28/2018,Second Class,COD,United States,Portland,Oregon
+CA-2018-111451,KL-16555,OFF-BI-10004593,Adhvaita,Corporate,Clothing,Stole,107,36,6,12/26/2018,12/28/2018,Second Class,COD,United States,Tamarac,Florida
+CA-2018-111451,KL-16555,OFF-FA-10004854,Piyam,Corporate,Furniture,Chairs,312,-312,7,12/26/2018,12/28/2018,Second Class,COD,United States,Tamarac,Florida
+CA-2020-142545,JD-15895,OFF-PA-10002105,Shefali,Corporate,Electronics,Phones,451,25,3,10/28/2020,11/3/2020,Second Class,EMI,United States,Tamarac,Florida
+CA-2020-142545,JD-15895,OFF-ST-10002756,Anchal,Corporate,Electronics,Electronic Games,312,62,1,10/28/2020,11/3/2020,Second Class,COD,United States,Columbus,Ohio
+CA-2020-142545,JD-15895,OFF-PA-10004243,Manibalan,Corporate,Furniture,Bookcases,311,72,2,10/28/2020,11/3/2020,Second Class,COD,United States,Columbus,Ohio
+CA-2020-142545,JD-15895,FUR-FU-10001861,Mansi,Corporate,Clothing,Hankerchief,11,5,2,10/28/2020,11/3/2020,Second Class,UPI,United States,Columbus,Ohio
+CA-2020-142545,JD-15895,OFF-BI-10002706,Shubham,Corporate,Clothing,T-shirt,37,-5,3,10/28/2020,11/3/2020,First Class,Debit Card,United States,Columbus,Ohio
+US-2021-152380,JH-15910,FUR-TA-10002533,Amit,Consumer,Electronics,Phones,444,-200,4,11/19/2021,11/23/2021,First Class,EMI,United States,Colorado Springs,Colorado
+CA-2019-144253,AS-10225,FUR-FU-10002671,Aayushi,Corporate,Clothing,Shirt,434,26,11,5/4/2019,5/9/2019,First Class,Credit Card,United States,Colorado Springs,Colorado
+CA-2018-130960,KB-16600,OFF-AR-10003651,Pradeep,Corporate,Clothing,Stole,299,0,6,12/30/2018,1/4/2019,First Class,COD,United States,Colorado Springs,Colorado
+CA-2018-111003,CR-12625,OFF-BI-10001072,Jaideep,Home Office,Clothing,Hankerchief,37,17,3,6/1/2018,6/6/2018,First Class,Debit Card,United States,Colorado Springs,Colorado
+CA-2018-111003,CR-12625,OFF-AR-10002135,Aditya,Home Office,Furniture,Bookcases,299,113,2,6/1/2018,6/6/2018,Standard Class,COD,United States,Colorado Springs,Colorado
+CA-2021-126774,SH-20395,OFF-AR-10002804,Ritu,Consumer,Furniture,Bookcases,298,74,2,4/15/2021,4/17/2021,Standard Class,COD,United States,Belleville,New Jersey
+CA-2020-142902,BP-11185,FUR-FU-10001918,Suhani,Corporate,Clothing,Leggings,94,7,7,9/12/2020,9/14/2020,Standard Class,UPI,United States,Belleville,New Jersey
+CA-2020-142902,BP-11185,FUR-CH-10004086,Shreya,Corporate,Clothing,Saree,296,225,11,9/12/2020,9/14/2020,Standard Class,COD,United States,Belleville,New Jersey
+CA-2020-142902,BP-11185,FUR-FU-10001756,Hitika,Corporate,Clothing,Hankerchief,37,17,3,9/12/2020,9/14/2020,Standard Class,Debit Card,United States,Belleville,New Jersey
+CA-2020-142902,BP-11185,OFF-LA-10000634,Sandra,Corporate,Electronics,Printers,291,93,2,9/12/2020,9/14/2020,Standard Class,COD,United States,Belleville,New Jersey
+CA-2018-120887,TS-21205,FUR-FU-10001588,Syed,Corporate,Electronics,Phones,327,-39,1,9/27/2018,10/3/2018,Second Class,COD,United States,Chicago,Illinois
+CA-2018-167850,AG-10525,TEC-PH-10002398,Sheetal,Corporate,Clothing,Saree,291,119,11,8/9/2018,8/16/2018,Standard Class,COD,United States,New York City,New York
+CA-2018-167850,AG-10525,OFF-PA-10001937,Vandana,Corporate,Clothing,Kurti,287,-66,6,8/9/2018,8/16/2018,Standard Class,COD,United States,Taylor,Michigan
+CA-2018-164259,SP-20860,OFF-AR-10003373,Subhasmita,Corporate,Electronics,Accessories,42,15,1,12/28/2018,12/30/2018,Standard Class,UPI,United States,Lakewood,New Jersey
+CA-2018-164973,NM-18445,FUR-CH-10002602,Chayanika,Home Office,Electronics,Electronic Games,429,61,3,11/4/2018,11/9/2018,First Class,Credit Card,United States,Lakewood,New Jersey
+CA-2018-164973,NM-18445,TEC-MA-10002927,Nandita,Home Office,Electronics,Printers,285,128,2,11/4/2018,11/9/2018,Second Class,COD,United States,Arlington,Virginia
+CA-2018-164973,NM-18445,TEC-PH-10004093,Anita,Home Office,Electronics,Electronic Games,277,3,1,11/4/2018,11/9/2018,Second Class,COD,United States,Arvada,Colorado
+CA-2018-164973,NM-18445,TEC-AC-10000892,Suraj,Home Office,Electronics,Phones,274,-7,4,11/4/2018,11/9/2018,Second Class,COD,United States,Arvada,Colorado
+CA-2018-164973,NM-18445,OFF-ST-10002974,Atharv,Home Office,Electronics,Phones,273,-87,4,11/4/2018,11/9/2018,Second Class,COD,United States,Arvada,Colorado
+CA-2018-156601,FA-14230,OFF-FA-10000624,Raksha,Corporate,Electronics,Electronic Games,269,91,1,9/19/2018,9/24/2018,Standard Class,COD,United States,Arvada,Colorado
+CA-2020-162138,GK-14620,OFF-BI-10004593,Manju,Corporate,Clothing,Skirt,11,5,1,4/23/2020,4/27/2020,Standard Class,COD,United States,Hackensack,New Jersey
+CA-2020-162138,GK-14620,TEC-AC-10001908,Divsha,Corporate,Clothing,Saree,39,2,2,4/23/2020,4/27/2020,Standard Class,Debit Card,United States,Saint Petersburg,Florida
+CA-2021-153339,DJ-13510,FUR-FU-10001967,Sheetal,Corporate,Clothing,Trousers,264,-26,3,11/3/2021,11/5/2021,First Class,COD,United States,Saint Petersburg,Florida
+US-2020-141544,PO-18850,TEC-PH-10003645,Moumita,Consumer,Clothing,Hankerchief,40,16,3,8/30/2020,9/1/2020,Standard Class,Debit Card,United States,Philadelphia,Pennsylvania
+US-2020-141544,PO-18850,OFF-ST-10000675,Bhavna,Consumer,Clothing,T-shirt,41,19,2,8/30/2020,9/1/2020,Standard Class,Debit Card,United States,New York City,New York
+US-2020-141544,PO-18850,FUR-CH-10003312,Suman,Consumer,Clothing,Saree,253,-63,2,8/30/2020,9/1/2020,Standard Class,UPI,United States,New York City,New York
+US-2020-141544,PO-18850,OFF-LA-10001074,Bhargav,Consumer,Furniture,Chairs,406,97,7,8/30/2020,9/1/2020,Standard Class,Credit Card,United States,New York City,New York
+US-2020-141544,PO-18850,OFF-BI-10001524,Mukund,Consumer,Clothing,Hankerchief,32,7,3,8/30/2020,9/1/2020,Standard Class,COD,United States,New York City,New York
+US-2020-150147,JL-15850,TEC-PH-10004614,Deepak,Consumer,Electronics,Printers,260,68,2,4/25/2020,4/29/2020,Standard Class,COD,United States,New York City,New York
+US-2020-150147,JL-15850,OFF-BI-10001153,Shantanu,Consumer,Clothing,Hankerchief,41,19,5,4/25/2020,4/29/2020,Standard Class,Debit Card,United States,Long Beach,California
+US-2020-150147,JL-15850,OFF-BI-10001982,Patil,Consumer,Furniture,Chairs,401,13,6,4/25/2020,4/29/2020,Standard Class,Credit Card,United States,Hesperia,California
+CA-2019-137946,DB-13615,OFF-BI-10001922,Vaibhavi,Consumer,Clothing,Saree,382,30,3,9/1/2019,9/4/2019,Second Class,Credit Card,United States,Hesperia,California
+CA-2019-137946,DB-13615,TEC-CO-10001449,Sanskriti,Consumer,Electronics,Phones,867,251,5,9/1/2019,9/4/2019,First Class,COD,United States,Murfreesboro,Tennessee
+CA-2019-137946,DB-13615,OFF-BI-10004140,Prajakta,Consumer,Clothing,Saree,43,0,3,9/1/2019,9/4/2019,First Class,Debit Card,United States,Philadelphia,Pennsylvania
+CA-2018-129924,AC-10420,OFF-BI-10003314,Saptadeep,Corporate,Clothing,Stole,43,-43,7,7/12/2018,7/17/2018,First Class,Debit Card,United States,Philadelphia,Pennsylvania
+CA-2018-129924,AC-10420,FUR-TA-10004575,Saurabh,Corporate,Clothing,Stole,74,29,3,7/12/2018,7/17/2018,First Class,COD,United States,Philadelphia,Pennsylvania
+CA-2019-128167,KL-16645,OFF-FA-10000490,Nida,Consumer,Clothing,Hankerchief,44,-26,3,6/22/2019,6/26/2019,First Class,Debit Card,United States,Philadelphia,Pennsylvania
+CA-2018-122336,JD-15895,OFF-AR-10000122,Yogesh,Corporate,Furniture,Chairs,259,-55,2,4/13/2018,4/17/2018,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2018-122336,JD-15895,OFF-BI-10003656,Anisha,Corporate,Clothing,Hankerchief,257,23,5,4/13/2018,4/17/2018,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2018-122336,JD-15895,OFF-FA-10002780,Sahil,Corporate,Clothing,Stole,76,27,5,4/13/2018,4/17/2018,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2018-122336,JD-15895,TEC-PH-10000702,Arsheen,Corporate,Clothing,Stole,44,-32,3,4/13/2018,4/17/2018,Second Class,Debit Card,United States,Philadelphia,Pennsylvania
+US-2019-120712,CS-12130,OFF-ST-10000107,Rashmi,Consumer,Clothing,Saree,257,3,2,12/20/2019,12/24/2019,Second Class,COD,United States,Los Angeles,California
+CA-2021-169901,CC-12550,TEC-PH-10002293,Gaurav,Consumer,Clothing,Hankerchief,255,76,9,6/15/2021,6/19/2021,Second Class,COD,United States,Los Angeles,California
+CA-2021-134306,TD-20995,OFF-AR-10004027,Meghana,Consumer,Clothing,Hankerchief,44,14,3,7/8/2021,7/12/2021,Standard Class,Debit Card,United States,Los Angeles,California
+CA-2021-134306,TD-20995,OFF-PA-10000249,Aditi,Consumer,Clothing,Shirt,45,-2,4,7/8/2021,7/12/2021,Standard Class,COD,United States,San Francisco,California
+CA-2021-134306,TD-20995,OFF-AR-10001374,Kanak,Consumer,Clothing,Saree,44,-3,1,7/8/2021,7/12/2021,Second Class,Debit Card,United States,San Francisco,California
+CA-2020-129714,AB-10060,TEC-AC-10000290,Teena,Home Office,Clothing,Saree,382,119,2,9/1/2020,9/3/2020,Second Class,Credit Card,United States,Layton,Utah
+CA-2020-129714,AB-10060,OFF-PA-10001970,Samiksha,Home Office,Clothing,Trousers,250,100,3,9/1/2020,9/3/2020,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2020-129714,AB-10060,OFF-BI-10002160,Daksh,Home Office,Furniture,Chairs,45,-15,2,9/1/2020,9/3/2020,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2020-129714,AB-10060,OFF-PA-10001970,Akash,Home Office,Furniture,Bookcases,246,61,2,9/1/2020,9/3/2020,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2020-129714,AB-10060,OFF-BI-10004995,Aditya,Home Office,Clothing,Stole,50,25,5,9/1/2020,9/3/2020,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2020-138520,JL-15505,FUR-BO-10002268,Pooja,Consumer,Clothing,Hankerchief,246,98,5,4/8/2020,4/13/2020,Standard Class,COD,United States,Austin,Texas
+CA-2020-138520,JL-15505,OFF-EN-10001137,Shubhi,Consumer,Clothing,Kurti,44,99,3,4/8/2020,4/13/2020,Standard Class,Debit Card,United States,San Francisco,California
+CA-2020-138520,JL-15505,OFF-AR-10002399,Kasheen,Consumer,Clothing,Saree,245,-78,3,4/8/2020,4/13/2020,Standard Class,COD,United States,Lowell,Massachusetts
+CA-2020-138520,JL-15505,OFF-PA-10002713,Riya,Consumer,Clothing,Saree,245,30,2,4/8/2020,4/13/2020,Standard Class,COD,United States,Lowell,Massachusetts
+CA-2020-130001,HK-14890,OFF-PA-10002666,Utsav,Corporate,Clothing,Stole,376,0,7,4/23/2020,4/28/2020,First Class,Credit Card,United States,Lowell,Massachusetts
+CA-2021-155698,VB-21745,OFF-AP-10001124,Ajay,Corporate,Clothing,T-shirt,45,1,3,3/8/2021,3/11/2021,First Class,Debit Card,United States,New York City,New York
+CA-2021-155698,VB-21745,OFF-LA-10001158,Megha,Corporate,Clothing,Stole,45,-28,2,3/8/2021,3/11/2021,First Class,Debit Card,United States,New York City,New York
+CA-2021-144904,KW-16435,OFF-LA-10001158,Rhea,Consumer,Furniture,Furnishings,244,-122,5,9/25/2021,10/1/2021,First Class,COD,United States,New York City,New York
+CA-2021-144904,KW-16435,FUR-CH-10000785,Ishit,Consumer,Furniture,Bookcases,244,83,2,9/25/2021,10/1/2021,First Class,COD,United States,New York City,New York
+CA-2021-144904,KW-16435,OFF-AR-10003732,Smriti,Consumer,Clothing,Kurti,10,4,1,9/25/2021,10/1/2021,Standard Class,UPI,United States,New York City,New York
+CA-2021-144904,KW-16435,FUR-FU-10000023,Anita,Consumer,Furniture,Bookcases,375,180,3,9/25/2021,10/1/2021,Standard Class,Credit Card,United States,New York City,New York
+CA-2018-123344,JD-16060,OFF-ST-10001713,Ankita,Consumer,Clothing,Skirt,46,14,5,9/24/2018,9/29/2018,Standard Class,Debit Card,United States,New York City,New York
+CA-2020-155516,MK-17905,OFF-BI-10002412,Masurkar,Corporate,Clothing,Stole,49,-31,2,10/21/2020,10/21/2020,Standard Class,UPI,United States,New York City,New York
+CA-2020-155516,MK-17905,OFF-SU-10001225,Shivani,Corporate,Clothing,Kurti,47,-20,2,10/21/2020,10/21/2020,Standard Class,Debit Card,United States,New York City,New York
+CA-2020-155516,MK-17905,OFF-ST-10002406,Dheeraj,Corporate,Clothing,Stole,355,-114,7,10/21/2020,10/21/2020,First Class,Credit Card,United States,Charlotte,North Carolina
+CA-2020-155516,MK-17905,FUR-BO-10002545,Abhishek,Corporate,Clothing,Hankerchief,32,8,5,10/21/2020,10/21/2020,First Class,UPI,United States,Columbus,Georgia
+CA-2021-104745,GT-14755,OFF-PA-10002036,Gunjal,Consumer,Furniture,Chairs,243,-14,2,5/29/2021,6/4/2021,Standard Class,COD,United States,Columbus,Georgia
+CA-2021-104745,GT-14755,OFF-ST-10002205,Ashmi,Consumer,Electronics,Electronic Games,241,-77,4,5/29/2021,6/4/2021,Standard Class,COD,United States,New York City,New York
+US-2018-119137,AG-10900,OFF-BI-10001982,Kanak,Consumer,Clothing,Saree,47,15,5,7/23/2018,7/27/2018,Standard Class,Debit Card,United States,New York City,New York
+US-2018-119137,AG-10900,TEC-AC-10003911,Jesslyn,Consumer,Clothing,Skirt,50,-10,6,7/23/2018,7/27/2018,Standard Class,Debit Card,United States,New York City,New York
+US-2018-119137,AG-10900,OFF-AR-10000658,Ankit,Consumer,Clothing,Hankerchief,15,6,2,7/23/2018,7/27/2018,Standard Class,COD,United States,New York City,New York
+US-2018-119137,AG-10900,TEC-AC-10002076,Akshay,Consumer,Clothing,Stole,148,24,3,7/23/2018,7/27/2018,Same Day,COD,United States,San Francisco,California
+US-2020-134656,MM-18280,OFF-PA-10003039,Sonakshi,Corporate,Electronics,Electronic Games,299,-28,3,9/28/2020,10/1/2020,Same Day,UPI,United States,Manchester,Connecticut
+US-2021-134481,AR-10405,FUR-TA-10004915,Vipul,Corporate,Electronics,Phones,68,-30,1,8/27/2021,9/1/2021,Same Day,UPI,United States,Manchester,Connecticut
+CA-2019-130792,RA-19915,OFF-AP-10000696,Pranav,Consumer,Clothing,Leggings,52,18,5,4/28/2019,5/5/2019,Same Day,Debit Card,United States,Manchester,Connecticut
+CA-2019-130792,RA-19915,OFF-ST-10003327,Apoorv,Consumer,Furniture,Chairs,239,-162,5,4/28/2019,5/5/2019,Standard Class,COD,United States,Manchester,Connecticut
+CA-2019-130792,RA-19915,OFF-BI-10000309,Rahul,Consumer,Clothing,Skirt,27,6,3,4/28/2019,5/5/2019,Standard Class,COD,United States,Harlingen,Texas
+CA-2020-134775,AS-10285,OFF-PA-10004734,Geetanjali,Corporate,Clothing,Saree,238,20,2,10/28/2020,10/29/2020,Standard Class,COD,United States,Harlingen,Texas
+CA-2020-134775,AS-10285,OFF-BI-10002225,Preksha,Corporate,Clothing,Shirt,48,16,3,10/28/2020,10/29/2020,Standard Class,COD,United States,Tucson,Arizona
+CA-2019-125395,LA-16780,TEC-AC-10004708,Shyam,Corporate,Clothing,Stole,66,22,3,6/26/2019,6/29/2019,Standard Class,UPI,United States,Tucson,Arizona
+US-2019-168935,DO-13435,FUR-TA-10000617,Sakshi,Consumer,Clothing,Hankerchief,53,24,1,11/27/2019,12/2/2019,Standard Class,Debit Card,United States,Tucson,Arizona
+US-2019-168935,DO-13435,TEC-AC-10002335,Aromal,Consumer,Electronics,Electronic Games,233,-10,5,11/27/2019,12/2/2019,First Class,COD,United States,Tucson,Arizona
+CA-2019-122756,DK-13225,TEC-MA-10001681,Sanjay,Corporate,Clothing,Saree,53,-2,3,12/3/2019,12/7/2019,Standard Class,Debit Card,United States,Quincy,Illinois
+CA-2019-122756,DK-13225,FUR-FU-10001935,Lisha,Corporate,Clothing,T-shirt,54,8,4,12/3/2019,12/7/2019,Standard Class,Debit Card,United States,Franklin,Massachusetts
+CA-2018-115973,NG-18430,OFF-AR-10004757,Jayanti,Consumer,Clothing,Saree,352,-345,5,11/24/2018,11/26/2018,Standard Class,Credit Card,United States,Houston,Texas
+CA-2021-101798,MV-18190,OFF-BI-10000050,Kritika,Consumer,Clothing,Stole,349,0,7,12/11/2021,12/15/2021,Standard Class,Credit Card,United States,Houston,Texas
+CA-2021-101798,MV-18190,TEC-AC-10001998,Arindam,Consumer,Clothing,Trousers,341,-85,6,12/11/2021,12/15/2021,First Class,Credit Card,United States,Houston,Texas
+US-2018-135972,JG-15115,TEC-PH-10003012,Maithilee,Consumer,Clothing,Saree,54,12,3,9/21/2018,9/23/2018,First Class,Debit Card,United States,San Francisco,California
+US-2018-135972,JG-15115,TEC-CO-10002313,Ramesh,Consumer,Clothing,Shirt,57,7,2,9/21/2018,9/23/2018,Second Class,UPI,United States,San Francisco,California
+US-2018-134971,BP-11095,OFF-BI-10003982,Jitesh,Corporate,Clothing,Shirt,340,20,7,6/7/2018,6/10/2018,Standard Class,Credit Card,United States,Taylor,Michigan
+CA-2021-102946,VP-21730,OFF-BI-10004492,Sandeep,Home Office,Clothing,Stole,227,48,5,6/30/2021,7/5/2021,Standard Class,COD,United States,Pembroke Pines,Florida
+CA-2021-165603,SS-20140,OFF-ST-10000798,Soodesh,Corporate,Furniture,Bookcases,330,81,1,10/17/2021,10/19/2021,Standard Class,Credit Card,United States,Pembroke Pines,Florida
+CA-2021-165603,SS-20140,OFF-PA-10002552,Bharat,Corporate,Furniture,Furnishings,216,-38,6,10/17/2021,10/19/2021,Standard Class,UPI,United States,Philadelphia,Pennsylvania
+CA-2019-122259,HP-14815,OFF-SU-10002573,Ritu,Home Office,Furniture,Chairs,224,-143,3,10/31/2019,11/4/2019,First Class,COD,United States,Philadelphia,Pennsylvania
+CA-2020-108987,AG-10675,OFF-ST-10001580,Hazel,Consumer,Furniture,Chairs,55,-33,2,9/8/2020,9/10/2020,Standard Class,Debit Card,United States,Cincinnati,Ohio
+CA-2020-108987,AG-10675,FUR-BO-10004834,Shivam,Consumer,Clothing,Stole,49,21,1,9/8/2020,9/10/2020,Standard Class,UPI,United States,New York City,New York
+CA-2020-108987,AG-10675,OFF-ST-10000934,Parnavi,Consumer,Clothing,Trousers,224,87,3,9/8/2020,9/10/2020,Second Class,COD,United States,New York City,New York
+CA-2020-108987,AG-10675,TEC-AC-10000158,Swati,Consumer,Furniture,Bookcases,223,27,2,9/8/2020,9/10/2020,Second Class,COD,United States,Des Moines,Washington
+CA-2018-113166,LF-17185,OFF-PA-10001947,Parakh,Consumer,Electronics,Accessories,324,39,8,12/24/2018,12/26/2018,Second Class,Credit Card,United States,Des Moines,Washington
+CA-2018-155208,SP-20650,OFF-AR-10003478,Priyanka,Corporate,Clothing,Hankerchief,56,18,2,4/16/2018,4/20/2018,Standard Class,Debit Card,United States,Peoria,Illinois
+CA-2021-117933,RF-19840,OFF-AP-10004249,Arun,Consumer,Clothing,Shirt,223,62,7,12/24/2021,12/29/2021,Second Class,COD,United States,Las Vegas,Nevada
+CA-2021-117457,KH-16510,TEC-AC-10000158,Hemant,Consumer,Clothing,Skirt,10,2,2,12/8/2021,12/12/2021,Second Class,COD,United States,Warwick,Rhode Island
+CA-2021-117457,KH-16510,TEC-CO-10004115,Utkarsh,Consumer,Clothing,Leggings,57,6,5,12/8/2021,12/12/2021,Standard Class,Debit Card,United States,Warwick,Rhode Island
+CA-2021-117457,KH-16510,OFF-PA-10003724,Sagar,Consumer,Clothing,Saree,322,-113,4,12/8/2021,12/12/2021,Second Class,Credit Card,United States,Jackson,Michigan
+CA-2021-117457,KH-16510,FUR-TA-10002041,Nirja,Consumer,Clothing,Saree,219,4,2,12/8/2021,12/12/2021,Second Class,COD,United States,Houston,Texas
+CA-2021-117457,KH-16510,OFF-PA-10002893,Abhijit,Consumer,Clothing,Stole,103,21,7,12/8/2021,12/12/2021,Second Class,UPI,United States,Houston,Texas
+CA-2021-117457,KH-16510,OFF-LA-10003766,Sonakshi,Consumer,Clothing,Saree,47,-27,4,12/8/2021,12/12/2021,Second Class,COD,United States,Houston,Texas
+CA-2021-117457,KH-16510,OFF-PA-10001970,Mayank,Consumer,Clothing,Saree,219,0,1,12/8/2021,12/12/2021,First Class,COD,United States,Houston,Texas
+CA-2021-117457,KH-16510,FUR-BO-10001972,Avni,Consumer,Clothing,Leggings,57,-48,6,12/8/2021,12/12/2021,Standard Class,Debit Card,United States,Miami,Florida
+CA-2021-117457,KH-16510,FUR-CH-10003956,Wale,Consumer,Electronics,Accessories,319,102,6,12/8/2021,12/12/2021,Standard Class,Credit Card,United States,Wilmington,North Carolina
+CA-2021-142636,KC-16675,OFF-PA-10000157,Kasheen,Corporate,Furniture,Chairs,315,-8,3,11/3/2021,11/7/2021,Standard Class,Credit Card,United States,New York City,New York
+CA-2021-142636,KC-16675,FUR-CH-10001891,Abhishek,Corporate,Electronics,Electronic Games,314,-41,3,11/3/2021,11/7/2021,Standard Class,Credit Card,United States,San Francisco,California
+CA-2021-122105,CJ-12010,OFF-AR-10004344,Aayushi,Consumer,Electronics,Electronic Games,311,40,1,6/24/2021,6/28/2021,Standard Class,EMI,United States,San Francisco,California
+CA-2020-148796,PB-19150,FUR-CH-10004886,Sidharth,Consumer,Electronics,Accessories,307,74,3,4/14/2020,4/18/2020,Standard Class,EMI,United States,San Francisco,California
+CA-2021-154816,VB-21745,OFF-PA-10003845,Bhutekar,Corporate,Electronics,Accessories,294,109,7,11/6/2021,11/10/2021,Standard Class,EMI,United States,San Francisco,California
+CA-2021-110478,SP-20860,OFF-AR-10001573,Mugdha,Corporate,Electronics,Electronic Games,216,-83,3,3/4/2021,3/9/2021,Standard Class,COD,United States,San Francisco,California
+CA-2021-110478,SP-20860,OFF-EN-10000483,Bhavna,Corporate,Furniture,Chairs,58,-42,2,3/4/2021,3/9/2021,Standard Class,Debit Card,United States,San Francisco,California
+CA-2018-142048,JE-15745,TEC-AC-10004114,Deepak,Consumer,Clothing,Stole,48,20,4,6/22/2018,6/25/2018,Standard Class,UPI,United States,San Francisco,California
+CA-2021-125388,MP-17965,FUR-FU-10004712,Aryan,Corporate,Clothing,T-shirt,54,14,3,10/19/2021,10/23/2021,Standard Class,UPI,United States,San Francisco,California
+CA-2021-125388,MP-17965,OFF-ST-10000918,Krishna,Corporate,Clothing,Stole,216,50,4,10/19/2021,10/23/2021,Standard Class,COD,United States,San Francisco,California
+CA-2021-155705,NF-18385,FUR-CH-10000015,Divsha,Consumer,Clothing,Saree,215,-30,2,8/21/2021,8/23/2021,Standard Class,COD,United States,Seattle,Washington
+CA-2021-149160,JM-15265,FUR-FU-10003347,Nikhil,Corporate,Clothing,Leggings,43,8,3,11/23/2021,11/26/2021,Standard Class,COD,United States,Seattle,Washington
+CA-2021-149160,JM-15265,OFF-BI-10001543,Shikhar,Corporate,Clothing,Saree,136,-33,5,11/23/2021,11/26/2021,Standard Class,COD,United States,Huntington Beach,California
+CA-2018-101476,SD-20485,TEC-MA-10000029,Surabhi,Home Office,Clothing,Leggings,59,-30,3,9/12/2018,9/13/2018,Standard Class,Debit Card,United States,Los Angeles,California
+CA-2021-152275,KH-16630,OFF-AR-10000369,Rane,Corporate,Clothing,Shirt,213,4,14,10/1/2021,10/8/2021,Standard Class,COD,United States,Richmond,Kentucky
+US-2020-123750,RB-19795,OFF-BI-10004584,Noshiba,Home Office,Clothing,Stole,59,21,2,4/15/2020,4/21/2020,Standard Class,Debit Card,United States,Los Angeles,California
+US-2020-123750,RB-19795,TEC-AC-10004659,Saurabh,Home Office,Clothing,T-shirt,55,3,3,4/15/2020,4/21/2020,First Class,COD,United States,Los Angeles,California
+US-2020-123750,RB-19795,TEC-AC-10004659,Siddharth,Home Office,Clothing,T-shirt,294,62,9,4/15/2020,4/21/2020,Standard Class,EMI,United States,Louisville,Colorado
+US-2020-123750,RB-19795,OFF-ST-10000617,Dipali,Home Office,Electronics,Phones,210,62,2,4/15/2020,4/21/2020,Standard Class,COD,United States,Lawrence,Massachusetts
+CA-2020-127369,DB-13060,OFF-ST-10003306,Bharat,Consumer,Clothing,Kurti,59,24,6,6/6/2020,6/7/2020,Second Class,Debit Card,United States,Lawrence,Massachusetts
+US-2018-150574,MK-18160,OFF-BI-10000773,Hitika,Consumer,Clothing,Saree,396,-31,9,12/19/2018,12/25/2018,Second Class,COD,United States,Jackson,Mississippi
+US-2018-150574,MK-18160,TEC-AC-10002600,Vivek,Consumer,Furniture,Bookcases,284,45,2,12/19/2018,12/25/2018,Second Class,EMI,United States,Canton,Michigan
+CA-2020-147375,PO-19180,TEC-MA-10002937,Ashmi,Home Office,Clothing,Saree,276,52,5,6/12/2020,6/14/2020,First Class,EMI,United States,Canton,Michigan
+CA-2020-147375,PO-19180,OFF-PA-10001970,Sanskriti,Home Office,Clothing,Skirt,23,2,2,6/12/2020,6/14/2020,Standard Class,UPI,United States,New Rochelle,New York
+CA-2021-130043,BB-11545,OFF-PA-10002230,Sagar,Corporate,Electronics,Electronic Games,209,-63,4,9/15/2021,9/19/2021,Standard Class,COD,United States,San Antonio,Texas
+CA-2021-157252,CV-12805,FUR-CH-10003396,Pratiksha,Corporate,Furniture,Furnishings,50,-28,5,1/20/2021,1/23/2021,Standard Class,COD,United States,Gastonia,North Carolina
+CA-2020-115756,PK-19075,FUR-FU-10000246,Akshata,Consumer,Clothing,Shirt,57,27,2,9/5/2020,9/7/2020,Standard Class,COD,United States,Gastonia,North Carolina
+CA-2020-115756,PK-19075,OFF-ST-10000060,Komal,Consumer,Electronics,Phones,276,-21,2,9/5/2020,9/7/2020,Standard Class,EMI,United States,Gastonia,North Carolina
+CA-2020-115756,PK-19075,OFF-ST-10003058,Sonakshi,Consumer,Furniture,Bookcases,268,6,2,9/5/2020,9/7/2020,First Class,UPI,United States,Gastonia,North Carolina
+CA-2020-115756,PK-19075,OFF-PA-10002222,Duhita,Consumer,Clothing,Trousers,269,111,3,9/5/2020,9/7/2020,Standard Class,EMI,United States,Lowell,Massachusetts
+CA-2020-115756,PK-19075,FUR-CH-10002372,Anmol,Consumer,Clothing,Saree,209,2,1,9/5/2020,9/7/2020,Standard Class,COD,United States,Jacksonville,Florida
+CA-2020-115756,PK-19075,OFF-LA-10001317,Tushina,Consumer,Clothing,Hankerchief,60,-12,4,9/5/2020,9/7/2020,Second Class,Debit Card,United States,Jacksonville,Florida
+CA-2021-154214,TB-21595,FUR-FU-10000206,Inderpreet,Consumer,Electronics,Electronic Games,269,-86,2,3/20/2021,3/25/2021,Second Class,EMI,United States,Chicago,Illinois
+CA-2020-166674,RB-19360,OFF-AR-10000588,Mousam,Consumer,Clothing,Saree,208,-25,2,4/1/2020,4/3/2020,Standard Class,COD,United States,Chicago,Illinois
+CA-2020-166674,RB-19360,OFF-ST-10001469,Monisha,Consumer,Clothing,Leggings,27,2,2,4/1/2020,4/3/2020,Second Class,UPI,United States,Houston,Texas
+CA-2020-166674,RB-19360,OFF-AR-10001953,Shweta,Consumer,Clothing,Saree,206,-206,3,4/1/2020,4/3/2020,Second Class,COD,United States,New York City,New York
+CA-2020-166674,RB-19360,OFF-AR-10003156,Pooja,Consumer,Clothing,Hankerchief,61,8,4,4/1/2020,4/3/2020,Second Class,Debit Card,United States,Detroit,Michigan
+CA-2020-166674,RB-19360,OFF-AR-10004974,Dhirajendu,Consumer,Furniture,Chairs,212,-24,2,4/1/2020,4/3/2020,Second Class,COD,United States,Detroit,Michigan
+CA-2020-166674,RB-19360,TEC-PH-10002365,Sharda,Consumer,Clothing,Saree,262,64,6,4/1/2020,4/3/2020,Second Class,EMI,United States,Detroit,Michigan
+CA-2021-147277,EB-13705,FUR-TA-10001539,Sajal,Corporate,Furniture,Bookcases,204,276,3,10/20/2021,10/24/2021,Second Class,COD,United States,Detroit,Michigan
+CA-2021-147277,EB-13705,OFF-ST-10000142,Aakanksha,Corporate,Clothing,T-shirt,59,-46,7,10/20/2021,10/24/2021,Second Class,UPI,United States,Detroit,Michigan
+CA-2020-100153,KH-16630,TEC-AC-10001772,Phalguni,Corporate,Clothing,Saree,199,-18,2,12/13/2020,12/17/2020,Second Class,COD,United States,Detroit,Michigan
+US-2018-110674,SC-20095,FUR-CH-10000225,Snehal,Consumer,Electronics,Accessories,59,6,1,2/12/2018,2/18/2018,Second Class,UPI,United States,Columbus,Indiana
+US-2020-157945,NF-18385,FUR-CH-10002331,Manish,Consumer,Clothing,Leggings,45,9,3,9/26/2020,10/1/2020,Second Class,UPI,United States,Auburn,New York
+US-2020-157945,NF-18385,OFF-EN-10001415,Harsh,Consumer,Clothing,Stole,211,19,8,9/26/2020,10/1/2020,Second Class,COD,United States,Auburn,New York
+CA-2019-109638,JH-15985,OFF-AP-10002472,Tejas,Consumer,Electronics,Phones,65,-16,2,12/15/2019,12/22/2019,Second Class,Debit Card,United States,Auburn,New York
+CA-2019-109638,JH-15985,TEC-AC-10004571,Pearl,Consumer,Clothing,Skirt,25,0,4,12/15/2019,12/22/2019,Second Class,UPI,United States,Auburn,New York
+CA-2019-109638,JH-15985,OFF-BI-10001098,Shivangi,Consumer,Electronics,Phones,196,-7,5,12/15/2019,12/22/2019,Second Class,COD,United States,Auburn,New York
+CA-2020-109869,TN-21040,FUR-FU-10000023,Nishi,Home Office,Clothing,Shirt,261,13,6,4/22/2020,4/29/2020,Standard Class,Credit Card,United States,Auburn,New York
+CA-2020-109869,TN-21040,FUR-TA-10001889,Gunjan,Home Office,Electronics,Phones,195,-117,5,4/22/2020,4/29/2020,Standard Class,COD,United States,Akron,Ohio
+CA-2020-109869,TN-21040,OFF-BI-10000315,Swetlana,Home Office,Clothing,Saree,192,-146,3,4/22/2020,4/29/2020,Standard Class,COD,United States,Akron,Ohio
+CA-2020-109869,TN-21040,OFF-SU-10003505,Akshat,Home Office,Clothing,Stole,189,87,7,4/22/2020,4/29/2020,Standard Class,COD,United States,Norman,Oklahoma
+CA-2020-109869,TN-21040,OFF-AP-10002578,Namrata,Home Office,Clothing,Kurti,32,2,2,4/22/2020,4/29/2020,Standard Class,UPI,United States,Concord,California
+US-2019-101399,JS-15940,FUR-FU-10002918,Jaydeep,Home Office,Clothing,Shirt,188,13,7,1/17/2019,1/24/2019,Standard Class,COD,United States,Decatur,Illinois
+CA-2021-154907,DS-13180,FUR-BO-10002824,Rashmi,Corporate,Clothing,Saree,73,-25,3,3/31/2021,4/4/2021,Standard Class,COD,United States,Decatur,Illinois
+US-2020-100419,CC-12670,OFF-BI-10002194,Jahan,Consumer,Clothing,Hankerchief,259,47,5,12/16/2020,12/20/2020,Standard Class,Credit Card,United States,Seattle,Washington
+CA-2019-154144,MH-17785,OFF-PA-10004071,Sanjay,Corporate,Clothing,Trousers,187,-15,3,12/20/2019,12/24/2019,Standard Class,COD,United States,Seattle,Washington
+CA-2018-144666,JP-15520,OFF-ST-10002743,Rachna,Consumer,Clothing,Hankerchief,26,11,2,11/9/2018,11/11/2018,Standard Class,UPI,United States,Seattle,Washington
+CA-2018-144666,JP-15520,FUR-BO-10001601,Shefali,Consumer,Furniture,Chairs,185,-26,6,11/9/2018,11/11/2018,Standard Class,COD,United States,Phoenix,Arizona
+CA-2018-144666,JP-15520,TEC-PH-10002680,Akanksha,Consumer,Clothing,Saree,248,8,2,11/9/2018,11/11/2018,Standard Class,Credit Card,United States,Phoenix,Arizona
+CA-2018-144666,JP-15520,OFF-ST-10001321,Vini,Consumer,Clothing,Leggings,67,9,4,11/9/2018,11/11/2018,Standard Class,Debit Card,United States,Phoenix,Arizona
+CA-2018-144666,JP-15520,OFF-PA-10001509,Sumeet,Consumer,Furniture,Chairs,248,-70,3,11/9/2018,11/11/2018,Standard Class,Credit Card,United States,Phoenix,Arizona
+CA-2018-144666,JP-15520,OFF-PA-10003465,Parishi,Consumer,Furniture,Bookcases,246,61,2,11/9/2018,11/11/2018,Standard Class,Credit Card,United States,Phoenix,Arizona
+CA-2020-103891,KH-16690,TEC-PH-10000149,Ashvini,Corporate,Clothing,Kurti,179,-25,5,7/12/2020,7/19/2020,Standard Class,COD,United States,Park Ridge,Illinois
+CA-2020-152632,JE-15475,FUR-FU-10002671,Shweta,Consumer,Furniture,Furnishings,176,-28,5,10/27/2020,11/2/2020,Second Class,COD,United States,Amarillo,Texas
+CA-2020-100790,JG-15805,OFF-AR-10003045,Pearl,Corporate,Furniture,Furnishings,176,-13,5,6/26/2020,7/2/2020,Standard Class,COD,United States,Chicago,Illinois
+CA-2020-100790,JG-15805,OFF-ST-10000689,Ramesh,Corporate,Clothing,Trousers,68,-62,2,6/26/2020,7/2/2020,Second Class,Debit Card,United States,Lindenhurst,New York
+CA-2018-134677,XP-21865,TEC-AC-10001445,Subhashree,Consumer,Electronics,Accessories,176,37,6,10/6/2018,10/10/2018,Second Class,COD,United States,San Francisco,California
+CA-2018-127691,EM-14065,OFF-AR-10002053,Sonal,Consumer,Clothing,Hankerchief,88,11,7,7/22/2018,7/27/2018,Second Class,UPI,United States,San Francisco,California
+CA-2018-127691,EM-14065,TEC-AC-10002567,Ekta,Consumer,Clothing,Hankerchief,68,20,5,7/22/2018,7/27/2018,Second Class,Debit Card,United States,San Francisco,California
+CA-2021-140963,MT-18070,OFF-LA-10003923,Soumya,Home Office,Electronics,Electronic Games,231,99,2,6/10/2021,6/13/2021,Second Class,Credit Card,United States,San Francisco,California
+CA-2021-140963,MT-18070,FUR-BO-10001337,Rachna,Home Office,Clothing,T-shirt,62,8,2,6/10/2021,6/13/2021,Second Class,UPI,United States,San Francisco,California
+CA-2021-140963,MT-18070,TEC-PH-10001924,Manish,Home Office,Clothing,Saree,175,77,3,6/10/2021,6/13/2021,Standard Class,COD,United States,San Francisco,California
+CA-2018-154627,SA-20830,TEC-PH-10001363,Hazel,Consumer,Clothing,Leggings,71,4,5,10/29/2018,10/31/2018,Standard Class,Debit Card,United States,Los Angeles,California
+CA-2018-133753,CW-11905,TEC-PH-10000376,Mahima,Home Office,Electronics,Accessories,174,-70,3,6/9/2018,6/13/2018,Standard Class,COD,United States,Troy,New York
+CA-2018-133753,CW-11905,TEC-AC-10000303,Saloni,Home Office,Furniture,Chairs,173,69,3,6/9/2018,6/13/2018,Standard Class,COD,United States,New York City,New York
+CA-2018-133753,CW-11905,OFF-AR-10001953,Anubhaw,Home Office,Electronics,Electronic Games,171,2,2,6/9/2018,6/13/2018,Standard Class,COD,United States,New York City,New York
+CA-2018-113362,AJ-10960,OFF-ST-10001809,Ananya,Consumer,Clothing,Saree,268,-25,3,9/14/2018,9/19/2018,Standard Class,COD,United States,San Diego,California
+CA-2018-113362,AJ-10960,OFF-EN-10003845,Rohit,Consumer,Clothing,Saree,71,32,3,9/14/2018,9/19/2018,Standard Class,Debit Card,United States,New York City,New York
+CA-2020-169166,SS-20590,TEC-AC-10000991,Hemangi,Consumer,Clothing,Hankerchief,29,10,4,5/9/2020,5/14/2020,First Class,UPI,United States,New York City,New York
+US-2020-120929,RO-19780,FUR-TA-10001857,Dinesh,Consumer,Clothing,T-shirt,65,17,2,3/18/2020,3/21/2020,First Class,UPI,United States,Los Angeles,California
+CA-2019-134782,MD-17350,OFF-EN-10001434,Ashwin,Consumer,Clothing,Kurti,72,-46,7,12/27/2019,12/31/2019,First Class,Debit Card,United States,Los Angeles,California
+CA-2020-126158,SC-20095,OFF-BI-10002498,Bhavna,Consumer,Furniture,Bookcases,168,-51,2,7/25/2020,7/31/2020,First Class,COD,United States,Los Angeles,California
+CA-2020-126158,SC-20095,FUR-FU-10004864,Shivani,Consumer,Clothing,Stole,165,30,3,7/25/2020,7/31/2020,Second Class,COD,United States,Chicago,Illinois
+CA-2020-126158,SC-20095,FUR-CH-10002602,Shubham,Consumer,Electronics,Accessories,74,-59,2,7/25/2020,7/31/2020,Second Class,Debit Card,United States,Huntsville,Texas
+CA-2020-126158,SC-20095,FUR-FU-10000073,Monisha,Consumer,Clothing,Stole,89,17,2,7/25/2020,7/31/2020,Second Class,UPI,United States,Huntsville,Texas
+CA-2020-126158,MY-17380,OFF-BI-10001670,Maribeth Yedwab,Consumer,Electronics,Electronic Games,228,63,3,5/30/2020,6/4/2020,Standard Class,Credit Card,United States,Huntsville,Texas
+US-2020-105578,MY-17380,OFF-BI-10001658,Maribeth Yedwab,Corporate,Furniture,Furnishings,119,-24,4,5/30/2020,6/4/2020,Standard Class,COD,United States,Rochester,New York
+US-2020-105578,MY-17380,FUR-CH-10001215,Maribeth Yedwab,Corporate,Clothing,Stole,75,-25,3,5/30/2020,6/4/2020,Standard Class,UPI,United States,Rochester,New York
+US-2020-105578,MY-17380,OFF-BI-10000831,Maribeth Yedwab,Corporate,Clothing,T-shirt,67,20,4,5/30/2020,6/4/2020,Second Class,UPI,United States,Seattle,Washington
+US-2020-105578,MY-17380,OFF-PA-10000357,Maribeth Yedwab,Corporate,Clothing,Leggings,7,0,1,5/30/2020,6/4/2020,Standard Class,COD,United States,Memphis,Tennessee
+US-2020-105578,EB-13705,OFF-BI-10003274,Ed Braxton,Corporate,Clothing,Saree,222,35,5,11/12/2021,11/15/2021,Standard Class,Credit Card,United States,Fayetteville,Arkansas
+CA-2021-134978,CM-12385,OFF-AR-10001662,Christopher Martinez,Corporate,Clothing,Saree,219,-9,4,3/16/2019,3/22/2019,Standard Class,Credit Card,United States,Costa Mesa,California
+CA-2019-145352,CM-12385,OFF-AR-10003856,Christopher Martinez,Consumer,Furniture,Furnishings,42,-23,2,3/16/2019,3/22/2019,Standard Class,UPI,United States,Costa Mesa,California
+CA-2019-145352,CM-12385,OFF-ST-10001228,Christopher Martinez,Consumer,Furniture,Chairs,216,-135,3,3/16/2019,3/22/2019,Standard Class,Credit Card,United States,Costa Mesa,California
+CA-2019-145352,CM-12385,OFF-BI-10003527,Christopher Martinez,Consumer,Electronics,Electronic Games,47,-21,2,3/16/2019,3/22/2019,Standard Class,COD,United States,Costa Mesa,California
+CA-2019-145352,LS-17245,FUR-FU-10001290,Lynn Smith,Consumer,Electronics,Accessories,68,-55,5,11/26/2021,11/27/2021,Standard Class,UPI,United States,Parker,Colorado
+CA-2021-135307,LS-17245,TEC-AC-10002399,Lynn Smith,Consumer,Clothing,Shirt,74,33,2,11/26/2021,11/27/2021,Standard Class,Debit Card,United States,Parker,Colorado
+CA-2021-135307,LF-17185,OFF-AR-10002053,Luke Foster,Consumer,Furniture,Furnishings,165,46,3,10/20/2020,10/23/2020,Standard Class,COD,United States,Parker,Colorado
+CA-2020-106341,BN-11515,OFF-AR-10003811,Bradley Nguyen,Consumer,Clothing,Hankerchief,101,11,2,12/21/2021,12/25/2021,Standard Class,UPI,United States,Parker,Colorado
+CA-2021-163405,BN-11515,OFF-AR-10001246,Bradley Nguyen,Consumer,Electronics,Electronic Games,162,73,2,12/21/2021,12/25/2021,Second Class,COD,United States,Parker,Colorado
+CA-2021-163405,AD-10180,TEC-CO-10003236,Alan Dominguez,Consumer,Furniture,Furnishings,20,-22,1,1/22/2021,1/27/2021,Standard Class,UPI,United States,New York City,New York
+CA-2021-127432,AD-10180,OFF-ST-10004507,Alan Dominguez,Home Office,Clothing,Stole,162,55,3,1/22/2021,1/27/2021,Standard Class,COD,United States,Atlanta,Georgia
+CA-2021-127432,AD-10180,OFF-PA-10001667,Alan Dominguez,Home Office,Clothing,Saree,229,-23,2,1/22/2021,1/27/2021,Standard Class,UPI,United States,Atlanta,Georgia
+CA-2021-127432,AD-10180,OFF-ST-10004459,Alan Dominguez,Home Office,Clothing,Leggings,27,0,2,1/22/2021,1/27/2021,Standard Class,COD,United States,Atlanta,Georgia
+CA-2021-127432,DB-13210,TEC-AC-10000171,Dean Braden,Home Office,Clothing,Trousers,685,7,7,3/22/2019,3/26/2019,First Class,UPI,United States,Atlanta,Georgia
+CA-2019-157812,DB-13210,OFF-ST-10000736,Dean Braden,Consumer,Clothing,Leggings,75,2,5,3/22/2019,3/26/2019,First Class,Debit Card,United States,Gladstone,Missouri
+CA-2019-157812,DB-13210,OFF-BI-10000285,Dean Braden,Consumer,Furniture,Furnishings,161,-229,8,3/22/2019,3/26/2019,First Class,COD,United States,Gladstone,Missouri
+CA-2019-157812,MC-17605,FUR-TA-10001857,Matt Connell,Consumer,Clothing,T-shirt,71,19,3,1/23/2021,1/25/2021,Standard Class,COD,United States,Newark,Ohio
+CA-2021-145142,LH-17155,TEC-PH-10003555,Logan Haushalter,Corporate,Clothing,Saree,211,-105,2,5/21/2020,5/23/2020,Standard Class,Credit Card,United States,Los Angeles,California
+US-2020-139486,LH-17155,TEC-AC-10003832,Logan Haushalter,Consumer,Clothing,Hankerchief,79,5,6,5/21/2020,5/23/2020,Standard Class,Debit Card,United States,Los Angeles,California
+US-2020-139486,BD-11605,OFF-FA-10002815,Brian Dahlen,Consumer,Clothing,Saree,32,-22,5,12/26/2019,1/2/2020,Standard Class,UPI,United States,Great Falls,Montana
+CA-2019-158792,PH-18790,FUR-CH-10003379,Patricia Hirasaki,Consumer,Clothing,Stole,161,40,3,10/21/2021,10/26/2021,Standard Class,COD,United States,Great Falls,Montana
+CA-2021-113558,PH-18790,FUR-FU-10001756,Patricia Hirasaki,Home Office,Clothing,Saree,159,4,1,10/21/2021,10/26/2021,Standard Class,COD,United States,Great Falls,Montana
+CA-2021-113558,MG-18145,OFF-ST-10004963,Mike Gockenbach,Home Office,Clothing,Hankerchief,210,-50,4,9/3/2019,9/7/2019,Standard Class,Credit Card,United States,Great Falls,Montana
+US-2019-138303,MG-18145,OFF-SU-10002881,Mike Gockenbach,Consumer,Clothing,Shirt,79,39,2,9/3/2019,9/7/2019,Standard Class,Debit Card,United States,Houston,Texas
+US-2019-138303,MG-18145,OFF-EN-10001335,Mike Gockenbach,Consumer,Clothing,Saree,207,153,3,9/3/2019,9/7/2019,Standard Class,Credit Card,United States,Houston,Texas
+US-2019-138303,KB-16240,FUR-CH-10000595,Karen Bern,Consumer,Clothing,Kurti,36,0,4,11/7/2019,11/9/2019,First Class,COD,United States,Houston,Texas
+CA-2019-102848,JC-15340,FUR-FU-10000448,Jasper Cacioppo,Corporate,Electronics,Printers,206,12,1,9/7/2021,9/11/2021,First Class,Credit Card,United States,Detroit,Michigan
+US-2021-129441,RL-19615,TEC-PH-10000984,Rob Lucas,Consumer,Clothing,Leggings,46,0,4,5/29/2020,6/1/2020,First Class,COD,United States,Los Angeles,California
+CA-2020-168753,RL-19615,OFF-BI-10002557,Rob Lucas,Consumer,Clothing,Stole,156,23,3,5/29/2020,6/1/2020,Standard Class,COD,United States,Los Angeles,California
+CA-2020-168753,AA-10375,OFF-ST-10001325,Allen Armold,Consumer,Clothing,Hankerchief,154,54,3,7/10/2020,7/16/2020,Standard Class,COD,United States,Lawrence,Massachusetts
+CA-2020-126613,EP-13915,OFF-BI-10002429,Emily Phan,Consumer,Clothing,Stole,36,15,3,9/3/2021,9/8/2021,Standard Class,UPI,United States,Lakeland,Florida
+US-2021-122637,MP-17470,OFF-BI-10004528,Mark Packer,Consumer,Clothing,Hankerchief,206,51,4,12/3/2019,12/8/2019,Standard Class,Credit Card,United States,Lakeland,Florida
+CA-2019-147851,DK-12985,OFF-AP-10001271,Darren Koutras,Home Office,Electronics,Electronic Games,200,7,4,12/7/2019,12/11/2019,Standard Class,Credit Card,United States,Philadelphia,Pennsylvania
+CA-2019-134894,DK-12985,FUR-CH-10002647,Darren Koutras,Consumer,Clothing,Saree,199,-1,1,12/7/2019,12/11/2019,Standard Class,Credit Card,United States,Philadelphia,Pennsylvania
+CA-2019-134894,BD-11500,TEC-AC-10001432,Bradley Drucker,Consumer,Clothing,T-shirt,154,22,7,2/1/2018,2/3/2018,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2018-140795,ES-14080,TEC-PH-10002262,Erin Smith,Consumer,Furniture,Furnishings,152,23,3,7/14/2020,7/17/2020,Standard Class,COD,United States,Los Angeles,California
+CA-2020-136924,LM-17065,OFF-ST-10001809,Liz MacKendrick,Corporate,Clothing,Stole,152,50,6,12/18/2019,12/23/2019,Second Class,COD,United States,Los Angeles,California
+US-2019-120161,PG-18895,TEC-AC-10001465,Paul Gonzalez,Consumer,Furniture,Furnishings,122,-21,3,5/11/2018,5/16/2018,Second Class,UPI,United States,Montgomery,Alabama
+CA-2018-103849,PG-18895,TEC-PH-10002597,Paul Gonzalez,Consumer,Clothing,Stole,149,48,6,5/11/2018,5/16/2018,Standard Class,COD,United States,Montgomery,Alabama
+CA-2018-103849,PG-18895,FUR-FU-10000723,Paul Gonzalez,Consumer,Clothing,Saree,149,-87,4,5/11/2018,5/16/2018,Second Class,COD,United States,Mesa,Arizona
+CA-2018-103849,AS-10135,OFF-BI-10000404,Adrian Shami,Consumer,Clothing,Kurti,197,20,4,11/19/2021,11/22/2021,Standard Class,Credit Card,United States,Chicago,Illinois
+CA-2021-162929,AS-10135,OFF-PA-10002986,Adrian Shami,Home Office,Electronics,Electronic Games,76,-54,3,11/19/2021,11/22/2021,Standard Class,COD,United States,New York City,New York
+CA-2021-162929,DK-13225,OFF-ST-10000604,Dean Katz,Home Office,Electronics,Electronic Games,221,-15,2,11/15/2019,11/17/2019,Standard Class,COD,United States,Henderson,Kentucky
+CA-2019-113173,DK-13225,OFF-BI-10004738,Dean Katz,Corporate,Clothing,Saree,79,32,3,11/15/2019,11/17/2019,First Class,Debit Card,United States,Henderson,Kentucky
+CA-2019-113173,DK-13225,OFF-SU-10001935,Dean Katz,Corporate,Clothing,Hankerchief,45,12,7,11/15/2019,11/17/2019,First Class,UPI,United States,Green Bay,Wisconsin
+CA-2019-113173,BD-11320,FUR-CH-10002024,Bill Donatelli,Corporate,Clothing,Saree,149,-1,1,4/15/2020,4/17/2020,Standard Class,COD,United States,Tucson,Arizona
+CA-2020-136406,RC-19960,FUR-FU-10003039,Ryan Crowe,Consumer,Clothing,Stole,80,22,3,9/11/2021,9/12/2021,Standard Class,Debit Card,United States,Springfield,Ohio
+CA-2021-112774,GT-14710,OFF-FA-10004248,Greg Tran,Consumer,Clothing,Shirt,195,12,9,11/24/2021,11/28/2021,Standard Class,Credit Card,United States,Fort Worth,Texas
+CA-2021-101945,DK-13225,OFF-ST-10001780,Dean Katz,Consumer,Clothing,Skirt,19,0,3,6/29/2021,7/3/2021,Standard Class,UPI,United States,Fort Worth,Texas
+CA-2021-100650,AJ-10945,OFF-AR-10003560,Ashley Jarboe,Corporate,Clothing,Stole,81,41,3,3/3/2018,3/7/2018,First Class,Debit Card,United States,Fort Worth,Texas
+CA-2018-155852,OT-18730,OFF-LA-10001297,Olvera Toch,Consumer,Clothing,Shirt,83,34,5,6/10/2020,6/15/2020,First Class,Debit Card,United States,New York City,New York
+CA-2020-113243,OT-18730,FUR-TA-10004256,Olvera Toch,Consumer,Furniture,Furnishings,149,17,4,6/10/2020,6/15/2020,Second Class,COD,United States,New York City,New York
+CA-2020-113243,OT-18730,OFF-PA-10003441,Olvera Toch,Consumer,Electronics,Printers,193,46,1,6/10/2020,6/15/2020,Second Class,Credit Card,United States,Chicago,Illinois
+CA-2020-113243,LP-17080,FUR-FU-10003347,Liz Pelletier,Consumer,Clothing,Hankerchief,85,24,10,11/20/2021,11/22/2021,Second Class,Debit Card,United States,Chicago,Illinois
+CA-2021-118731,LP-17080,OFF-BI-10000069,Liz Pelletier,Consumer,Clothing,Saree,44,-17,5,11/20/2021,11/22/2021,Second Class,UPI,United States,Chicago,Illinois
+CA-2021-118731,CA-12775,OFF-AP-10003914,Cynthia Arntzen,Consumer,Electronics,Phones,149,-40,2,9/14/2018,9/18/2018,First Class,COD,United States,San Francisco,California
+CA-2018-145576,CA-12775,FUR-FU-10004020,Cynthia Arntzen,Consumer,Clothing,Kurti,26,0,2,9/14/2018,9/18/2018,Standard Class,COD,United States,Jacksonville,Florida
+CA-2018-145576,JF-15490,OFF-FA-10003467,Jeremy Farry,Consumer,Clothing,T-shirt,86,0,4,12/7/2019,12/9/2019,Second Class,Debit Card,United States,Houston,Texas
+CA-2019-130736,JF-15490,OFF-LA-10000634,Jeremy Farry,Consumer,Clothing,Saree,86,22,2,12/7/2019,12/9/2019,Second Class,Debit Card,United States,Anaheim,California
+CA-2019-130736,FP-14320,TEC-PH-10002496,Frank Preis,Consumer,Clothing,T-shirt,79,16,3,12/7/2021,12/10/2021,Standard Class,COD,United States,Wilmington,North Carolina
+CA-2021-137099,EB-13840,OFF-PA-10004530,Ellis Ballard,Consumer,Electronics,Phones,193,-275,3,10/1/2021,10/8/2021,Standard Class,Credit Card,United States,Los Angeles,California
+CA-2021-156951,EB-13840,OFF-BI-10001107,Ellis Ballard,Corporate,Clothing,Saree,148,0,3,10/1/2021,10/8/2021,Standard Class,COD,United States,Los Angeles,California
+CA-2021-156951,EB-13840,OFF-PA-10004451,Ellis Ballard,Corporate,Furniture,Furnishings,70,-14,2,10/1/2021,10/8/2021,Second Class,UPI,United States,Los Angeles,California
+CA-2021-156951,EB-13840,FUR-CH-10004997,Ellis Ballard,Corporate,Clothing,Hankerchief,148,59,3,10/1/2021,10/8/2021,Second Class,COD,United States,San Francisco,California
+CA-2021-156951,JF-15415,OFF-LA-10001297,Jennifer Ferguson,Corporate,Furniture,Furnishings,190,19,9,12/28/2021,1/4/2022,Second Class,Credit Card,United States,San Francisco,California
+CA-2021-164826,JF-15415,OFF-FA-10000585,Jennifer Ferguson,Consumer,Clothing,Stole,52,14,2,12/28/2021,1/4/2022,Second Class,COD,United States,Tampa,Florida
+CA-2021-164826,JF-15415,OFF-BI-10001922,Jennifer Ferguson,Consumer,Clothing,Saree,147,44,3,12/28/2021,1/4/2022,First Class,COD,United States,Tampa,Florida
+CA-2021-164826,JF-15415,TEC-PH-10000347,Jennifer Ferguson,Consumer,Clothing,T-shirt,190,68,8,12/28/2021,1/4/2022,First Class,Credit Card,United States,Seattle,Washington
+CA-2021-164826,SF-20200,OFF-AR-10003394,Sarah Foster,Consumer,Electronics,Electronic Games,80,-56,4,11/3/2020,11/7/2020,First Class,UPI,United States,Seattle,Washington
+CA-2020-127250,TG-21640,OFF-PA-10004530,Trudy Glocke,Consumer,Clothing,Saree,147,48,3,9/18/2019,9/22/2019,Standard Class,COD,United States,Los Angeles,California
+CA-2019-149713,TG-21640,OFF-PA-10001450,Trudy Glocke,Consumer,Clothing,Stole,66,12,3,9/18/2019,9/22/2019,Standard Class,COD,United States,Seattle,Washington
+CA-2019-149713,TG-21640,OFF-SU-10001574,Trudy Glocke,Consumer,Clothing,Saree,86,8,2,9/18/2019,9/22/2019,Standard Class,Debit Card,United States,Seattle,Washington
+CA-2019-149713,CS-11950,OFF-ST-10002974,Carlos Soltero,Consumer,Clothing,Shirt,88,19,2,7/20/2021,7/26/2021,Standard Class,Debit Card,United States,Seattle,Washington
+CA-2021-118640,CS-11950,FUR-FU-10001475,Carlos Soltero,Consumer,Electronics,Electronic Games,188,-193,2,7/20/2021,7/26/2021,Standard Class,Credit Card,United States,Seattle,Washington
+CA-2021-118640,CC-12145,OFF-SU-10004498,Charles Crestani,Consumer,Clothing,Stole,89,29,2,9/10/2019,9/14/2019,Standard Class,UPI,United States,New York City,New York
+CA-2019-132906,DV-13465,TEC-PH-10004977,Dianna Vittorini,Consumer,Clothing,Stole,146,19,5,12/1/2021,12/5/2021,Standard Class,COD,United States,New York City,New York
+CA-2021-145233,DV-13465,TEC-PH-10000586,Dianna Vittorini,Consumer,Furniture,Bookcases,143,32,1,12/1/2021,12/5/2021,Standard Class,COD,United States,New York City,New York
+CA-2021-145233,DV-13465,OFF-AP-10000358,Dianna Vittorini,Consumer,Clothing,Kurti,25,-1,4,12/1/2021,12/5/2021,Standard Class,COD,United States,New York City,New York
+CA-2021-145233,DV-13465,OFF-BI-10002764,Dianna Vittorini,Consumer,Clothing,Skirt,30,12,3,12/1/2021,12/5/2021,Second Class,UPI,United States,Marysville,Washington
+CA-2021-145233,DV-13465,TEC-PH-10001254,Dianna Vittorini,Consumer,Furniture,Furnishings,140,-58,4,12/1/2021,12/5/2021,Second Class,COD,United States,Long Beach,California
+CA-2021-145233,BD-11725,FUR-CH-10003956,Bruce Degenhardt,Consumer,Furniture,Bookcases,83,-48,1,7/3/2019,7/9/2019,Second Class,UPI,United States,Long Beach,California
+CA-2019-128139,BD-11725,OFF-LA-10003930,Bruce Degenhardt,Consumer,Clothing,Saree,140,6,5,7/3/2019,7/9/2019,Standard Class,COD,United States,Long Beach,California
+CA-2019-128139,ZC-21910,TEC-PH-10003800,Zuschuss Carroll,Consumer,Clothing,Hankerchief,28,14,4,3/20/2020,3/24/2020,Standard Class,COD,United States,Chicago,Illinois
+US-2020-156986,ZC-21910,OFF-PA-10002005,Zuschuss Carroll,Consumer,Clothing,Stole,139,14,3,3/20/2020,3/24/2020,Standard Class,COD,United States,Chicago,Illinois
+US-2020-156986,ZC-21910,OFF-BI-10002498,Zuschuss Carroll,Consumer,Clothing,Hankerchief,30,14,3,3/20/2020,3/24/2020,Standard Class,UPI,United States,Los Angeles,California
+US-2020-156986,ZC-21910,OFF-PA-10004101,Zuschuss Carroll,Consumer,Clothing,Shirt,89,36,3,3/20/2020,3/24/2020,Standard Class,UPI,United States,Denver,Colorado
+US-2020-156986,MS-17830,OFF-AR-10004078,Melanie Seite,Consumer,Electronics,Accessories,187,30,4,1/9/2018,1/13/2018,Standard Class,Credit Card,United States,Denver,Colorado
+CA-2018-135405,MS-17830,TEC-AC-10001266,Melanie Seite,Consumer,Electronics,Accessories,139,21,3,1/9/2018,1/13/2018,Standard Class,COD,United States,Denver,Colorado
+CA-2018-135405,LR-16915,OFF-AP-10004708,Lena Radford,Consumer,Clothing,Saree,437,-14,2,8/8/2018,8/15/2018,Standard Class,UPI,United States,Denver,Colorado
+CA-2018-131450,LR-16915,TEC-CO-10004115,Lena Radford,Consumer,Clothing,Saree,138,-3,5,8/8/2018,8/15/2018,Standard Class,COD,United States,Denver,Colorado
+CA-2018-131450,LR-16915,TEC-PH-10002398,Lena Radford,Consumer,Clothing,Shirt,85,13,2,8/8/2018,8/15/2018,Standard Class,UPI,United States,Richmond,Kentucky
+CA-2018-131450,LR-16915,FUR-FU-10001979,Lena Radford,Consumer,Clothing,Stole,83,12,3,8/8/2018,8/15/2018,Standard Class,UPI,United States,Richmond,Kentucky
+CA-2018-131450,TP-21130,OFF-SU-10004115,Theone Pippenger,Consumer,Clothing,Stole,91,22,2,7/14/2020,7/16/2020,Standard Class,UPI,United States,Salem,Oregon
+CA-2020-120180,CK-12205,TEC-PH-10001425,Chloris Kastensmidt,Consumer,Clothing,Shirt,137,5,5,7/16/2020,7/21/2020,Standard Class,COD,United States,Salem,Oregon
+US-2020-100720,CK-12205,TEC-PH-10003963,Chloris Kastensmidt,Consumer,Clothing,Saree,33,-12,7,7/16/2020,7/21/2020,Standard Class,UPI,United States,Salem,Oregon
+US-2020-100720,CK-12205,OFF-SU-10001574,Chloris Kastensmidt,Consumer,Furniture,Chairs,134,-34,2,7/16/2020,7/21/2020,Standard Class,COD,United States,Salem,Oregon
+US-2020-100720,AS-10240,OFF-ST-10001490,Alan Shonely,Consumer,Furniture,Chairs,134,42,2,3/15/2018,3/19/2018,Standard Class,COD,United States,Laredo,Texas
+CA-2018-149958,AS-10240,FUR-FU-10001756,Alan Shonely,Consumer,Furniture,Chairs,133,-56,2,3/15/2018,3/19/2018,Standard Class,COD,United States,Laredo,Texas
+CA-2018-149958,AS-10240,OFF-BI-10000773,Alan Shonely,Consumer,Clothing,Saree,93,-84,3,3/15/2018,3/19/2018,Standard Class,UPI,United States,San Diego,California
+CA-2018-149958,AS-10240,OFF-BI-10001543,Alan Shonely,Consumer,Electronics,Electronic Games,86,-21,1,3/15/2018,3/19/2018,Standard Class,UPI,United States,San Diego,California
+CA-2018-149958,AS-10240,OFF-PA-10002120,Alan Shonely,Consumer,Clothing,Stole,132,54,5,3/15/2018,3/19/2018,Standard Class,COD,United States,San Diego,California
+CA-2018-149958,AR-10510,OFF-BI-10000848,Andrew Roberts,Consumer,Clothing,Saree,132,-10,3,5/23/2018,5/27/2018,First Class,COD,United States,San Diego,California
+US-2018-105767,AR-10510,OFF-AR-10001246,Andrew Roberts,Consumer,Furniture,Furnishings,132,-79,5,5/23/2018,5/27/2018,Standard Class,COD,United States,Philadelphia,Pennsylvania
+US-2018-105767,AR-10510,TEC-PH-10003092,Andrew Roberts,Consumer,Clothing,Stole,93,-65,4,5/23/2018,5/27/2018,Standard Class,UPI,United States,Philadelphia,Pennsylvania
+US-2018-105767,NB-18655,TEC-PH-10003012,Nona Balk,Consumer,Clothing,Stole,95,5,2,4/28/2020,5/1/2020,Standard Class,UPI,United States,Philadelphia,Pennsylvania
+CA-2020-161816,NB-18655,OFF-LA-10004345,Nona Balk,Corporate,Clothing,Hankerchief,97,12,2,4/28/2020,5/1/2020,Standard Class,UPI,United States,Philadelphia,Pennsylvania
+CA-2020-161816,GD-14590,OFF-PA-10001204,Giulietta Dortch,Corporate,Furniture,Furnishings,131,-154,8,9/11/2020,9/13/2020,Standard Class,COD,United States,Tampa,Florida
+CA-2020-121223,GD-14590,TEC-PH-10004667,Giulietta Dortch,Corporate,Clothing,Hankerchief,97,29,2,9/11/2020,9/13/2020,Standard Class,UPI,United States,Tampa,Florida
+CA-2020-121223,CK-12595,TEC-PH-10000011,Clytie Kelty,Corporate,Clothing,Saree,128,4,3,11/14/2021,11/17/2021,Standard Class,COD,United States,Tampa,Florida
+CA-2021-138611,CK-12595,OFF-BI-10002949,Clytie Kelty,Consumer,Clothing,Shirt,186,241,9,11/14/2021,11/17/2021,Standard Class,Credit Card,United States,Tampa,Florida
+CA-2021-138611,NG-18355,FUR-FU-10003849,Nat Gilpin,Consumer,Clothing,Hankerchief,128,47,4,8/18/2021,8/23/2021,Standard Class,COD,United States,Tampa,Florida
+CA-2021-117947,NG-18355,FUR-FU-10000010,Nat Gilpin,Corporate,Clothing,Stole,185,48,4,8/18/2021,8/23/2021,Standard Class,Credit Card,United States,Philadelphia,Pennsylvania
+CA-2021-117947,NG-18355,OFF-BI-10002824,Nat Gilpin,Corporate,Clothing,Stole,29,10,2,8/18/2021,8/23/2021,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2021-117947,NG-18355,TEC-PH-10002538,Nat Gilpin,Corporate,Furniture,Furnishings,127,29,3,8/18/2021,8/23/2021,First Class,COD,United States,Philadelphia,Pennsylvania
+CA-2021-117947,NG-18355,FUR-FU-10000521,Nat Gilpin,Corporate,Clothing,Hankerchief,97,36,7,8/18/2021,8/23/2021,First Class,UPI,United States,Dallas,Texas
+CA-2021-117947,CA-12265,OFF-BI-10002103,Christina Anderson,Corporate,Electronics,Accessories,125,0,3,12/26/2018,12/31/2018,Second Class,COD,United States,Dallas,Texas
+US-2018-111171,SF-20965,FUR-CH-10004853,Sylvia Foulston,Consumer,Clothing,Saree,299,-8,2,11/29/2019,12/3/2019,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2019-138009,SF-20965,OFF-AP-10000179,Sylvia Foulston,Corporate,Clothing,T-shirt,124,54,5,11/29/2019,12/3/2019,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2019-138009,SF-20965,OFF-ST-10001272,Sylvia Foulston,Corporate,Clothing,Shirt,90,17,3,11/29/2019,12/3/2019,Second Class,COD,United States,Grove City,Ohio
+CA-2019-138009,SF-20965,OFF-AR-10004042,Sylvia Foulston,Corporate,Clothing,Hankerchief,122,11,4,11/29/2019,12/3/2019,Second Class,COD,United States,Grove City,Ohio
+CA-2019-138009,MO-17800,FUR-FU-10000221,Meg O'Connel,Corporate,Electronics,Accessories,122,-66,9,9/15/2021,9/19/2021,Second Class,COD,United States,New York City,New York
+CA-2021-163020,AT-10735,OFF-AP-10001563,Annie Thurman,Home Office,Furniture,Chairs,90,30,2,5/19/2021,5/23/2021,Second Class,UPI,United States,New York City,New York
+CA-2021-153787,LC-17140,OFF-BI-10000605,Logan Currie,Consumer,Furniture,Bookcases,182,-11,3,12/17/2021,12/21/2021,Second Class,Credit Card,United States,New York City,New York
+CA-2021-133431,LC-17140,OFF-PA-10002615,Logan Currie,Consumer,Furniture,Furnishings,122,59,7,12/17/2021,12/21/2021,Second Class,COD,United States,New York City,New York
+CA-2021-133431,FM-14380,OFF-ST-10001963,Fred McMath,Consumer,Clothing,Stole,121,19,4,12/11/2020,12/13/2020,Standard Class,COD,United States,New York City,New York
+US-2020-135720,FM-14380,TEC-AC-10001267,Fred McMath,Consumer,Furniture,Chairs,120,1,1,12/11/2020,12/13/2020,Standard Class,COD,United States,Chicago,Illinois
+US-2020-135720,FM-14380,TEC-PH-10002103,Fred McMath,Consumer,Clothing,Stole,120,23,5,12/11/2020,12/13/2020,Standard Class,COD,United States,Dearborn,Michigan
+US-2020-135720,BD-11605,TEC-AC-10002857,Brian Dahlen,Consumer,Clothing,T-shirt,34,-11,5,9/24/2021,9/26/2021,Standard Class,COD,United States,Dearborn,Michigan
+CA-2021-144694,BD-11605,OFF-LA-10003930,Brian Dahlen,Consumer,Clothing,Kurti,117,17,6,9/24/2021,9/26/2021,Standard Class,COD,United States,Dearborn,Michigan
+CA-2021-144694,DJ-13420,FUR-CH-10001482,Denny Joy,Consumer,Clothing,Stole,38,9,2,10/4/2019,10/9/2019,Standard Class,COD,United States,Dearborn,Michigan
+CA-2019-168004,ME-17725,OFF-BI-10001989,Max Engle,Corporate,Electronics,Phones,117,-6,3,8/15/2020,8/21/2020,Standard Class,COD,United States,New York City,New York
+US-2020-123470,ME-17725,OFF-AP-10003287,Max Engle,Consumer,Clothing,T-shirt,180,54,4,8/15/2020,8/21/2020,Standard Class,Credit Card,United States,Seattle,Washington
+US-2020-123470,RB-19465,FUR-FU-10000576,Rick Bensley,Consumer,Clothing,Saree,99,-5,1,5/20/2020,5/25/2020,Standard Class,UPI,United States,San Francisco,California
+CA-2020-115917,RB-19465,OFF-BI-10004728,Rick Bensley,Home Office,Furniture,Chairs,172,-103,3,5/20/2020,5/25/2020,Second Class,EMI,United States,San Francisco,California
+CA-2020-115917,JD-16150,FUR-FU-10000732,Justin Deggeller,Home Office,Clothing,Stole,116,16,4,12/18/2020,12/22/2020,Second Class,COD,United States,Aurora,Colorado
+CA-2020-147067,JL-15835,OFF-ST-10000585,John Lee,Corporate,Clothing,Saree,116,-4,1,7/30/2021,8/3/2021,Second Class,COD,United States,Aurora,Colorado
+CA-2021-167913,JL-15835,OFF-LA-10002787,John Lee,Consumer,Clothing,Stole,171,68,7,7/30/2021,8/3/2021,Second Class,EMI,United States,Aurora,Colorado
+CA-2021-167913,SC-20305,TEC-AC-10003832,Sean Christensen,Consumer,Clothing,Skirt,46,14,5,6/10/2021,6/15/2021,Second Class,COD,United States,Miami,Florida
+CA-2021-106103,TW-21025,OFF-PA-10001934,Tamara Willingham,Consumer,Clothing,Trousers,115,-39,3,7/21/2021,7/25/2021,Second Class,COD,United States,Miami,Florida
+US-2021-127719,CC-12430,OFF-AP-10002457,Chuck Clark,Home Office,Clothing,T-shirt,100,7,2,12/30/2021,1/5/2022,Standard Class,UPI,United States,Warner Robins,Georgia
+CA-2021-126221,BB-10990,OFF-FA-10003112,Barry Blumstein,Home Office,Clothing,Stole,44,8,2,4/1/2020,4/8/2020,Standard Class,COD,United States,Aurora,Colorado
+CA-2020-103947,BB-10990,OFF-AP-10002350,Barry Blumstein,Corporate,Clothing,Kurti,139,14,3,4/1/2020,4/8/2020,Standard Class,COD,United States,Aurora,Colorado
+CA-2020-103947,AR-10825,FUR-FU-10001935,Anthony Rawles,Corporate,Furniture,Bookcases,171,-140,2,12/11/2020,12/16/2020,Standard Class,EMI,United States,Vallejo,California
+CA-2020-160745,AR-10825,TEC-PH-10003273,Anthony Rawles,Corporate,Clothing,T-shirt,100,12,2,12/11/2020,12/16/2020,Standard Class,UPI,United States,Vallejo,California
+CA-2020-160745,AR-10825,TEC-AC-10001142,Anthony Rawles,Corporate,Clothing,Stole,115,25,6,12/11/2020,12/16/2020,Second Class,COD,United States,Minneapolis,Minnesota
+CA-2020-160745,SR-20740,OFF-PA-10000482,Steven Roelle,Corporate,Clothing,Saree,168,-9,3,10/23/2020,10/29/2020,Second Class,COD,United States,Mission Viejo,California
+CA-2020-132661,AR-10405,OFF-PA-10003892,Allen Rosenblatt,Home Office,Electronics,Accessories,115,47,2,6/19/2021,6/23/2021,Standard Class,COD,United States,Mission Viejo,California
+CA-2021-140844,AR-10405,TEC-AC-10001101,Allen Rosenblatt,Corporate,Electronics,Phones,168,-111,2,6/19/2021,6/23/2021,Standard Class,EMI,United States,Rochester Hills,Michigan
+CA-2021-140844,CR-12730,OFF-AP-10002439,Craig Reiter,Corporate,Clothing,Skirt,31,-7,5,8/22/2020,8/28/2020,Standard Class,UPI,United States,Plainfield,New Jersey
+CA-2020-137239,CR-12730,OFF-BI-10002827,Craig Reiter,Consumer,Furniture,Furnishings,114,41,6,8/22/2020,8/28/2020,Standard Class,COD,United States,Columbus,Indiana
+CA-2020-137239,CR-12730,OFF-EN-10002230,Craig Reiter,Consumer,Clothing,Stole,111,9,4,8/22/2020,8/28/2020,Standard Class,COD,United States,Sierra Vista,Arizona
+CA-2020-137239,EH-14125,FUR-CH-10001215,Eugene Hildebrand,Consumer,Clothing,Skirt,11,-8,2,9/19/2020,9/19/2020,Second Class,UPI,United States,Sierra Vista,Arizona
+US-2020-156097,EH-14125,OFF-BI-10004654,Eugene Hildebrand,Home Office,Furniture,Furnishings,110,35,1,9/19/2020,9/19/2020,Second Class,COD,United States,Vancouver,Washington
+US-2020-156097,CB-12025,OFF-ST-10001490,Cassandra Brandow,Home Office,Clothing,T-shirt,59,15,2,8/24/2019,8/28/2019,Second Class,UPI,United States,Vancouver,Washington
+CA-2019-146563,CB-12025,OFF-ST-10001511,Cassandra Brandow,Consumer,Electronics,Accessories,166,27,2,8/24/2019,8/28/2019,Standard Class,EMI,United States,Vancouver,Washington
+CA-2019-146563,CB-12025,FUR-TA-10001768,Cassandra Brandow,Consumer,Clothing,Saree,109,-6,6,8/24/2019,8/28/2019,Standard Class,COD,United States,New York City,New York
+CA-2019-146563,CB-12025,OFF-BI-10003981,Cassandra Brandow,Consumer,Clothing,Leggings,34,-6,4,8/24/2019,8/28/2019,Standard Class,COD,United States,New York City,New York
+CA-2019-146563,SP-20545,OFF-ST-10001522,Sibella Parks,Consumer,Furniture,Furnishings,109,40,1,3/26/2020,3/30/2020,Standard Class,COD,United States,New York City,New York
+CA-2020-123666,RC-19825,OFF-FA-10000621,Roy Collins,Corporate,Electronics,Accessories,108,22,3,11/4/2020,11/4/2020,Standard Class,COD,United States,Columbus,Ohio
+CA-2020-143308,TH-21235,OFF-SU-10004231,Tiffany House,Consumer,Furniture,Furnishings,103,50,2,6/8/2021,6/10/2021,Standard Class,UPI,United States,Columbus,Ohio
+CA-2021-132682,TH-21235,OFF-PA-10000474,Tiffany House,Corporate,Clothing,Skirt,10,-8,2,6/8/2021,6/10/2021,Same Day,COD,United States,Columbus,Ohio
+CA-2021-132682,TH-21235,TEC-PH-10004042,Tiffany House,Corporate,Clothing,Hankerchief,90,17,3,6/8/2021,6/10/2021,Same Day,COD,United States,Aurora,Illinois
+CA-2021-132682,RP-19390,FUR-PH-10003096,Resi Polking,Corporate,Clothing,Stole,105,46,2,12/24/2018,12/26/2018,Standard Class,UPI,United States,Aurora,lllinois
+CA-2018-156314,MO-17800,FUR-FU-10002759,Meg O'Connel,Consumer,Clothing,Stole,105,20,2,6/9/2021,6/13/2021,Standard Class,Debit Card,United States,Arlington,Texas
+US-2021-106663,MO-17800,FUR-TA-10000688,Meg O'Connel,Home Office,Furniture,Furnishings,22,-6,1,6/9/2021,6/13/2021,Standard Class,COD,United States,Arlington,Texas
+US-2021-106663,MO-17800,OFF-PA-10002377,Meg O'Connel,Home Office,Clothing,Kurti,105,-33,5,6/9/2021,6/13/2021,Standard Class,COD,United States,Arlington,Texas
+US-2021-106663,TD-20995,OFF-AR-10001954,Tamara Dahlen,Home Office,Clothing,Hankerchief,105,25,2,6/15/2021,6/22/2021,Standard Class,EMI,United States,Arlington,Texas
+CA-2021-111178,RB-19570,OFF-AP-10004532,Rob Beeghly,Consumer,Clothing,Saree,25,-7,5,12/5/2021,12/8/2021,Same Day,UPI,United States,New York City,New York
+CA-2021-130351,RB-19570,OFF-PA-10002137,Rob Beeghly,Consumer,Furniture,Furnishings,104,2,2,12/5/2021,12/8/2021,Second Class,COD,United States,Louisville,Kentucky
+CA-2021-130351,RB-19570,TEC-AC-10003832,Rob Beeghly,Consumer,Clothing,Stole,16,5,1,12/5/2021,12/8/2021,Second Class,UPI,United States,Dallas,Texas
+CA-2021-130351,CD-11980,OFF-AP-10000804,Carol Darley,Consumer,Clothing,Saree,64,-7,3,3/18/2021,3/23/2021,Second Class,COD,United States,Dallas,Texas
+US-2021-119438,CD-11980,TEC-AC-10003614,Carol Darley,Consumer,Furniture,Furnishings,38,-6,2,3/18/2021,3/23/2021,First Class,UPI,United States,Dallas,Texas
+US-2021-119438,CD-11980,FUR-FU-10003553,Carol Darley,Consumer,Furniture,Chairs,83,12,2,3/18/2021,3/23/2021,Standard Class,COD,United States,Cleveland,Ohio
+US-2021-119438,CD-11980,OFF-BI-10004632,Carol Darley,Consumer,Clothing,Hankerchief,103,36,2,3/18/2021,3/23/2021,Standard Class,COD,United States,Chicago,Illinois
+US-2021-119438,DJ-13630,OFF-BI-10003305,Doug Jacobs,Consumer,Clothing,Saree,37,-6,1,11/19/2020,11/24/2020,Standard Class,UPI,United States,Chicago,Illinois
+CA-2020-164511,DJ-13630,OFF-ST-10002583,Doug Jacobs,Consumer,Clothing,Saree,105,33,6,11/19/2020,11/24/2020,Standard Class,EMI,United States,Chicago,Illinois
+CA-2020-164511,DJ-13630,OFF-ST-10004507,Doug Jacobs,Consumer,Furniture,Furnishings,78,-6,2,11/19/2020,11/24/2020,First Class,UPI,United States,Quincy,Illinois
+CA-2020-164511,GT-14635,TEC-MA-10004125,Grant Thornton,Consumer,Clothing,Saree,102,-90,1,11/4/2021,11/4/2021,First Class,COD,United States,Columbus,Indiana
+US-2021-168116,GT-14635,OFF-AP-10002457,Grant Thornton,Corporate,Clothing,T-shirt,102,11,6,11/4/2021,11/4/2021,First Class,COD,United States,Columbus,Indiana
+US-2021-168116,MC-17845,TEC-AC-10003911,Michael Chen,Corporate,Clothing,Kurti,10,-8,1,7/5/2018,7/8/2018,Standard Class,UPI,United States,Columbus,Indiana
+CA-2018-157784,MC-17845,OFF-LA-10001934,Michael Chen,Consumer,Clothing,Skirt,101,18,9,7/5/2018,7/8/2018,Standard Class,COD,United States,Tyler,Texas
+CA-2018-157784,MC-17845,OFF-PA-10000304,Michael Chen,Consumer,Clothing,Saree,42,-6,4,7/5/2018,7/8/2018,Standard Class,UPI,United States,Tyler,Texas
+CA-2018-157784,RA-19285,FUR-BO-10004015,Ralph Arnett,Consumer,Clothing,Hankerchief,56,18,2,12/25/2021,12/29/2021,Standard Class,UPI,United States,Tyler,Texas
+CA-2021-161480,NP-18325,FUR-FU-10004071,Naresj Patel,Consumer,Clothing,Stole,95,5,2,6/21/2018,6/23/2018,Standard Class,COD,United States,Tyler,Texas
+US-2018-117135,NP-18325,TEC-PH-10002033,Naresj Patel,Consumer,Furniture,Furnishings,159,2,3,6/21/2018,6/23/2018,Standard Class,EMI,United States,New York City,New York
+US-2018-117135,NP-18325,OFF-ST-10002444,Naresj Patel,Consumer,Clothing,Stole,158,69,3,6/21/2018,6/23/2018,Standard Class,EMI,United States,New York City,New York
+US-2018-117135,AB-10165,TEC-AC-10002253,Alan Barnes,Consumer,Electronics,Phones,106,0,2,3/28/2019,4/2/2019,Same Day,EMI,United States,New York City,New York
+CA-2019-131534,AB-10165,OFF-PA-10000743,Alan Barnes,Consumer,Clothing,T-shirt,101,16,4,3/28/2019,4/2/2019,Same Day,COD,United States,Burlington,North Carolina
+CA-2019-131534,JO-15550,OFF-AR-10003373,Jesus Ocampo,Consumer,Clothing,Shirt,107,37,3,5/14/2019,5/17/2019,First Class,COD,United States,Burlington,North Carolina
+CA-2019-119291,JO-15550,OFF-LA-10002312,Jesus Ocampo,Home Office,Clothing,T-shirt,156,36,5,5/14/2019,5/17/2019,First Class,EMI,United States,Jackson,Mississippi
+CA-2019-119291,JO-15550,OFF-EN-10000927,Jesus Ocampo,Home Office,Electronics,Electronic Games,108,-19,3,5/14/2019,5/17/2019,First Class,UPI,United States,Jackson,Mississippi
+CA-2019-119291,JO-15550,OFF-LA-10003510,Jesus Ocampo,Home Office,Clothing,Stole,107,-54,4,5/14/2019,5/17/2019,Standard Class,EMI,United States,Jackson,Mississippi
+CA-2019-119291,JO-15550,OFF-AR-10001118,Jesus Ocampo,Home Office,Clothing,Hankerchief,100,-58,4,5/14/2019,5/17/2019,Second Class,COD,United States,New York City,New York
+CA-2019-119291,JO-15550,OFF-BI-10001575,Jesus Ocampo,Home Office,Clothing,Shirt,108,26,4,5/14/2019,5/17/2019,Second Class,UPI,United States,Waynesboro,Virginia
+CA-2019-119291,JO-15550,OFF-BI-10001982,Jesus Ocampo,Home Office,Clothing,Stole,100,6,4,5/14/2019,5/17/2019,Second Class,COD,United States,Waynesboro,Virginia
+CA-2019-119291,Dl-13600,FUR-FU-10002960,Dorris liebe,Home Office,Electronics,Phones,100,-23,1,9/2/2021,9/8/2021,Standard Class,COD,United States,Waynesboro,Virginia
+CA-2021-114552,AS-10285,FUR-FU-10003394,Alejandro Savely,Corporate,Clothing,T-shirt,43,17,2,11/4/2020,11/8/2020,Standard Class,UPI,United States,Los Angeles,California
+CA-2020-163755,JK-15370,FUR-TA-10002774,Jay Kimmel,Corporate,Clothing,Stole,155,26,3,4/9/2019,4/14/2019,First Class,EMI,United States,Los Angeles,California
+CA-2019-142027,BN-11470,OFF-PA-10001800,Brad Norvell,Consumer,Clothing,Hankerchief,151,9,3,9/12/2018,9/17/2018,First Class,EMI,United States,Chester,Pennsylvania
+CA-2018-138527,BN-11470,OFF-AP-10001469,Brad Norvell,Corporate,Clothing,Hankerchief,151,29,5,9/12/2018,9/17/2018,First Class,EMI,United States,Chester,Pennsylvania
+CA-2018-138527,BN-11470,TEC-AC-10002399,Brad Norvell,Corporate,Clothing,Saree,110,-68,4,9/12/2018,9/17/2018,First Class,EMI,United States,Chester,Pennsylvania
+CA-2018-138527,DP-13165,TEC-AC-10003628,David Philippe,Corporate,Furniture,Furnishings,98,9,2,12/2/2018,12/4/2018,First Class,COD,United States,Chester,Pennsylvania
+CA-2018-112158,DP-13165,FUR-BO-10003272,David Philippe,Consumer,Clothing,Trousers,97,-62,2,12/2/2018,12/4/2018,First Class,COD,United States,Chester,Pennsylvania
+CA-2018-112158,DP-13165,OFF-BI-10000050,David Philippe,Consumer,Clothing,Shirt,111,35,5,12/2/2018,12/4/2018,First Class,COD,United States,Chester,Pennsylvania
+CA-2018-112158,TH-21550,OFF-PA-10004071,Tracy Hopkins,Consumer,Electronics,Accessories,45,17,1,4/5/2018,4/7/2018,Standard Class,COD,United States,Chester,Pennsylvania
+CA-2018-113887,AP-10915,OFF-EN-10001219,Arthur Prichep,Home Office,Furniture,Chairs,112,15,2,9/3/2021,9/7/2021,Second Class,COD,United States,Cleveland,Ohio
+CA-2021-146136,RS-19765,OFF-AP-10001154,Roland Schwarz,Consumer,Clothing,Stole,110,20,5,5/19/2021,5/24/2021,Standard Class,Debit Card,United States,Seattle,Washington
+US-2021-100048,RS-19765,TEC-PH-10003012,Roland Schwarz,Corporate,Clothing,Saree,98,-5,2,5/19/2021,5/24/2021,Standard Class,UPI,United States,Long Beach,California
+US-2021-100048,RS-19765,TEC-AC-10001606,Roland Schwarz,Corporate,Clothing,Stole,110,12,7,5/19/2021,5/24/2021,Standard Class,Debit Card,United States,Cary,North Carolina
+US-2021-100048,Dl-13600,OFF-BI-10003355,Dorris liebe,Corporate,Furniture,Furnishings,95,11,4,7/1/2018,7/6/2018,Standard Class,COD,United States,Cary,North Carolina
+CA-2018-153150,SV-20365,FUR-FU-10000010,Seth Vernon,Corporate,Furniture,Chairs,1228,14,3,1/11/2018,1/14/2018,First Class,UPI,United States,Cary,North Carolina
+CA-2018-130092,KC-16540,FUR-FU-10002253,Kelly Collister,Consumer,Furniture,Furnishings,29,0,3,9/24/2021,9/29/2021,First Class,COD,United States,New York City,New York
+CA-2021-108910,CK-12325,OFF-BI-10001658,Christine Kargatis,Consumer,Clothing,T-shirt,94,27,2,6/2/2018,6/7/2018,First Class,COD,United States,New York City,New York
+CA-2018-104472,CK-12325,FUR-FU-10000246,Christine Kargatis,Home Office,Electronics,Accessories,115,25,1,6/2/2018,6/7/2018,First Class,COD,United States,New York City,New York
+CA-2018-104472,RD-19810,OFF-PA-10004092,Ross DeVincentis,Home Office,Clothing,Saree,149,15,3,2/13/2020,2/18/2020,Standard Class,EMI,United States,New York City,New York
+CA-2020-112942,MP-17965,FUR-TA-10000198,Michael Paige,Home Office,Clothing,Kurti,148,23,4,12/15/2020,12/19/2020,Standard Class,EMI,United States,Palm Coast,Florida
+CA-2020-142335,MP-17965,OFF-ST-10000036,Michael Paige,Corporate,Electronics,Accessories,93,15,2,12/15/2020,12/19/2020,Standard Class,COD,United States,Mount Vernon,New York
+CA-2020-142335,MR-17545,FUR-FU-10000222,Mathew Reese,Corporate,Clothing,Hankerchief,113,24,4,10/7/2018,10/13/2018,Standard Class,Debit Card,United States,Mount Vernon,New York
+CA-2018-117429,SC-20695,OFF-SU-10004664,Steve Chapman,Home Office,Clothing,Stole,48,2,3,7/7/2020,7/12/2020,Second Class,COD,United States,Mount Vernon,New York
+CA-2020-114713,JF-15355,OFF-EN-10001141,Jay Fein,Corporate,Electronics,Electronic Games,148,9,1,9/16/2021,9/20/2021,First Class,UPI,United States,Seattle,Washington
+CA-2021-144113,JF-15355,TEC-PH-10002170,Jay Fein,Consumer,Clothing,T-shirt,114,11,4,9/16/2021,9/20/2021,Standard Class,Debit Card,United States,Dover,Delaware
+CA-2021-144113,EG-13900,OFF-PA-10001954,Emily Grady,Consumer,Clothing,Stole,92,42,2,12/3/2020,12/6/2020,Standard Class,COD,United States,Newark,Ohio
+US-2020-150861,EG-13900,FUR-TA-10002228,Emily Grady,Consumer,Clothing,Shirt,117,14,3,12/3/2020,12/6/2020,Standard Class,UPI,United States,Orem,Utah
+US-2020-150861,EG-13900,OFF-ST-10004634,Emily Grady,Consumer,Clothing,Leggings,21,-10,4,12/3/2020,12/6/2020,Standard Class,COD,United States,Orem,Utah
+US-2020-150861,EG-13900,FUR-CH-10002965,Emily Grady,Consumer,Clothing,Leggings,33,-10,6,12/3/2020,12/6/2020,Standard Class,UPI,United States,Los Angeles,California
+US-2020-150861,EG-13900,OFF-LA-10001317,Emily Grady,Consumer,Electronics,Accessories,114,8,3,12/3/2020,12/6/2020,Standard Class,Debit Card,United States,Detroit,Michigan
+US-2020-150861,DS-13030,OFF-ST-10000736,Darrin Sayre,Consumer,Electronics,Accessories,115,0,1,1/21/2021,1/25/2021,Standard Class,Debit Card,United States,Detroit,Michigan
+CA-2021-131954,DS-13030,TEC-AC-10003610,Darrin Sayre,Home Office,Clothing,T-shirt,90,29,5,1/21/2021,1/25/2021,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2021-131954,DS-13030,OFF-BI-10003982,Darrin Sayre,Home Office,Furniture,Furnishings,61,1,2,1/21/2021,1/25/2021,Standard Class,COD,United States,Hialeah,Florida
+CA-2021-131954,DS-13030,OFF-BI-10003291,Darrin Sayre,Home Office,Furniture,Chairs,119,1,1,1/21/2021,1/25/2021,Standard Class,COD,United States,Austin,Texas
+CA-2021-131954,DS-13030,FUR-BO-10001619,Darrin Sayre,Home Office,Clothing,Trousers,117,36,2,1/21/2021,1/25/2021,First Class,Debit Card,United States,Austin,Texas
+CA-2021-131954,DS-13030,OFF-BI-10000138,Darrin Sayre,Home Office,Furniture,Chairs,148,54,2,1/21/2021,1/25/2021,First Class,UPI,United States,Oceanside,New York
+CA-2021-131954,GZ-14470,TEC-AC-10001383,Gary Zandusky,Home Office,Clothing,Saree,249,-5,4,9/8/2018,9/12/2018,First Class,COD,United States,Oceanside,New York
+CA-2018-132500,PO-19195,OFF-LA-10003223,Phillina Ober,Consumer,Clothing,Stole,147,73,3,1/4/2018,1/8/2018,First Class,UPI,United States,Oceanside,New York
+CA-2018-112326,PO-19195,OFF-ST-10002743,Phillina Ober,Home Office,Clothing,T-shirt,118,35,7,1/4/2018,1/8/2018,First Class,EMI,United States,Oceanside,New York
+CA-2018-112326,PO-19195,OFF-BI-10004094,Phillina Ober,Home Office,Clothing,Saree,119,56,7,1/4/2018,1/8/2018,Standard Class,EMI,United States,Oceanside,New York
+CA-2018-112326,SS-20875,OFF-SU-10004498,Sung Shariari,Home Office,Clothing,T-shirt,90,27,2,8/27/2020,9/1/2020,Standard Class,COD,United States,Seattle,Washington
+US-2020-146710,SS-20875,OFF-PA-10002615,Sung Shariari,Consumer,Clothing,Stole,32,1,2,8/27/2020,9/1/2020,Standard Class,COD,United States,Seattle,Washington
+US-2020-146710,SS-20875,OFF-PA-10004971,Sung Shariari,Consumer,Furniture,Furnishings,89,-89,2,8/27/2020,9/1/2020,Standard Class,COD,United States,Seattle,Washington
+US-2020-146710,SS-20875,OFF-SU-10004261,Sung Shariari,Consumer,Electronics,Phones,146,66,1,8/27/2020,9/1/2020,Standard Class,UPI,United States,Seattle,Washington
+US-2020-146710,MH-17785,FUR-TA-10002607,Maya Herman,Consumer,Clothing,Shirt,89,-37,4,5/27/2018,5/27/2018,Standard Class,COD,United States,Seattle,Washington
+CA-2018-124429,MH-17785,OFF-ST-10001809,Maya Herman,Corporate,Electronics,Accessories,88,11,3,5/27/2018,5/27/2018,Standard Class,COD,United States,Seattle,Washington
+CA-2018-124429,PB-19105,TEC-PH-10000004,Peter  Buhler,Corporate,Clothing,Stole,121,41,4,3/20/2020,3/22/2020,Standard Class,EMI,United States,San Francisco,California
+CA-2020-150889,RF-19735,OFF-BI-10003638,Roland Fjeld,Consumer,Clothing,Saree,88,20,2,10/2/2021,10/6/2021,Standard Class,COD,United States,Naperville,Illinois
+CA-2021-126074,RF-19735,FUR-FU-10003577,Roland Fjeld,Consumer,Clothing,Kurti,87,-83,5,10/2/2021,10/6/2021,Standard Class,COD,United States,Naperville,Illinois
+CA-2021-126074,RF-19735,OFF-AR-10003478,Roland Fjeld,Consumer,Clothing,Shirt,87,4,2,10/2/2021,10/6/2021,Standard Class,COD,United States,Naperville,Illinois
+CA-2021-126074,RF-19735,OFF-BI-10000546,Roland Fjeld,Consumer,Electronics,Accessories,122,15,3,10/2/2021,10/6/2021,Standard Class,EMI,United States,Dallas,Texas
+CA-2021-126074,YC-21895,TEC-CO-10002095,Yoseph Carroll,Consumer,Clothing,Stole,87,10,3,4/7/2020,4/9/2020,Standard Class,COD,United States,Dallas,Texas
+CA-2020-110499,MS-17830,FUR-FU-10002759,Melanie Seite,Corporate,Furniture,Furnishings,53,8,3,12/7/2019,12/12/2019,Standard Class,UPI,United States,Dallas,Texas
+CA-2019-135272,NB-18655,FUR-TA-10001095,Nona Balk,Consumer,Clothing,Skirt,87,-32,9,9/18/2020,9/22/2020,Same Day,COD,United States,Dallas,Texas
+CA-2020-140928,DC-13285,OFF-ST-10002444,Debra Catini,Corporate,Clothing,Saree,86,-55,6,12/29/2018,1/2/2019,Same Day,COD,United States,San Diego,California
+CA-2018-106803,DC-13285,TEC-AC-10001267,Debra Catini,Consumer,Clothing,Stole,125,22,3,12/29/2018,1/2/2019,Second Class,EMI,United States,San Diego,California
+CA-2018-106803,CP-12340,OFF-BI-10000848,Christine Phan,Consumer,Clothing,Saree,128,-3,3,7/23/2021,7/28/2021,Standard Class,Debit Card,United States,Evanston,Illinois
+CA-2021-117240,BF-11020,OFF-PA-10002377,Barry Franchosisch,Corporate,Clothing,Saree,143,-124,5,9/18/2021,9/22/2021,Standard Class,UPI,United Staes,Trenton,Michigan
+CA-2021-133333,AR-10510,OFF-PA-10003441,Andrew Roberts,Corporate,Clothing,Saree,86,22,2,8/31/2019,9/5/2019,Standard Class,COD,United States,Trenton,Michigan
+CA-2019-112319,JC-16105,OFF-LA-10004484,Julie Creighton,Consumer,Clothing,Saree,86,9,3,11/3/2021,11/7/2021,Standard Class,COD,United States,Trenton,Michigan
+CA-2021-126046,LH-17020,TEC-PH-10003931,Lisa Hazard,Corporate,Clothing,Saree,85,-9,4,2/8/2019,2/13/2019,First Class,COD,United States,Trenton,Michigan
+CA-2019-114923,CS-12250,OFF-EN-10001990,Chris Selesnick,Consumer,Clothing,Shirt,129,-75,5,1/13/2018,1/15/2018,Standard Class,Debit Card,United States,San Francisco,California
+CA-2018-162775,CS-12250,OFF-EN-10001532,Chris Selesnick,Corporate,Electronics,Accessories,84,-42,2,1/13/2018,1/15/2018,Standard Class,COD,United States,Los Angeles,California
+CA-2018-162775,CS-12250,TEC-AC-10003174,Chris Selesnick,Corporate,Furniture,Chairs,83,-81,3,1/13/2018,1/15/2018,Standard Class,COD,United States,Jacksonville,Florida
+CA-2018-162775,CS-12250,OFF-BI-10004187,Chris Selesnick,Corporate,Electronics,Accessories,143,6,2,1/13/2018,1/15/2018,Standard Class,UPI,United States,Cottage Grove,Minnesota
+CA-2018-162775,CS-12250,OFF-ST-10000025,Chris Selesnick,Corporate,Electronics,Phones,336,123,3,1/13/2018,1/15/2018,Standard Class,UPI,United States,Cottage Grove,Minnesota
+CA-2018-162775,AJ-10795,FUR-FU-10004306,Anthony Johnson,Corporate,Electronics,Phones,323,122,5,5/14/2018,5/20/2018,Standard Class,UPI,United States,New York City,New York
+CA-2018-106810,LE-16810,FUR-CH-10003746,Laurel Elliston,Corporate,Clothing,Shirt,130,61,3,5/19/2020,5/24/2020,Standard Class,Debit Card,United States,Green Bay,Wisconsin
+CA-2020-157245,BV-11245,OFF-BI-10001036,Benjamin Venier,Consumer,Clothing,Saree,152,-3,5,1/30/2021,2/5/2021,Standard Class,COD,United States,Los Angeles,California
+CA-2021-104220,BV-11245,TEC-PH-10004614,Benjamin Venier,Corporate,Furniture,Furnishings,25,10,1,1/30/2021,2/5/2021,Standard Class,UPI,United States,Atlanta,Georgia
+CA-2021-104220,BV-11245,OFF-BI-10000301,Benjamin Venier,Corporate,Clothing,Stole,140,15,5,1/30/2021,2/5/2021,Second Class,UPI,United States,Columbus,Ohio
+CA-2021-104220,BV-11245,OFF-BI-10003910,Benjamin Venier,Corporate,Clothing,Stole,45,0,2,1/30/2021,2/5/2021,Second Class,UPI,United States,Bossier City,Louisiana
+CA-2021-104220,BV-11245,OFF-AR-10004648,Benjamin Venier,Corporate,Clothing,Shirt,132,49,3,1/30/2021,2/5/2021,Second Class,COD,United States,Bossier City,Louisiana
+CA-2021-104220,BV-11245,FUR-FU-10002597,Benjamin Venier,Corporate,Clothing,Stole,133,12,5,1/30/2021,2/5/2021,Second Class,Debit Card,United States,Bossier City,Louisiana
+CA-2021-104220,DL-12865,OFF-AR-10003405,Dan Lawera,Corporate,Clothing,Shirt,82,13,2,6/29/2018,7/6/2018,Second Class,COD,United States,Bossier City,Louisiana
+CA-2018-165974,NZ-18565,FUR-CH-10002335,Nick Zandusky,Consumer,Clothing,Shirt,140,56,4,8/21/2019,8/23/2019,Standard Class,UPI,United States,Bossier City,Louisiana
+CA-2019-144267,NZ-18565,OFF-PA-10000157,Nick Zandusky,Home Office,Clothing,Hankerchief,81,19,7,8/21/2019,8/23/2019,Standard Class,COD,United States,Saint Petersburg,Florida
+CA-2019-144267,NZ-18565,OFF-PA-10001947,Nick Zandusky,Home Office,Clothing,Hankerchief,137,38,5,8/21/2019,8/23/2019,Standard Class,Debit Card,United States,Arlington,Virginia
+CA-2019-144267,NZ-18565,OFF-PA-10003657,Nick Zandusky,Home Office,Electronics,Phones,137,-41,3,8/21/2019,8/23/2019,Standard Class,Debit Card,United States,Des Moines,Iowa
+CA-2019-144267,BM-11785,OFF-BI-10001098,Bryan Mills,Home Office,Clothing,Trousers,140,57,2,10/3/2019,10/6/2019,Standard Class,Debit Card,United States,Des Moines,Iowa
+US-2019-157014,BM-11785,TEC-AC-10002167,Bryan Mills,Consumer,Clothing,Shirt,139,30,3,10/3/2019,10/6/2019,Standard Class,UPI,United States,Des Moines,Iowa
+US-2019-157014,BM-11785,FUR-BO-10004409,Bryan Mills,Consumer,Clothing,Stole,138,11,5,10/3/2019,10/6/2019,Standard Class,UPI,United States,Des Moines,Iowa
+US-2019-157014,BM-11785,TEC-AC-10000057,Bryan Mills,Consumer,Clothing,Skirt,79,-124,9,10/3/2019,10/6/2019,Standard Class,COD,United States,Des Moines,Iowa
+US-2019-157014,EA-14035,OFF-EN-10000056,Erin Ashbrook,Consumer,Electronics,Accessories,136,41,3,5/23/2019,5/28/2019,Standard Class,UPI,United States,Des Moines,Iowa
+CA-2019-154921,CL-12565,OFF-BI-10000014,Clay Ludtke,Corporate,Clothing,T-shirt,145,16,3,3/17/2021,3/21/2021,First Class,Debit Card,United States,Cincinnati,Ohio
+CA-2021-129567,LT-17110,FUR-CH-10004675,Liz Thompson,Consumer,Clothing,T-shirt,44,20,2,12/12/2019,12/16/2019,First Class,UPI,United States,San Francisco,California
+CA-2019-154620,SA-20830,OFF-BI-10001543,Sue Ann Reed,Consumer,Clothing,Saree,79,6,7,6/26/2019,6/30/2019,First Class,COD,United States,San Francisco,California
+CA-2019-115938,SA-20830,OFF-ST-10001321,Sue Ann Reed,Consumer,Clothing,Shirt,79,36,4,6/26/2019,6/30/2019,First Class,COD,United States,San Francisco,California
+CA-2019-115938,SA-20830,OFF-BI-10001132,Sue Ann Reed,Consumer,Electronics,Electronic Games,134,-13,3,6/26/2019,6/30/2019,Second Class,UPI,United States,San Francisco,California
+CA-2019-115938,SA-20830,FUR-CH-10003199,Sue Ann Reed,Consumer,Clothing,Stole,133,5,5,6/26/2019,6/30/2019,Second Class,UPI,United States,Columbus,Ohio
+CA-2019-115938,JK-15730,TEC-PH-10001530,Joe Kamberova,Consumer,Clothing,Hankerchief,47,20,7,5/20/2020,5/20/2020,Second Class,UPI,United States,Columbus,Ohio
+CA-2020-105256,ES-14020,OFF-LA-10001569,Erica Smith,Consumer,Electronics,Printers,133,-42,1,9/20/2018,9/26/2018,Second Class,UPI,United States,Columbus,Ohio
+CA-2018-156433,ES-14020,OFF-PA-10003724,Erica Smith,Consumer,Clothing,Stole,78,27,3,9/20/2018,9/26/2018,Standard Class,COD,United States,Columbus,Ohio
+CA-2018-156433,RH-19495,OFF-BI-10000546,Rick Hansen,Consumer,Furniture,Chairs,78,7,1,9/21/2021,9/26/2021,Second Class,COD,United States,Columbia,South Carolina
+CA-2021-151428,DB-13120,OFF-PA-10000176,David Bremer,Consumer,Furniture,Furnishings,76,-92,8,12/24/2019,12/26/2019,Standard Class,COD,United States,Lancaster,California
+CA-2019-124653,DB-13120,OFF-PA-10002365,David Bremer,Corporate,Clothing,Saree,76,-50,1,12/24/2019,12/26/2019,Standard Class,COD,United States,Lancaster,California
+CA-2019-124653,DB-13120,OFF-LA-10002271,David Bremer,Corporate,Clothing,Hankerchief,76,19,3,12/24/2019,12/26/2019,Standard Class,COD,United States,Richmond,Virginia
+CA-2019-124653,CD-11920,FUR-CH-10002647,Carlos Daly,Corporate,Clothing,Stole,74,29,3,11/27/2019,12/3/2019,Standard Class,COD,United States,Richmond,Virginia
+CA-2019-101910,HW-14935,FUR-FU-10004090,Helen Wasserman,Consumer,Clothing,Stole,74,-25,3,2/20/2021,2/23/2021,Standard Class,COD,United States,Richmond,Virginia
+CA-2021-105809,HW-14935,TEC-PH-10001580,Helen Wasserman,Corporate,Electronics,Electronic Games,146,-63,3,2/20/2021,2/23/2021,Same Day,Debit Card,United States,Richmond,Virginia
+CA-2021-105809,HW-14935,OFF-AP-10000576,Helen Wasserman,Corporate,Furniture,Bookcases,73,-31,1,8/18/2020,8/23/2020,Standard Class,COD,United States,Asheville,North Carolina
+CA-2020-136133,MC-18130,OFF-PA-10003953,Mike Caudle,Corporate,Clothing,Stole,80,22,3,3/12/2020,3/17/2020,Standard Class,UPI,United States,San Francisco,California
+CA-2020-115504,GM-14440,FUR-FU-10000794,Gary McGarr,Corporate,Clothing,Shirt,133,46,5,4/22/2021,4/24/2021,Standard Class,EMI,United States,San Francisco,California
+CA-2021-135783,RA-19915,OFF-AR-10001897,Russell Applegate,Consumer,Electronics,Phones,146,7,2,11/1/2018,11/7/2018,First Class,Debit Card,United States,Rochester,Minnesota
+CA-2018-134313,RA-19915,TEC-PH-10001795,Russell Applegate,Consumer,Clothing,Saree,130,-41,4,11/1/2018,11/7/2018,First Class,EMI,United States,Rochester,New York
+CA-2018-134313,AA-10375,FUR-FU-10003347,Allen Armold,Consumer,Clothing,Shirt,141,41,3,2/3/2019,2/5/2019,First Class,UPI,United States,Rochester,New York
+CA-2019-140921,AA-10375,TEC-AC-10004901,Allen Armold,Consumer,Furniture,Furnishings,147,21,3,2/3/2019,2/5/2019,Standard Class,Debit Card,United States,Rochester,New York
+CA-2019-140921,ZC-21910,OFF-AR-10003190,Zuschuss Carroll,Consumer,Electronics,Phones,73,-7,1,10/13/2018,10/15/2018,First Class,COD,United States,Lake Elsinore,California
+CA-2018-151995,ZC-21910,FUR-TA-10002903,Zuschuss Carroll,Consumer,Clothing,T-shirt,148,72,7,10/13/2018,10/15/2018,First Class,Debit Card,United States,San Diego,California
+CA-2018-151995,ZC-21910,OFF-AP-10000240,Zuschuss Carroll,Consumer,Clothing,Saree,58,0,4,10/13/2018,10/15/2018,Second Class,UPI,United States,San Diego,California
+CA-2018-151995,ZC-21910,TEC-AC-10001101,Zuschuss Carroll,Consumer,Clothing,Leggings,21,-13,3,10/13/2018,10/15/2018,Standard Class,UPI,United States,New York City,New York
+CA-2018-151995,PJ-19015,FUR-FU-10000794,Pauline Johnson,Consumer,Clothing,Saree,148,25,3,5/14/2021,5/14/2021,First Class,Debit Card,United States,Monroe,Louisiana
+CA-2021-143686,PJ-19015,TEC-AC-10001838,Pauline Johnson,Consumer,Electronics,Electronic Games,144,-7,4,5/14/2021,5/14/2021,Standard Class,COD,United States,San Francisco,California
+CA-2021-143686,BW-11110,OFF-PA-10000061,Bart Watters,Consumer,Furniture,Chairs,145,-104,5,3/20/2019,3/23/2019,Standard Class,UPI,United States,Denver,Colorado
+CA-2019-106565,DB-13210,OFF-PA-10003651,Dean Braden,Corporate,Electronics,Phones,72,-49,1,9/15/2020,9/19/2020,First Class,COD,United States,Denver,Colorado
+CA-2020-149370,CA-12775,OFF-PA-10000304,Cynthia Arntzen,Consumer,Clothing,Shirt,125,15,5,6/28/2018,7/2/2018,First Class,EMI,United States,Omaha,Nebraska
+CA-2018-140858,CA-12775,OFF-BI-10003094,Cynthia Arntzen,Consumer,Clothing,Saree,149,15,3,6/28/2018,7/2/2018,First Class,Debit Card,United States,Omaha,Nebraska
+CA-2018-140858,CA-12775,FUR-CH-10001394,Cynthia Arntzen,Consumer,Clothing,Shirt,72,16,2,6/28/2018,7/2/2018,First Class,COD,United States,Edmonds,Washington
+CA-2018-140858,CA-12775,OFF-BI-10004230,Cynthia Arntzen,Consumer,Clothing,Skirt,71,0,8,6/28/2018,7/2/2018,First Class,COD,United States,Edmonds,Washington
+CA-2018-140858,CA-12775,OFF-PA-10003395,Cynthia Arntzen,Consumer,Furniture,Furnishings,71,-14,4,6/28/2018,7/2/2018,First Class,COD,United States,Edmonds,Washington
+CA-2018-140858,TR-21325,TEC-AC-10002402,Toby Ritter,Consumer,Furniture,Chairs,154,-85,3,6/20/2021,6/27/2021,Same Day,EMI,United States,Edmonds,Washington
+CA-2021-101434,TR-21325,OFF-LA-10003223,Toby Ritter,Consumer,Furniture,Furnishings,191,13,8,6/20/2021,6/27/2021,Same Day,COD,United States,Santa Ana,California
+CA-2021-101434,PG-18820,TEC-AC-10003441,Patrick Gardner,Consumer,Clothing,T-shirt,170,19,5,5/9/2018,5/15/2018,First Class,UPI,United States,Santa Ana,California
+US-2018-102071,PG-18820,TEC-AC-10000109,Patrick Gardner,Consumer,Clothing,Stole,47,-3,2,5/9/2018,5/15/2018,Standard Class,UPI,United States,Milwaukee,Wisconsin
+US-2018-102071,GT-14710,OFF-FA-10002280,Greg Tran,Consumer,Clothing,Saree,122,-47,4,8/21/2021,8/28/2021,Standard Class,EMI,United States,Philadelphia,Pennsylvania
+CA-2021-126956,GT-14710,OFF-SU-10000381,Greg Tran,Consumer,Clothing,Hankerchief,70,26,5,8/21/2021,8/28/2021,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2021-126956,GT-14710,OFF-EN-10004459,Greg Tran,Consumer,Clothing,Stole,155,5,3,8/21/2021,8/28/2021,Standard Class,EMI,United States,Philadelphia,Pennsylvania
+CA-2021-126956,JE-15745,FUR-CH-10000665,Joel Eaton,Consumer,Furniture,Furnishings,67,-86,9,6/16/2021,6/21/2021,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2021-129462,JE-15745,OFF-AP-10003884,Joel Eaton,Consumer,Clothing,Stole,67,-42,3,6/16/2021,6/21/2021,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2021-129462,JE-15745,TEC-PH-10001557,Joel Eaton,Consumer,Furniture,Bookcases,148,-101,2,6/16/2021,6/21/2021,Standard Class,UPI,United States,Philadelphia,Pennsylvania
+CA-2021-129462,JE-15745,TEC-PH-10002085,Joel Eaton,Consumer,Clothing,T-shirt,122,38,6,6/16/2021,6/21/2021,Standard Class,Credit Card,United States,Belleville,New Jersey
+CA-2021-129462,JB-15400,OFF-AR-10002956,Jennifer Braxton,Consumer,Clothing,Stole,16,-5,2,7/23/2020,7/27/2020,Standard Class,UPI,United States,Belleville,New Jersey
+CA-2020-165316,JB-15400,OFF-AP-10003266,Jennifer Braxton,Corporate,Furniture,Furnishings,121,-17,3,7/23/2020,7/27/2020,Standard Class,Credit Card,United States,San Francisco,California
+CA-2020-165316,JB-15400,TEC-MA-10004002,Jennifer Braxton,Corporate,Clothing,Skirt,42,-15,12,7/23/2020,7/27/2020,Standard Class,UPI,United States,San Francisco,California
+CA-2020-165316,LH-17020,OFF-BI-10001071,Lisa Hazard,Corporate,Clothing,Hankerchief,65,-4,6,9/8/2018,9/13/2018,Standard Class,COD,United States,Lakeville,Minnesota
+US-2018-115987,JL-15175,OFF-PA-10001560,James Lanier,Consumer,Clothing,Kurti,119,-43,7,11/4/2021,11/11/2021,Standard Class,Credit Card,United States,Lakeville,Minnesota
+US-2021-156083,EB-13705,TEC-PH-10002365,Ed Braxton,Home Office,Furniture,Furnishings,155,56,3,3/7/2020,3/12/2020,Second Class,EMI,United States,Lakeville,Minnesota
+US-2020-137547,BM-11650,OFF-AR-10004648,Brian Moss,Corporate,Clothing,Saree,119,-5,8,11/20/2019,11/25/2019,Second Class,Credit Card,United States,Florence,Kentucky
+CA-2019-100454,BM-11650,OFF-AR-10002578,Brian Moss,Corporate,Clothing,Hankerchief,118,25,4,11/20/2019,11/25/2019,Second Class,Credit Card,United States,Florence,Kentucky
+CA-2019-100454,BM-11650,FUR-BO-10001519,Brian Moss,Corporate,Electronics,Accessories,116,22,1,11/20/2019,11/25/2019,Second Class,Credit Card,United States,Florence,Kentucky
+CA-2019-100454,EM-14095,OFF-BI-10001294,Eudokia Martin,Corporate,Clothing,Hankerchief,158,-29,10,11/7/2020,11/9/2020,Standard Class,EMI,United States,Florence,Kentucky
+CA-2020-161669,EM-14095,OFF-BI-10001636,Eudokia Martin,Corporate,Clothing,Stole,158,69,3,11/7/2020,11/9/2020,Standard Class,EMI,United States,Tampa,Florida
+CA-2020-161669,EM-14095,OFF-SU-10002503,Eudokia Martin,Corporate,Electronics,Accessories,65,-52,3,11/7/2020,11/9/2020,Standard Class,COD,United States,Tampa,Florida
+CA-2020-161669,EM-14095,OFF-LA-10004093,Eudokia Martin,Corporate,Clothing,Saree,160,-59,2,11/7/2020,11/9/2020,Second Class,EMI,United States,Tampa,Florida
+CA-2020-161669,AF-10885,TEC-PH-10001552,Art Foster,Corporate,Furniture,Chairs,162,20,3,10/13/2019,10/17/2019,Standard Class,EMI,United States,Tyler,Texas
+CA-2019-114300,AF-10885,FUR-CH-10001891,Art Foster,Consumer,Clothing,T-shirt,63,1,4,10/13/2019,10/17/2019,Standard Class,COD,United States,Columbia,Tennessee
+CA-2019-114300,GA-14725,FUR-FU-10003878,Guy Armstrong,Consumer,Clothing,Hankerchief,64,27,5,1/1/2021,1/6/2021,Standard Class,UPI,United States,Fort Worth,Texas
+CA-2021-107503,CK-12760,TEC-AC-10000710,Cyma Kinney,Consumer,Electronics,Accessories,166,-113,4,2/7/2018,2/12/2018,Standard Class,EMI,United States,New York City,New York
+CA-2018-107755,DP-13105,OFF-AR-10002335,Dave Poirier,Corporate,Clothing,T-shirt,167,43,7,6/20/2020,6/25/2020,Standard Class,EMI,United States,New York City,New York
+CA-2020-152534,DP-13105,OFF-PA-10001870,Dave Poirier,Corporate,Furniture,Furnishings,123,17,3,6/20/2020,6/25/2020,First Class,COD,United States,New York City,New York
+CA-2020-152534,VD-21670,OFF-AR-10003373,Valerie Dominguez,Corporate,Clothing,Shirt,63,14,2,5/28/2020,6/4/2020,First Class,COD,United States,Los Angeles,California
+CA-2020-113747,GT-14710,FUR-FU-10004090,Greg Tran,Consumer,Clothing,Saree,891,0,5,2/19/2020,2/24/2020,First Class,COD,United States,Los Angeles,California
+CA-2020-123274,GT-14710,OFF-ST-10000736,Greg Tran,Consumer,Clothing,Hankerchief,75,28,9,2/19/2020,2/24/2020,First Class,UPI,United States,Los Angeles,California
+CA-2020-123274,BK-11260,OFF-PA-10001019,Berenike Kampe,Consumer,Clothing,Hankerchief,62,6,5,8/3/2018,8/8/2018,Standard Class,COD,United States,Los Angeles,California
+CA-2018-125612,BK-11260,OFF-SU-10002537,Berenike Kampe,Consumer,Clothing,Skirt,29,-18,7,8/3/2018,8/8/2018,Standard Class,UPI,United States,Louisville,Kentucky
+CA-2018-125612,BK-11260,OFF-ST-10003221,Berenike Kampe,Consumer,Clothing,Stole,168,18,6,8/3/2018,8/8/2018,Standard Class,Debit Card,United States,Louisville,Kentucky
+CA-2018-125612,SJ-20125,OFF-PA-10004569,Sanjit Jacobs,Consumer,Clothing,Stole,70,24,3,4/10/2021,4/15/2021,Standard Class,UPI,United States,Lorain,Ohio
+CA-2021-161984,SJ-20125,OFF-FA-10000624,Sanjit Jacobs,Home Office,Clothing,Saree,169,55,4,4/10/2021,4/15/2021,Second Class,Debit Card,United States,Linden,New Jersey
+CA-2021-161984,CM-12445,OFF-SU-10001225,Chuck Magee,Home Office,Clothing,Stole,32,-8,2,6/9/2018,6/16/2018,Second Class,COD,United States,Salinas,California
+CA-2018-133851,CM-12445,OFF-AR-10003752,Chuck Magee,Consumer,Clothing,Stole,44,-8,3,6/9/2018,6/16/2018,Standard Class,UPI,United States,Salinas,California
+CA-2018-133851,AJ-10795,TEC-AC-10001714,Anthony Johnson,Consumer,Clothing,Stole,116,-56,5,1/5/2020,1/7/2020,Standard Class,Credit Card,United States,Jackson,Mississippi
+CA-2020-134474,AJ-10795,OFF-AR-10003958,Anthony Johnson,Corporate,Furniture,Chairs,156,21,3,1/5/2020,1/7/2020,Standard Class,COD,United States,New York City,New York
+CA-2020-134474,AJ-10795,TEC-PH-10002923,Anthony Johnson,Corporate,Clothing,Skirt,62,6,6,1/5/2020,1/7/2020,Standard Class,COD,United States,New York City,New York
+CA-2020-134474,AJ-10780,OFF-LA-10004272,Anthony Jacobs,Corporate,Clothing,Saree,54,1,2,1/10/2018,1/15/2018,Standard Class,UPI,United States,New York City,New York
+CA-2018-149020,AJ-10780,FUR-FU-10000965,Anthony Jacobs,Corporate,Clothing,Hankerchief,111,11,9,1/10/2018,1/15/2018,Standard Class,Credit Card,United States,New York City,New York
+CA-2018-149020,LS-16945,OFF-LA-10004853,Linda Southworth,Corporate,Furniture,Chairs,158,-63,4,9/29/2020,10/2/2020,Standard Class,UPI,United States,New York City,New York
+CA-2020-134362,GP-14740,OFF-BI-10003719,Guy Phonely,Corporate,Clothing,Skirt,7,-3,2,4/6/2018,4/10/2018,Standard Class,UPI,United States,New Brunswick,New Jersey
+CA-2018-136742,PK-18910,OFF-BI-10000545,Paul Knutson,Corporate,Clothing,Hankerchief,61,28,2,9/3/2020,9/5/2020,Standard Class,UPI,United States,New Brunswick,New Jersey
+CA-2020-158099,PK-18910,TEC-PH-10002496,Paul Knutson,Home Office,Clothing,Hankerchief,61,-50,4,9/3/2020,9/5/2020,Standard Class,COD,United States,San Francisco,California
+CA-2020-158099,TB-21520,OFF-PA-10003591,Tracy Blumstein,Home Office,Electronics,Accessories,154,26,4,10/19/2019,10/20/2019,Second Class,COD,United States,San Francisco,California
+CA-2019-131128,SM-20005,OFF-PA-10004470,Sally Matthias,Consumer,Clothing,Saree,62,1,3,12/10/2018,12/15/2018,Second Class,COD,United States,Jacksonville,Florida
+CA-2018-148488,SM-20005,OFF-BI-10000315,Sally Matthias,Consumer,Clothing,Saree,169,38,3,12/10/2018,12/15/2018,Second Class,Debit Card,United States,Jacksonville,Florida
+CA-2018-148488,GA-14725,OFF-PA-10001790,Guy Armstrong,Consumer,Electronics,Accessories,61,18,2,8/25/2021,8/29/2021,Standard Class,COD,United States,Jacksonville,Florida
+CA-2021-114636,CC-12430,FUR-FU-10004017,Chuck Clark,Consumer,Clothing,Saree,61,-23,2,1/17/2020,1/21/2020,Standard Class,COD,United States,Springfield,Virginia
+CA-2020-116736,CC-12430,TEC-AC-10003628,Chuck Clark,Home Office,Clothing,Shirt,171,14,9,1/17/2020,1/21/2020,First Class,Debit Card,United States,Springfield,Virginia
+CA-2020-116736,CC-12430,TEC-AC-10002049,Chuck Clark,Home Office,Clothing,Hankerchief,60,-49,8,1/17/2020,1/21/2020,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2020-116736,AG-10765,OFF-BI-10003712,Anthony Garverick,Home Office,Clothing,Stole,25,-11,1,9/17/2018,9/21/2018,First Class,UPI,United States,Lancaster,Pennsylvania
+US-2018-158638,HP-14815,OFF-BI-10003984,Harold Pawlan,Home Office,Clothing,Shirt,163,26,4,11/30/2021,12/2/2021,First Class,COD,United States,Philadelphia,Pennsylvania
+CA-2021-111689,HP-14815,FUR-CH-10004287,Harold Pawlan,Home Office,Electronics,Printers,173,86,1,11/30/2021,12/2/2021,First Class,Debit Card,United States,Philadelphia,Pennsylvania
+CA-2021-111689,DK-13090,OFF-ST-10001321,Dave Kipp,Home Office,Furniture,Bookcases,257,-3,2,10/9/2019,10/13/2019,Standard Class,UPI,United States,Concord,New Hampshire
+CA-2019-129098,GZ-14470,OFF-AR-10001118,Gary Zandusky,Consumer,Clothing,Stole,108,37,2,12/23/2021,12/23/2021,Standard Class,Credit Card,United States,New York City,New York
+US-2021-123463,PM-19135,FUR-FU-10000732,Peter McVee,Consumer,Clothing,Shirt,177,41,4,10/22/2020,10/24/2020,Standard Class,Debit Card,United States,New York City,New York
+CA-2020-165148,LL-16840,FUR-FU-10001424,Lauren Leatherbury,Home Office,Clothing,Hankerchief,106,15,7,4/29/2018,5/4/2018,Standard Class,Credit Card,United States,Charlotte,North Carolina
+CA-2018-134061,JS-15595,OFF-BI-10002071,Jill Stevenson,Consumer,Clothing,Leggings,41,-14,5,4/25/2019,4/28/2019,Standard Class,UPI,United States,Concord,New Hampshire
+CA-2019-143602,OT-18730,OFF-ST-10002486,Olvera Toch,Corporate,Electronics,Accessories,168,-10,3,6/26/2021,7/2/2021,Standard Class,UPI,United States,Concord,New Hampshire
+CA-2021-115364,EL-13735,OFF-BI-10001078,Ed Ludwig,Consumer,Clothing,Stole,60,21,4,10/14/2021,10/19/2021,Standard Class,COD,United States,Concord,New Hampshire
+CA-2021-150707,CK-12760,OFF-PA-10003845,Cyma Kinney,Home Office,Clothing,Stole,31,-11,4,12/9/2018,12/16/2018,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2018-104976,JE-15475,TEC-AC-10000927,Jeremy Ellison,Corporate,Clothing,Saree,179,0,2,6/20/2021,6/26/2021,Second Class,Debit Card,United States,New York City,New York
+CA-2021-132934,JE-15475,OFF-BI-10001098,Jeremy Ellison,Consumer,Clothing,Trousers,106,12,3,6/20/2021,6/26/2021,Standard Class,Credit Card,United States,New York City,New York
+CA-2021-132934,TH-21550,OFF-PA-10001622,Tracy Hopkins,Consumer,Clothing,T-shirt,60,13,2,6/26/2021,6/27/2021,Same Day,COD,United States,Springfield,Virginia
+CA-2021-133256,TH-21550,OFF-AR-10003158,Tracy Hopkins,Home Office,Clothing,Trousers,180,5,3,6/26/2021,6/27/2021,First Class,Debit Card,United States,San Francisco,California
+CA-2021-133256,TH-21550,TEC-PH-10002660,Tracy Hopkins,Home Office,Furniture,Furnishings,60,-10,2,6/26/2021,6/27/2021,Standard Class,COD,United States,Detroit,Michigan
+CA-2021-133256,PC-18745,OFF-ST-10002205,Pamela Coakley,Home Office,Clothing,Stole,59,25,3,11/10/2020,11/12/2020,Second Class,COD,United States,Rochester,New York
+CA-2020-105494,PC-18745,OFF-BI-10003364,Pamela Coakley,Corporate,Electronics,Accessories,170,73,2,11/10/2020,11/12/2020,Standard Class,UPI,United States,Los Angeles,California
+CA-2020-105494,HL-15040,OFF-EN-10001099,Hunter Lopez,Corporate,Clothing,Hankerchief,59,10,2,10/3/2020,10/6/2020,Standard Class,COD,United States,San Diego,California
+CA-2020-140634,MS-17365,OFF-LA-10003923,Maribeth Schnelling,Consumer,Clothing,Skirt,24,-21,7,9/9/2018,9/15/2018,Standard Class,COD,United States,Columbia,Maryland
+CA-2018-144407,GB-14530,OFF-PA-10002250,George Bell,Consumer,Clothing,Leggings,105,-26,8,10/29/2021,10/31/2021,Standard Class,Credit Card,United States,San Francisco,California
+CA-2021-160983,JR-16210,OFF-BI-10004716,Justin Ritter,Corporate,Clothing,Saree,103,46,2,4/10/2020,4/12/2020,Standard Class,Credit Card,United States,New Rochelle,New York
+US-2020-114622,TD-20995,OFF-LA-10001045,Tamara Dahlen,Corporate,Clothing,T-shirt,171,17,6,11/11/2021,11/13/2021,First Class,UPI,United States,New Rochelle,New York
+CA-2021-150959,TD-20995,OFF-BI-10001510,Tamara Dahlen,Consumer,Clothing,Stole,102,13,2,11/11/2021,11/13/2021,First Class,Credit Card,United States,Detroit,Michigan
+CA-2021-150959,DB-13060,TEC-PH-10004536,Dave Brooks,Consumer,Clothing,Hankerchief,98,12,2,9/15/2021,9/17/2021,First Class,Credit Card,United States,Detroit,Michigan
+CA-2021-132353,LC-17140,OFF-PA-10002947,Logan Currie,Consumer,Clothing,Leggings,59,10,4,4/8/2020,4/12/2020,First Class,COD,United States,Detroit,Michigan
+CA-2020-130477,LC-17140,OFF-ST-10002583,Logan Currie,Consumer,Furniture,Furnishings,189,60,4,4/8/2020,4/12/2020,First Class,Debit Card,United States,San Francisco,California
+CA-2020-130477,LC-17140,OFF-PA-10000019,Logan Currie,Consumer,Furniture,Chairs,58,-52,3,4/8/2020,4/12/2020,Second Class,COD,United States,San Francisco,California
+CA-2020-130477,PO-18865,FUR-BO-10003441,Patrick O'Donnell,Consumer,Clothing,Saree,60,3,3,12/30/2021,1/3/2022,Standard Class,UPI,United States,Houston,Texas
+CA-2021-143259,PO-18865,TEC-PH-10004774,Patrick O'Donnell,Consumer,Clothing,Saree,58,-8,2,12/30/2021,1/3/2022,Second Class,COD,United States,Detroit,Michigan
+CA-2021-143259,PO-18865,OFF-BI-10003684,Patrick O'Donnell,Consumer,Furniture,Furnishings,94,20,2,12/30/2021,1/3/2022,First Class,UPI,United States,Auburn,New York
+CA-2021-143259,BE-11335,TEC-PH-10001494,Bill Eplett,Consumer,Clothing,Saree,193,-166,3,9/2/2021,9/7/2021,First Class,EMI,United States,Springfield,Ohio
+CA-2021-137596,BE-11335,TEC-AC-10004666,Bill Eplett,Home Office,Clothing,Stole,199,0,4,9/2/2021,9/7/2021,First Class,EMI,United States,Garland,Texas
+CA-2021-137596,BE-11335,OFF-ST-10003816,Bill Eplett,Home Office,Clothing,T-shirt,202,89,9,9/2/2021,9/7/2021,First Class,EMI,United States,Garland,Texas
+CA-2021-137596,SC-20050,FUR-FU-10001935,Sample Company A,Home Office,Clothing,Hankerchief,58,17,2,5/31/2019,6/7/2019,Standard Class,COD,United States,Chicago,Illinois
+CA-2019-133627,BM-11650,FUR-FU-10004091,Brian Moss,Home Office,Clothing,Kurti,57,-28,2,11/27/2021,11/29/2021,Standard Class,COD,United States,Los Angeles,California
+CA-2021-102519,BM-11650,TEC-AC-10001772,Brian Moss,Corporate,Clothing,Hankerchief,204,-94,4,11/27/2021,11/29/2021,Standard Class,EMI,United States,Los Angeles,California
+CA-2021-102519,KL-16555,FUR-TA-10001520,Kelly Lampkin,Corporate,Electronics,Electronic Games,98,-12,2,6/15/2018,6/21/2018,Standard Class,Credit Card,United States,Los Angeles,California
+US-2018-141215,KL-16555,FUR-CH-10003379,Kelly Lampkin,Corporate,Clothing,Stole,22,-12,3,6/15/2018,6/21/2018,Standard Class,COD,United States,New York City,New York
+US-2018-141215,KL-16555,OFF-BI-10002706,Kelly Lampkin,Corporate,Clothing,Stole,97,17,2,6/15/2018,6/21/2018,Standard Class,Credit Card,United States,New York City,New York
+US-2018-141215,RW-19630,OFF-EN-10000056,Rob Williams,Corporate,Clothing,Leggings,57,24,5,3/5/2020,3/11/2020,Standard Class,COD,United States,New York City,New York
+CA-2020-165218,RW-19630,OFF-ST-10001558,Rob Williams,Corporate,Clothing,T-shirt,97,14,2,3/5/2020,3/11/2020,Standard Class,Credit Card,United States,Jackson,Michigan
+CA-2020-165218,RC-19825,OFF-ST-10002444,Roy Collins,Corporate,Clothing,Stole,97,17,2,12/5/2018,12/12/2018,Standard Class,Credit Card,United States,Jackson,Michigan
+CA-2018-138296,SE-20110,TEC-AC-10002473,Sanjit Engle,Consumer,Clothing,Stole,96,22,5,4/11/2019,4/15/2019,Standard Class,Credit Card,United States,Jackson,Michigan
+CA-2019-111164,SE-20110,TEC-PH-10004531,Sanjit Engle,Consumer,Clothing,Shirt,94,27,2,4/11/2019,4/15/2019,First Class,Credit Card,United States,Norwich,Connecticut
+CA-2019-111164,SE-20110,OFF-AP-10004487,Sanjit Engle,Consumer,Clothing,Stole,26,-17,1,4/11/2019,4/15/2019,First Class,COD,United States,Milwaukee,Wisconsin
+CA-2019-111164,AH-10075,OFF-BI-10003650,Adam Hart,Consumer,Clothing,Stole,93,44,2,9/15/2020,9/20/2020,Standard Class,Credit Card,United States,Milwaukee,Wisconsin
+CA-2020-149797,JM-15535,OFF-PA-10003543,Jessica Myrick,Corporate,Clothing,Stole,93,-65,4,9/13/2018,9/16/2018,Standard Class,Credit Card,United States,San Antonio,Texas
+CA-2018-132962,JM-15535,TEC-AC-10004353,Jessica Myrick,Consumer,Clothing,Hankerchief,92,5,6,9/13/2018,9/16/2018,Standard Class,Credit Card,United States,San Antonio,Texas
+CA-2018-132962,JJ-15760,OFF-AR-10000658,Joel Jenkins,Consumer,Clothing,T-shirt,57,27,2,10/5/2019,10/9/2019,Standard Class,COD,United States,San Antonio,Texas
+CA-2019-115091,JJ-15760,OFF-AP-10000696,Joel Jenkins,Home Office,Furniture,Furnishings,57,7,3,10/5/2019,10/9/2019,Standard Class,COD,United States,Dallas,Texas
+CA-2019-115091,AB-10165,OFF-AR-10003560,Alan Barnes,Home Office,Clothing,Leggings,57,21,4,4/14/2021,4/17/2021,Standard Class,COD,United States,Dallas,Texas
+CA-2021-144932,AB-10165,OFF-AR-10001468,Alan Barnes,Consumer,Clothing,Saree,128,4,3,4/14/2021,4/17/2021,Standard Class,COD,United States,Alexandria,Virginia
+CA-2021-144932,AB-10165,OFF-PA-10004971,Alan Barnes,Consumer,Clothing,Saree,89,-4,5,4/14/2021,4/17/2021,Standard Class,Credit Card,United States,New York City,New York
+CA-2021-144932,RK-19300,OFF-PA-10002195,Ralph Kennedy,Consumer,Furniture,Furnishings,221,26,7,9/2/2021,9/6/2021,Standard Class,COD,United States,New York City,New York
+CA-2021-114216,CG-12040,OFF-PA-10001745,Catherine Glotzbach,Consumer,Clothing,Saree,205,-119,3,6/20/2020,6/24/2020,Standard Class,Debit Card,United States,New York City,New York
+CA-2020-140081,CG-12040,OFF-BI-10004826,Catherine Glotzbach,Home Office,Clothing,Shirt,191,51,5,6/20/2020,6/24/2020,First Class,UPI,United States,New York City,New York
+CA-2020-140081,CG-12040,OFF-PA-10001870,Catherine Glotzbach,Home Office,Clothing,Hankerchief,206,18,4,6/20/2020,6/24/2020,First Class,Debit Card,United States,Philadelphia,Pennsylvania
+CA-2020-140081,CG-12040,OFF-AP-10001058,Catherine Glotzbach,Home Office,Clothing,Hankerchief,56,0,4,6/20/2020,6/24/2020,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2020-140081,RA-19885,TEC-AC-10003911,Ruben Ausman,Home Office,Clothing,Stole,88,16,4,11/5/2021,11/6/2021,Standard Class,Credit Card,United States,Springfield,Virginia
+US-2021-111745,RP-19270,OFF-PA-10000289,Rachel Payne,Corporate,Electronics,Phones,224,58,3,12/13/2019,12/17/2019,First Class,UPI,United States,Springfield,Virginia
+CA-2019-148250,RP-19270,OFF-AP-10003040,Rachel Payne,Corporate,Clothing,T-shirt,193,8,4,12/13/2019,12/17/2019,First Class,UPI,United States,Toledo,Ohio
+CA-2019-148250,KC-16255,OFF-PA-10000350,Karen Carlisle,Corporate,Clothing,Stole,87,36,5,6/19/2020,6/20/2020,First Class,Credit Card,United States,Toledo,Ohio
+CA-2020-105760,RW-19630,OFF-BI-10001759,Rob Williams,Corporate,Clothing,Saree,189,4,1,12/13/2020,12/20/2020,Standard Class,UPI,United States,Toledo,Ohio
+CA-2020-142958,RW-19630,FUR-TA-10000577,Rob Williams,Corporate,Furniture,Chairs,55,-33,2,12/13/2020,12/20/2020,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2020-142958,JL-15850,OFF-PA-10004101,John Lucas,Corporate,Clothing,Saree,85,-1,3,5/29/2019,6/3/2019,Standard Class,Credit Card,United States,Philadelphia,Pennsylvania
+CA-2019-120880,JL-15850,OFF-ST-10001496,John Lucas,Consumer,Electronics,Phones,252,56,2,5/29/2019,6/3/2019,Standard Class,UPI,United States,Philadelphia,Pennsylvania
+CA-2019-120880,JL-15850,OFF-BI-10002931,John Lucas,Consumer,Furniture,Bookcases,197,73,1,5/29/2019,6/3/2019,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2019-120880,CA-12775,FUR-TA-10002356,Cynthia Arntzen,Consumer,Clothing,Stole,17,-3,2,7/26/2019,7/28/2019,First Class,UPI,United States,Philadelphia,Pennsylvania
+US-2019-140200,RB-19795,FUR-FU-10003601,Ross Baird,Consumer,Clothing,Hankerchief,100,28,2,11/28/2021,12/2/2021,Standard Class,UPI,United States,Farmington,New Mexico
+US-2021-110576,RB-19795,FUR-FU-10000576,Ross Baird,Home Office,Clothing,Stole,80,-19,5,11/28/2021,12/2/2021,Standard Class,UPI,United States,Riverside,California
+US-2021-110576,RB-19795,FUR-TA-10004154,Ross Baird,Home Office,Clothing,Trousers,75,29,1,11/28/2021,12/2/2021,First Class,UPI,United States,Riverside,California
+US-2021-110576,RB-19795,OFF-PA-10000788,Ross Baird,Home Office,Clothing,Saree,26,4,2,11/28/2021,12/2/2021,Standard Class,UPI,United States,San Francisco,California
+US-2021-110576,RB-19795,OFF-PA-10002479,Ross Baird,Home Office,Clothing,Skirt,55,12,5,11/28/2021,12/2/2021,Standard Class,COD,United States,Torrance,California
+US-2021-110576,KH-16360,FUR-FU-10001940,Katherine Hughes,Home Office,Clothing,Saree,157,5,9,4/3/2021,4/7/2021,Standard Class,UPI,United States,Torrance,California
+CA-2021-131156,GH-14665,OFF-AR-10001958,Greg Hansen,Consumer,Furniture,Bookcases,200,-60,4,12/28/2021,1/1/2022,Standard Class,UPI,United States,Seattle,Washington
+CA-2021-136539,GH-14665,FUR-BO-10004709,Greg Hansen,Consumer,Clothing,Saree,230,5,2,12/28/2021,1/1/2022,Standard Class,UPI,United States,Seattle,Washington
+CA-2021-136539,SW-20275,OFF-ST-10000604,Scott Williamson,Consumer,Furniture,Bookcases,213,-145,3,11/30/2021,12/4/2021,First Class,Debit Card,United States,Seattle,Washington
+CA-2021-119305,JA-15970,TEC-PH-10002923,Joseph Airdo,Consumer,Clothing,Stole,55,4,2,5/15/2021,5/18/2021,Standard Class,COD,United States,Mesa,Arizona
+CA-2021-102414,JA-15970,OFF-BI-10004465,Joseph Airdo,Consumer,Clothing,Saree,220,-19,2,5/15/2021,5/18/2021,Standard Class,Debit Card,United States,Philadelphia,Pennsylvania
+CA-2021-102414,JA-15970,OFF-PA-10002333,Joseph Airdo,Consumer,Clothing,Hankerchief,150,32,3,5/15/2021,5/18/2021,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2021-102414,DL-12925,FUR-FU-10004188,Daniel Lacy,Consumer,Electronics,Printers,203,84,2,9/22/2019,9/22/2019,Standard Class,UPI,United States,Philadelphia,Pennsylvania
+CA-2019-112571,LW-16990,FUR-CH-10002965,Lindsay Williams,Consumer,Electronics,Accessories,93,31,3,11/14/2021,11/19/2021,Standard Class,UPI,United States,Philadelphia,Pennsylvania
+CA-2021-152142,TB-21190,OFF-BI-10000145,Thomas Brumley,Corporate,Clothing,Hankerchief,290,35,6,11/27/2019,12/1/2019,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2019-160059,CV-12805,OFF-EN-10001335,Cynthia Voltz,Home Office,Clothing,Saree,48,6,1,9/1/2020,9/4/2020,Standard Class,COD,United States,Philadelphia,Pennsylvania
+CA-2020-120859,MS-17365,OFF-LA-10001613,Maribeth Schnelling,Corporate,Electronics,Accessories,221,35,4,9/22/2018,9/24/2018,Standard Class,Debit Card,United States,Round Rock,Texas
+CA-2018-127488,BS-11800,OFF-LA-10004055,Bryan Spruell,Consumer,Clothing,Kurti,55,18,2,4/9/2021,4/11/2021,Standard Class,COD,United States,Round Rock,Texas
+CA-2021-135279,BS-11800,OFF-AR-10004344,Bryan Spruell,Home Office,Electronics,Accessories,227,102,8,4/9/2021,4/11/2021,Second Class,Debit Card,United States,Jackson,Mississippi
+CA-2021-135279,BS-11800,OFF-PA-10004621,Bryan Spruell,Home Office,Clothing,Stole,55,-39,4,4/9/2021,4/11/2021,Second Class,COD,United States,Phoenix,Arizona
+CA-2021-135279,BS-11800,OFF-PA-10001281,Bryan Spruell,Home Office,Electronics,Accessories,207,33,2,4/9/2021,4/11/2021,Second Class,UPI,United States,Phoenix,Arizona
+CA-2021-135279,BS-11800,OFF-LA-10001613,Bryan Spruell,Home Office,Clothing,Saree,64,6,4,4/9/2021,4/11/2021,Same Day,COD,United States,Phoenix,Arizona
+CA-2021-135279,BS-11800,OFF-ST-10001097,Bryan Spruell,Home Office,Clothing,Saree,89,6,5,4/9/2021,4/11/2021,Standard Class,COD,United States,Oceanside,California
+CA-2021-135279,DL-13315,FUR-FU-10001095,Delfina Latchford,Home Office,Clothing,Stole,54,27,2,1/16/2018,1/18/2018,Standard Class,COD,United States,San Francisco,California
+CA-2018-115791,DL-13315,TEC-PH-10004614,Delfina Latchford,Consumer,Clothing,T-shirt,84,41,3,1/16/2018,1/18/2018,First Class,Credit Card,United States,Fayetteville,Arkansas
+CA-2018-115791,DL-13315,OFF-BI-10001575,Delfina Latchford,Consumer,Electronics,Electronic Games,209,-21,2,1/16/2018,1/18/2018,Second Class,UPI,United States,San Francisco,California
+CA-2018-115791,DL-13315,OFF-LA-10001074,Delfina Latchford,Consumer,Clothing,Stole,79,33,4,1/16/2018,1/18/2018,First Class,UPI,United States,Boca Raton,Florida
+CA-2018-115791,PO-19195,TEC-PH-10003555,Phillina Ober,Consumer,Clothing,T-shirt,54,8,4,10/5/2021,10/8/2021,First Class,COD,United States,New York City,New York
+US-2021-103247,PO-19195,OFF-BI-10004492,Phillina Ober,Home Office,Clothing,Saree,229,59,9,10/5/2021,10/8/2021,First Class,Debit Card,United States,New York City,New York
+US-2021-103247,TD-20995,OFF-BI-10002012,Tamara Dahlen,Home Office,Clothing,Hankerchief,158,38,3,7/9/2021,7/15/2021,First Class,UPI,United States,New York City,New York
+US-2021-100209,BW-11110,TEC-MA-10000822,Bart Watters,Consumer,Electronics,Phones,248,105,2,1/7/2021,1/10/2021,First Class,Debit Card,United States,New York City,New York
+CA-2021-159366,RW-19690,OFF-BI-10000848,Robert Waldorf,Corporate,Clothing,Saree,199,6,2,5/30/2020,5/31/2020,First Class,UPI,United States,New York City,New York
+CA-2020-145499,KB-16600,OFF-PA-10004156,Ken Brennan,Consumer,Clothing,Trousers,253,-11,1,12/9/2019,12/12/2019,Second Class,Debit Card,United States,New York City,New York
+CA-2019-157035,EB-13870,FUR-CH-10003199,Emily Burns,Corporate,Clothing,Saree,257,-252,4,10/3/2020,10/8/2020,Second Class,Debit Card,United States,Philadelphia,Pennsylvania
+CA-2020-144939,TZ-21580,OFF-AR-10000034,Tracy Zic,Consumer,Electronics,Accessories,193,33,5,11/11/2018,11/14/2018,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2018-163419,TZ-21580,TEC-PH-10000560,Tracy Zic,Consumer,Clothing,T-shirt,109,35,6,11/11/2018,11/14/2018,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2018-163419,TZ-21580,FUR-CH-10000665,Tracy Zic,Consumer,Electronics,Accessories,214,30,3,11/11/2018,11/14/2018,Second Class,COD,United States,Philadelphia,Pennsylvania
+CA-2018-163419,AS-10630,OFF-LA-10001569,Ann Steele,Consumer,Clothing,Saree,141,7,7,9/29/2021,10/5/2021,Second Class,COD,United States,New York City,New York
+CA-2021-100314,AS-10630,OFF-EN-10000461,Ann Steele,Home Office,Furniture,Furnishings,201,32,4,9/29/2021,10/5/2021,Standard Class,UPI,United States,New York City,New York
+CA-2021-100314,AS-10630,TEC-MA-10003066,Ann Steele,Home Office,Clothing,Shirt,54,12,4,9/29/2021,10/5/2021,First Class,COD,United States,Portland,Oregon
+CA-2021-100314,TS-21340,OFF-BI-10004022,Toby Swindell,Home Office,Clothing,Shirt,83,6,6,3/10/2019,3/10/2019,First Class,EMI,United States,Detroit,Michigan
+CA-2019-146829,JG-15805,FUR-FU-10004071,John Grady,Consumer,Clothing,Saree,54,-3,3,5/21/2021,5/26/2021,First Class,COD,United States,Wilmington,North Carolina
+CA-2021-167899,JG-15805,OFF-AR-10001988,John Grady,Corporate,Clothing,T-shirt,53,5,3,5/21/2021,5/26/2021,Standard Class,COD,United States,Columbus,Indiana
+CA-2021-167899,SL-20155,FUR-CH-10004086,Sara Luxemburg,Corporate,Electronics,Phones,258,-27,2,3/29/2019,3/31/2019,Second Class,Debit Card,United States,New York City,New York
+CA-2019-153549,TS-21610,OFF-BI-10001036,Troy Staebel,Home Office,Clothing,Saree,199,8,2,9/9/2020,9/11/2020,Second Class,COD,United States,Louisville,Colorado
+CA-2020-110023,RF-19735,OFF-FA-10002983,Roland Fjeld,Consumer,Clothing,Kurti,82,-27,3,8/26/2020,8/27/2020,Second Class,EMI,United States,Louisville,Colorado
+CA-2020-105585,RF-19735,OFF-PA-10003625,Roland Fjeld,Consumer,Clothing,Stole,139,36,3,8/26/2020,8/27/2020,Standard Class,COD,United States,Louisville,Colorado
+CA-2020-105585,MW-18235,OFF-BI-10003925,Mitch Willingham,Consumer,Clothing,Stole,53,15,2,5/21/2018,5/25/2018,Standard Class,COD,United States,Pasadena,Texas
+CA-2018-117639,MW-18235,TEC-PH-10001530,Mitch Willingham,Corporate,Clothing,Stole,53,1,4,5/21/2018,5/25/2018,Standard Class,COD,United States,Pasadena,Texas
+CA-2018-117639,RD-19585,OFF-EN-10003862,Rob Dowd,Corporate,Furniture,Furnishings,101,38,2,10/28/2019,11/3/2019,Same Day,COD,United States,Pasadena,Texas
+CA-2019-162537,RD-19585,OFF-ST-10004258,Rob Dowd,Consumer,Electronics,Printers,262,215,2,10/28/2019,11/3/2019,Standard Class,Debit Card,United States,Houston,Texas
+CA-2019-162537,RD-19585,FUR-FU-10002885,Rob Dowd,Consumer,Clothing,T-shirt,82,-39,5,10/28/2019,11/3/2019,Standard Class,EMI,United States,Auburn,New York
+CA-2019-162537,RD-19585,FUR-FU-10001918,Rob Dowd,Consumer,Clothing,Hankerchief,154,39,3,10/28/2019,11/3/2019,Second Class,COD,United States,Auburn,New York
+CA-2020-152156 ,CG-12          ,FUR-BO-1017    ,Claire Gute,Consumer,Electronics,Electronic Games,1096,658,7,11/8/2020,11/11/2020,First Class,COD,United States,Henderson,Kentucky
+CA-2020-152156 ,CG-12          ,FUR-BO-1017    ,Claire Gute,Consumer,Electronics,Electronic Games,1096,658,7,11/8/2020,11/11/2020,First Class,COD,United States,Henderson,Kentucky
+CA-2020-152156 ,CG-12520       ,FUR-CH-10000454,Madhav,Consumer,Furniture,Chairs,9,36,36,11/8/2020,11/11/2020,First Class,EMI,Sweden,Mathura,Uttar Pradesh
+CA-2020-138688 ,DV-13045       ,OFF-LA-10000240,Madan Mohan,Consumer,Office Supplies,Labels,255,599,599,6/12/2020,6/16/2020,Standard Class,EMI,United Kingdom,Delhi,Delhi
+US-2019-108966 ,SO-20335       ,FUR-TA-10000577,Gopal,Consumer,Furniture,Tables,48,92,92,10/11/2019,10/18/2019,Standard Class,Credit Card,France,Mathura,Uttar Pradesh
+US-2019-108966 ,SO-20335       ,OFF-ST-10000760,Vishakha,Consumer,Office Supplies,Storage,9,18,18,10/11/2019,10/18/2019,Standard Class,Credit Card,United Kingdom,Mumbai,Maharashtra
+CA-2018-115812 ,BH-11710       ,FUR-FU-10001487,Sudevi,Consumer,Furniture,Furnishings,40,50,50,6/9/2018,6/14/2018,Standard Class,Credit Card,France,Indore,Madhya Pradesh
+CA-2018-115812 ,BH-11710       ,OFF-AR-10002833,Shiva,Consumer,Office Supplies,Art,48,107,107,6/9/2018,6/14/2018,Standard Class,COD,France,Prayagraj,Uttar Pradesh
+CA-2018-115812 ,BH-11710       ,TEC-PH-10002275,Sarita,Consumer,Technology,Phones,122,865,865,6/9/2018,6/14/2018,Standard Class,UPI,France,Pune,Maharashtra
+CA-2018-115812 ,BH-11710       ,OFF-BI-10003910,Shishu,Consumer,Office Supplies,Binders,4,18,18,6/9/2018,6/14/2018,Standard Class,UPI,Italy,Pune,Maharashtra
